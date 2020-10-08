@@ -26,6 +26,7 @@ class Solution(object):
         input: int[] coins, int amount
         return: int
         """
+        # minimum of coin change using amount i
         dp = [amount + 1] * (amount + 1)
         dp[0] = 0
         for i in range(1, amount+1):
