@@ -60,3 +60,29 @@ class Solution:
             self.helper(nums, i + 1, formed, ans)
             formed.pop()
         
+ """
+ BFS approach 
+ """       
+class Solution:
+    """
+    @param nums: A set of numbers
+    @return: A list of lists
+    """
+    def subsets(self, nums):
+        # write your code here
+        nums.sort()
+        queue = collections.deque([(0, [])])
+        
+        ans = []
+        while queue:
+            i, path = queue.pop()
+            
+            if i == len(nums):
+                ans.append(path)
+                continue
+            
+            queue.append((i + 1, path))
+            queue.append((i + 1, path + [nums[i]]))
+        
+        
+        return ans     
