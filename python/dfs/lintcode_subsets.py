@@ -1,0 +1,62 @@
+"""
+author: Wei Li
+date: 10/08/2020
+
+https://www.lintcode.com/problem/subsets/description?_from=ladder&&fromId=161
+
+17. Subsets
+
+Given a set of distinct integers, return all possible subsets.
+
+Example 1:
+
+Input: [0]
+Output:
+[
+  [],
+  [0]
+]
+Example 2:
+
+Input: [1,2,3]
+Output:
+[
+  [3],
+  [1],
+  [2],
+  [1,2,3],
+  [1,3],
+  [2,3],
+  [1,2],
+  []
+]
+
+Challenge:
+Can you do it in both recursively and iteratively?
+
+Constrains:
+Elements in a subset must be in non-descending order.
+The solution set must not contain duplicate subsets.
+"""
+class Solution:
+    """
+    @param nums: A set of numbers
+    @return: A list of lists
+    """
+    def subsets(self, nums):
+        # write your code here
+        
+        nums.sort()
+        ans = []
+        self.helper(nums, 0, [], ans)
+        
+        return ans
+    
+    def helper(self, nums, index, formed, ans):
+        ans.append(formed[:])
+        
+        for i in range(index, len(nums)):
+            formed.append(nums[i])
+            self.helper(nums, i + 1, formed, ans)
+            formed.pop()
+        
