@@ -50,9 +50,7 @@ class TwoSum:
         """
         Add the number to an internal data structure..
         """
-        if number not in self.total_num:
-            self.total_num[number] = 0
-        self.total_num[number] += 1
+        self.total_num = self.total_num.get(number, 0) + 1
 
     def find(self, value: int) -> bool:
         """
