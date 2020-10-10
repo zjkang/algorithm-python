@@ -38,28 +38,29 @@ Constrains:
 Elements in a subset must be in non-descending order.
 The solution set must not contain duplicate subsets.
 """
+
+
 class Solution:
     """
     @param nums: A set of numbers
     @return: A list of lists
     """
+
     def subsets(self, nums):
-        # write your code here
-        
         nums.sort()
         ans = []
         self.helper(nums, 0, [], ans)
-        
+
         return ans
-    
+
     def helper(self, nums, index, formed, ans):
         ans.append(formed[:])
-        
+
         for i in range(index, len(nums)):
             formed.append(nums[i])
             self.helper(nums, i + 1, formed, ans)
             formed.pop()
-        
+
  """
  BFS approach 
  """       
@@ -84,5 +85,24 @@ class Solution:
             queue.append((i + 1, path))
             queue.append((i + 1, path + [nums[i]]))
         
-        
-        return ans     
+        return ans   
+
+"""
+DFS method II
+"""
+class Solution:
+   def subsets(self, nums):
+       self.result = []
+       self.search(sorted(nums), 0, [])
+       return self.result
+
+   def dfs(self, nums, index, oneset):
+       if index == len(nums):
+           self.result.append(list(oneset))
+           return
+       # select nums[index]
+       oneset.append(nums[index])
+       self.dfs(nums, index + 1, oneset)
+       oneset.pop()
+       # not select nums[index]
+       self.dfs(nums, index + 1, oneset)
