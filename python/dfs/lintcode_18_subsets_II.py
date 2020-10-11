@@ -37,27 +37,52 @@ Each element in a subset must be in non-descending order.
 The ordering between two subsets is free.
 The solution set must not contain duplicate subsets.
 """
+
+
 class Solution:
     """
     @param nums: A set of numbers.
     @return: A list of lists. All valid subsets.
     """
+
     def subsetsWithDup(self, nums):
         # write your code here
         nums.sort()
-        
+
         ans = []
         self.helper(nums, 0, [], ans)
-        
+
         return ans
-    
+
     def helper(self, nums, index, formed, ans):
         ans.append(formed[:])
-        
+
         for i in range(index, len(nums)):
             if i > index and nums[i] == nums[i - 1]:
                 continue
-            
+
             formed.append(nums[i])
             self.helper(nums, i + 1, formed, ans)
             formed.pop()
+
+
+# DFS 2: binary tree with pruning
+class Solution:
+    def subsetsWithDup(self, nums):
+        if not nums:
+            return [[]]
+        res = []
+        self.dfs(sorted(nums), 0, [], res)
+        return res
+
+    def dfs(self, nums, index, cur, res):
+        if index == len(nums):
+            res.append(list(cur))
+            return
+        cur.append(nums[index])
+        self.dfs(nums, index + 1, cur, res)
+        cur.pop()
+        # not selected
+        while index + 1 < len(nums) and nums[index] == nums[index + 1]:
+            index += 1
+        self.dfs(nums, index + 1, cur, res)
