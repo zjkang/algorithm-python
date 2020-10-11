@@ -29,6 +29,8 @@ class Solution(object):
         if len(oneset) == k:
             self.result.append("".join(oneset))
             return
+        if len(oneset) > k:
+            return
         if len(set) == index:
             return
         # select set[index]
