@@ -17,6 +17,7 @@ Note: you can assume that no duplicate edges will appear in edges. Since all edg
 """
 
 
+# method 1: connected + (|E|==|V|-1)
 class Solution(object):
     def validTree(self, n, edges):
         """
@@ -42,3 +43,32 @@ class Solution(object):
         visited.add(node)
         for neighbor in graph[node]:
             self.dfs(neighbor, graph, visited)
+
+
+# method 2: acyclic + (|E|==|V|-1)
+class Solution(object):
+    def validTree(self, n, edges):
+        """
+        input: int n, int[][] edges
+        return: boolean
+        """
+        if len(edges) != n-1:
+            return False
+        visited = set()
+        graph = {i: [] for i in range(n)}
+        for u, v in edges:
+            graph[u].append(v)
+            graph[v].append(u)
+        for i in range(n):
+            if i not in visited and self.is_cyclic(i, -1, graph, visited):
+                return False
+        return True
+
+    def is_cyclic(self, node, prev, graph, visited):
+        if node in visited:
+            return True
+        visited.add(node)
+        for neighbor in graph[node]:
+            if neighbor != prev and self.is_cyclic(neighbor, node, graph, visited):
+                return True
+        return False
