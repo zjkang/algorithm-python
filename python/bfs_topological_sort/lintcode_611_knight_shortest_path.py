@@ -79,13 +79,11 @@ class Solution:
         
         queue.append((source.x, source.y, 0))
         
-        ans = float('inf')
-        
         while queue:
             x, y, count = queue.popleft()
             
             if x == destination.x and y == destination.y:
-                ans = min(ans, count)
+                return count
                 
             for d in direction:
                 nx, ny = x + d[0], y + d[1]
@@ -93,18 +91,5 @@ class Solution:
                 if 0 <= nx < M and 0 <= ny < N and grid[nx][ny] == 0:
                     grid[nx][ny] = 1
                     queue.append((nx, ny, count + 1))
-        if ans == float('inf'):
-            return -1
-        return ans            
-                    
-        
 
-                
-            
-                
-            
-        
-        
-        
-
-            
+        return -1          

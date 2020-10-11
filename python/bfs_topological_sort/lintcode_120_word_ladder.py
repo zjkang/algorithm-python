@@ -45,25 +45,21 @@ class Solution:
         
         
         queue = collections.deque([(start, 1)])
-        ans = float('inf')
         visited = set([start])
         
         while queue:
-            curr = queue.popleft()
-            next_words = self.get_next_words(curr[0])
+            word, path = queue.popleft()
+            next_words = self.get_next_words(word)
             
             for n in next_words:
                 if n == end:
-                    ans = min(ans, curr[1] + 1)
+                    return path
                     
                 if n in dict and n not in visited:
                     visited.add(n)
-                    queue.append((n, curr[1] + 1))
+                    queue.append((n, path + 1))
         
-        if ans == float('inf'):
-            return 0
-        
-        return ans    
+        return 0
     
     def get_next_words(self, curr):
         words = []
@@ -77,5 +73,3 @@ class Solution:
                 words.append(left + char + right)
         
         return words        
-            
-            

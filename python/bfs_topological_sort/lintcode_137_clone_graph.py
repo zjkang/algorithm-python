@@ -74,7 +74,7 @@ class Solution:
                     visited.add(neighbor)
                     queue.append(neighbor)
         
-        return list(visited)
+        return visited
         
     def copy_nodes(self, nodes):
         mapping = {}
@@ -90,13 +90,3 @@ class Solution:
             for neighbor in node.neighbors:
                 new_neighbor = mapping[neighbor]
                 new_node.neighbors.append(new_neighbor)
-                
-                
-            
-                
-            
-        
-        
-        
-
-            

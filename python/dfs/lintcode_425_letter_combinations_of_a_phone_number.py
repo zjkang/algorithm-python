@@ -48,8 +48,7 @@ class Solution:
         if index == len(digits):
             ans.append(formed)
             return
-        
-       
+
         string_val = mapping[digits[index]]
         
         for char in string_val:
@@ -69,5 +68,3 @@ class Solution:
         }
         
         return mapping
-        
-        
