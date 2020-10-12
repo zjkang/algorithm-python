@@ -34,8 +34,6 @@ class Solution:
         m = Counter(s)
         visited = defaultdict(int)
         res = ['0']
-        print(m)
-        print(visited)
         for a in s:
             m[a] -= 1
             if visited[a]:
