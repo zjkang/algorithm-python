@@ -71,3 +71,53 @@ class UnionFind:
         for p in path:
             self.parent[p] = a
         return a
+
+
+# dfs solution: find cycle
+class Solution:
+    def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
+        if not edges:
+            return []
+
+        graph = {}
+        for idx, (u, v) in enumerate(edges):
+            graph[(u, v)] = idx+1
+            graph[(v, u)] = idx+1
+
+        visited = set()
+        path = []
+        if (not self.find_cycle(edges[0][0], path, visited, -1, graph, len(edges))):
+            return []
+
+        # find the largest index in the cycle
+        large_index = -1
+        res_start, res_end = -1, -1
+        for i in range(len(path)):
+            u, v = path[i], path[(i+1) % len(path)]
+            if graph[(u, v)] > large_index:
+                large_index = graph[(u, v)]
+                res_start = u
+                res_end = v
+        if res_start > res_end:
+            res_start, res_end = res_end, res_start
+        return [res_start, res_end]
+
+    def find_cycle(self, cur, path, visited, prev, graph, n):
+        # find the cycle path after removing extra nodes
+        if cur in visited:
+            while path and path[0] != cur:
+                path.pop(0)
+            return True
+
+        visited.add(cur)
+        path.append(cur)
+
+        for nei in range(1, n+1):
+            if nei == cur or nei == prev or (cur, nei) not in graph:
+                continue
+            if self.find_cycle(nei, path, visited, cur, graph, n):
+                return True
+
+        visited.remove(cur)
+        path.pop()
+        return False
