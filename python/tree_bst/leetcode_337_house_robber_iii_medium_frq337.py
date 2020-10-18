@@ -39,16 +39,16 @@ Explanation: Maximum amount of money the thief can rob = 4 + 5 = 9.
 class Solution:
     def rob(self, root: TreeNode) -> int:
         return max(self.dfs(root))
-        
-    
-    def dfs(self, root):
+
+  def dfs(self, root):
         if not root:
             return 0, 0
-        
+
         rob_left, not_rob_left = self.dfs(root.left)
         rob_right, not_rob_right = self.dfs(root.right)
-        
+
         rob_curr = root.val + not_rob_left + not_rob_right
-        not_rob_curr = max(rob_left, not_rob_left) + max(rob_right, not_rob_right)
-        
+        not_rob_curr = max(rob_left, not_rob_left) + \
+            max(rob_right, not_rob_right)
+
         return rob_curr, not_rob_curr
