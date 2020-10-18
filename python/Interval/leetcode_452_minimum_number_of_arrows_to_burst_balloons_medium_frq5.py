@@ -12,30 +12,26 @@ An arrow can be shot up exactly vertically from different points along the x-axi
 
 Given an array points where points[i] = [xstart, xend], return the minimum number of arrows that must be shot to burst all balloons.
 
- 
-
 Example 1:
-
 Input: points = [[10,16],[2,8],[1,6],[7,12]]
 Output: 2
 Explanation: One way is to shoot one arrow for example at x = 6 (bursting the balloons [2,8] and [1,6]) and another arrow at x = 11 (bursting the other two balloons).
-Example 2:
 
+Example 2:
 Input: points = [[1,2],[3,4],[5,6],[7,8]]
 Output: 4
-Example 3:
 
+Example 3:
 Input: points = [[1,2],[2,3],[3,4],[4,5]]
 Output: 2
-Example 4:
 
+Example 4:
 Input: points = [[1,2]]
 Output: 1
-Example 5:
 
+Example 5:
 Input: points = [[2,3],[2,3]]
 Output: 1
- 
 
 Constraints:
 
