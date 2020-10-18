@@ -31,8 +31,7 @@ class Solution:
         for _, delta in sorted(points):
             on_going += delta
             rooms = max(on_going, rooms)
-        
-        
+
         return rooms
 
 # heap
