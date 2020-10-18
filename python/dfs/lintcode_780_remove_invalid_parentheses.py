@@ -10,26 +10,23 @@ Remove the minimum number of invalid parentheses in order to make the input stri
 
 Example
 Example 1:
-
 Input:
 "()())()"
 Ouput:
 ["(())()","()()()"]
-Example 2:
 
+Example 2:
 Input:
 "(a)())()"
 Output:
  ["(a)()()", "(a())()"]
-Example 3:
 
+Example 3:
 Input:
 ")(" 
 Output:
  [""]
 """
-
-
 class Solution:
     def removeInvalidParentheses(self, s):
         res = []
