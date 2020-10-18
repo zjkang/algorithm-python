@@ -22,8 +22,8 @@ Input: [3,2,3,null,3,null,1]
 
 Output: 7 
 Explanation: Maximum amount of money the thief can rob = 3 + 3 + 1 = 7.
-Example 2:
 
+Example 2:
 Input: [3,4,5,1,3,null,1]
 
      3

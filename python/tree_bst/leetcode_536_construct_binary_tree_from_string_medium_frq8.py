@@ -15,16 +15,14 @@ You always start to construct the left child node of the parent first if it exis
  
 
 Example 1:
-
-
 Input: s = "4(2(3)(1))(6(5))"
 Output: [4,2,6,3,1,5]
-Example 2:
 
+Example 2:
 Input: s = "4(2(3)(1))(6(5)(7))"
 Output: [4,2,6,3,1,5,7]
-Example 3:
 
+Example 3:
 Input: s = "-4(2(3)(1))(6(5)(7))"
 Output: [-4,2,6,3,1,5,7]
  
