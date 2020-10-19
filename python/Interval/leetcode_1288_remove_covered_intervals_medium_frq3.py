@@ -41,19 +41,21 @@ intervals[i].length == 2
 All the intervals are unique.
 
 """
+
+
 class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
         if not intervals:
             return 0
-        
-        intervals.sort(key = lambda x: (x[0], -x[1]))
-        
+
+        intervals.sort(key=lambda x: (x[0], -x[1]))
+
         count = 0
         pre_end = 0
-        
+
         for _, end in intervals:
             if pre_end < end:
                 pre_end = end
                 count += 1
-        
+
         return count

@@ -39,24 +39,26 @@ Constraints:
 points[i].length == 2
 -231 <= xstart < xend <= 231 - 1
 """
+
+
 class Solution:
     def findMinArrowShots(self, points: List[List[int]]) -> int:
         if not points:
             return 0
-        
+
         if len(points) == 1:
-            return 1 
-        
+            return 1
+
         points.sort()
-        
+
         shoots = 1
         end = points[0][1]
-        
+
         for i in range(1, len(points)):
             if points[i][0] > end:
                 shoots += 1
                 end = points[i][1]
             else:
                 end = min(points[i][1], end)
-        
+
         return shoots

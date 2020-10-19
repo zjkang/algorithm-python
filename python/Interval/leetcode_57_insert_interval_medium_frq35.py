@@ -46,6 +46,7 @@ newInterval.length == 2
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         start, end = newInterval
+
         is_checked = False
         ans = []
 

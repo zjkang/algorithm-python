@@ -17,15 +17,18 @@ Input: [[7,10],[2,4]]
 Output: 1
 NOTE: input types have been changed on April 15, 2019. Please reset to default code definition to get new method signature.
 """
+import heapq
+
+
 # scan line
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         points = []
-        
+
         for start, end in intervals:
             points.append((start, 1))
             points.append((end, -1))
-        
+
         on_going = 0
         rooms = 0
         for _, delta in sorted(points):
@@ -34,8 +37,8 @@ class Solution:
 
         return rooms
 
+
 # heap
-import heapq
 class Solution:
     def minMeetingRooms(self, intervals: List[List[int]]) -> int:
         heap, rooms = [], 0
