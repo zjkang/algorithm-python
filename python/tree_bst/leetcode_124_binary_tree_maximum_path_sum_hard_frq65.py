@@ -46,4 +46,3 @@ class Solution:
         curr_max_so_far = max(max(left_max_so_far, right_max_so_far), left_max_ending_here + right_max_ending_here + root.val)
         
         return curr_max_so_far, root.val + max(left_max_ending_here, right_max_ending_here)
-        
