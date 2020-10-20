@@ -38,28 +38,55 @@ intervals[i].length == 2
 The start point of each interval is unique.
 """
 # heap + sort
+import bisect
 import heapq
+
+
 class Solution:
     def findRightInterval(self, intervals: List[List[int]]) -> List[int]:
         heap, result = [], [-1] * len(intervals)
-               
-        for i, interval in sorted(enumerate(intervals), key = lambda x: x[1]):
+
+        for i, interval in sorted(enumerate(intervals), key=lambda x: x[1]):
             while heap and heap[0][0] <= interval[0]:
                 _, idx = heapq.heappop(heap)
                 result[idx] = i
-            
+
             heapq.heappush(heap, (interval[1], i))
-        
+
         return result
-        
+
 
 # Binary Search
-import bisect
 class Solution:
     def findRightInterval(self, intervals: List[List[int]]) -> List[int]:
-        starts = sorted((interval[0], i) for i, interval in enumerate(intervals)) + [(float('inf'), -1)]
+        starts = sorted((interval[0], i) for i, interval in enumerate(
+            intervals)) + [(float('inf'), -1)]
         result = []
         for interval in intervals:
             idx = bisect.bisect_left(starts, (interval[1],))
             result.append(starts[idx][1])
-        return result        
+        return result
+
+
+# sweep line
+class Solution:
+    def findRightInterval(self, intervals: List[List[int]]) -> List[int]:
+        if not intervals:
+            return []
+        if len(intervals) == 1:
+            return [-1]
+        length = len(intervals)
+        sorted_intrs = []
+        for idx, intr in enumerate(intervals):
+            sorted_intrs.append((intr[0], 1, idx))
+            sorted_intrs.append((intr[1], 0, idx))
+        sorted_intrs.sort()
+        stack = []
+        res = [-1] * length
+        for pt, is_start, idx in sorted_intrs:
+            if is_start:
+                while stack:
+                    res[stack.pop()] = idx
+            else:
+                stack.append(idx)
+        return res

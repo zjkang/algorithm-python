@@ -23,25 +23,26 @@ Constraints:
 
 intervals[i][0] <= intervals[i][1]
 """
+
+
 class Solution:
     def merge(self, intervals: List[List[int]]) -> List[List[int]]:
         if not intervals:
             return []
-        
-        #first sort
-        intervals.sort(key = lambda x: x[0])
+
+        # first sort
+        intervals.sort(key=lambda x: x[0])
         if len(intervals) == 1:
             return intervals
-        
+
         result = [intervals[0]]
-        
+
         curr = 1
         while curr < len(intervals):
             if result[-1][1] < intervals[curr][0]:
                 result.append(intervals[curr])
             else:
                 result[-1][1] = max(result[-1][1], intervals[curr][1])
-            
             curr += 1
-        
+
         return result

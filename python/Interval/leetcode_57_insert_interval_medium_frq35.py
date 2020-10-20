@@ -31,7 +31,6 @@ Example 5:
 Input: intervals = [[1,5]], newInterval = [2,7]
 Output: [[1,7]]
  
-
 Constraints:
 
 0 <= intervals.length <= 104
@@ -41,20 +40,29 @@ intervals is sorted by intervals[i][0] in ascending order.
 newInterval.length == 2
 0 <= newInterval[0] <= newInterval[1] <= 105
 """
+
+
 # Greedy
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
         start, end = newInterval
-        
-        left, right = [], []
+
+        is_checked = False
+        ans = []
+
         for interval in intervals:
             if interval[0] > end:
-                right.append(interval)
+                if not is_checked:
+                    ans.append([start, end])
+                    is_checked = True
+                ans.append(interval)
             elif interval[1] < start:
-                left.append(interval)
+                ans.append(interval)
             else:
                 start = min(start, interval[0])
                 end = max(end, interval[1])
-                
-        
-        return left + [[start, end]] + right
+
+        if not is_checked:
+            ans.append([start, end])
+
+        return ans
