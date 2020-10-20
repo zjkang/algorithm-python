@@ -69,7 +69,4 @@ class Solution:
             for neighbor in node.neighbors:
                 node_to_indegree[neighbor] += 1
         
-        return node_to_indegree        
-        
-        
-            
+        return node_to_indegree              
