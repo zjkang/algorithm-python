@@ -2,7 +2,7 @@
 author: Wei Li
 date: 10/17/2020
 
-https://leetcode.com/problems/meeting-rooms-ii/
+https://leetcode.com/problems/data-stream-as-disjoint-intervals/
 
 352. Data Stream as Disjoint Intervals
 
