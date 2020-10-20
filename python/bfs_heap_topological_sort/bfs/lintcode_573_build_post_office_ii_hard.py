@@ -105,3 +105,67 @@ class Solution:
             return None
         else:
             return distance
+
+
+# 2
+WALL = 2
+HOUSE = 1
+EMPTY = 0
+
+DR = [0,-1,0,1]
+DC = [-1,0,1,0]
+
+def shortestDistance(self, grid):
+    if grid is None or len(grid) == 0 or len(grid[0]) == 0:
+        return -1
+    
+    m = len(grid)
+    n = len(grid[0])
+    
+    dist_sum = [[0] * n for _ in range(m)]
+    visited = [[0] * n for _ in range(m)]
+    
+    counter = 0
+    for i in range(m):
+        for j in range(n):
+            if grid[i][j] == self.HOUSE:
+                counter += 1
+                self.bfs(grid,i,j, dist_sum, visited)
+                
+    import sys
+    res = sys.maxsize
+    
+    for i in range(m):
+        for j in range(n):
+            if grid[i][j] == self.EMPTY and visited[i][j] == counter:
+                res = min(res, dist_sum[i][j])
+    
+    return -1 if res == sys.maxsize else res
+        
+    
+def bfs(self, grid, pos_r, pos_c, dist_sum, visited):
+    m = len(grid)
+    n = len(grid[0])
+    
+    import queue
+    q = queue.Queue()
+    
+    is_visited = [[False] * n for _ in range(m)]
+    
+    q.put((pos_r,pos_c))
+    
+    level = 0
+    while not q.empty():
+        level += 1
+        size = q.qsize()
+        for _ in range(size):
+            (cur_r, cur_c) = q.get()
+            for i in range(4):
+                r = cur_r + self.DR[i]
+                c = cur_c + self.DC[i]
+                if r >= 0 and r < m and c >= 0 and c < n and not is_visited[r][c] and grid[r][c] == self.EMPTY:
+                    visited[r][c] += 1
+                    dist_sum[r][c] += level
+                    
+                    is_visited[r][c] = True
+                    q.put((r,c))
