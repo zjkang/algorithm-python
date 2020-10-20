@@ -31,6 +31,8 @@ All words contain only lowercase alphabetic characters.
 You may assume no duplicates in the word list.
 You may assume beginWord and endWord are non-empty and are not the same.
 """
+
+
 class Solution:
     """
     @param: start: a string
@@ -38,38 +40,37 @@ class Solution:
     @param: dict: a set of string
     @return: An integer
     """
+
     def ladderLength(self, start, end, dict):
-        # write your code here
         if not start or not end:
             return 0
-        
-        
+
         queue = collections.deque([(start, 1)])
         visited = set([start])
-        
+
         while queue:
             word, path = queue.popleft()
             next_words = self.get_next_words(word)
-            
+
             for n in next_words:
                 if n == end:
                     return path
-                    
+
                 if n in dict and n not in visited:
                     visited.add(n)
                     queue.append((n, path + 1))
-        
+
         return 0
-    
+
     def get_next_words(self, curr):
         words = []
-        
+
         for i in range(len(curr)):
             left, right = curr[:i], curr[i + 1:]
             for char in 'abcdefghijklmnopqrstuvwxyz':
                 if curr[i] == char:
                     continue
-                
+
                 words.append(left + char + right)
-        
-        return words        
+
+        return words
