@@ -31,8 +31,6 @@ Note:
 -10000 < points[i][1] < 10000
 """
 import heapq
-
-
 class Solution:
     def kClosest(self, points: List[List[int]], K: int) -> List[List[int]]:
         # Going to use heap strategy
