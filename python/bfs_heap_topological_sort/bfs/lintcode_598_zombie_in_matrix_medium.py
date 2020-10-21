@@ -9,15 +9,14 @@ Given a 2D grid, each cell is either a wall 2, a zombie 1 or people 0 (the numbe
 
 样例
 Example 1:
-
 Input:
 [[0,1,2,0,0],
  [1,0,0,2,1],
  [0,1,0,0,0]]
 Output:
 2
-Example 2:
 
+Example 2:
 Input:
 [[0,0,0],
  [0,0,0],
@@ -41,8 +40,8 @@ class Solution:
         
         if self.check_no_zeros(grid, M, N):
             return longest
-        else:
-            return -1
+            
+        return -1
         
     
     def build_queue(self, grid, M, N):

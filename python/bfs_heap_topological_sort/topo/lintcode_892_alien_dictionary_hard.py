@@ -11,7 +11,6 @@ There is a new alien language which uses the latin alphabet. However, the order 
 
 样例
 Example 1:
-
 Input：["wrt","wrf","er","ett","rftt"]
 Output："wertf"
 Explanation：
@@ -22,12 +21,12 @@ from "ett"and"rftt" ,we can get 'e'<'r'
 So return "wertf"
 
 Example 2:
-
 Input：["z","x"]
 Output："zx"
 Explanation：
 from "z" and "x"，we can get 'z' < 'x'
 So return "zx"
+
 注意事项
 You may assume all letters are in lowercase.
 The dictionary is invalid, if a is prefix of b and b is appear before a.
@@ -41,7 +40,6 @@ class Solution:
     @return: a string which is correct order
     """
     def alienOrder(self, words):
-        # Write your code here
         if not words:
             return ""
         
@@ -67,7 +65,6 @@ class Solution:
                 if indegres[neigbor] == 0:
                     heapq.heappush(queue, neigbor)
         
-        print('ans: ' + str(ans))
         if len(ans) == len(indegres):
             return ans
             

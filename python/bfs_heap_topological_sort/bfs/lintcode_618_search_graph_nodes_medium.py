@@ -67,8 +67,6 @@ class Solution:
     @return: a node
     """
     def searchNode(self, graph, values, node, target):
-        # write your code here
-        
         queue = collections.deque([node])
         visited = set([node])
         

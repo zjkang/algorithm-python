@@ -27,7 +27,6 @@ class Solution:
     @return: true if it's a valid tree, or false
     """
     def validTree(self, n, edges):
-        # write your code here
         if n - 1 != len(edges):
             return False
             

@@ -12,14 +12,14 @@ Return the smallest sum of distance. Return -1 if it is not possible.
 
 样例
 Example 1:
-
 Input：[[0,1,0,0,0],[1,0,0,2,1],[0,1,0,0,0]]
 Output：8
 Explanation： Placing a post office at (1,1), the distance that post office to all the house sum is smallest.
-Example 2:
 
+Example 2:
 Input：[[0,1,0],[1,0,1],[0,1,0]]
 Output：4
+
 Explanation： Placing a post office at (1,1), the distance that post office to all the house sum is smallest.
 注意事项
 You cannot pass through wall and house, but can pass through empty.
