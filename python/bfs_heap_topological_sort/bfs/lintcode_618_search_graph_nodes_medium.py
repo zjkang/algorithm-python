@@ -2,11 +2,12 @@
 author: Wei Li
 date: 10/20/2020
 
-https://www.lintcode.com/problem/search-graph-nodes/description?_from=ladder&&fromId=161
+https://www.lintcode.com/problem/search-graph-nodes/
 
 618. Search Graph Nodes
 
-Given a undirected graph, a node and a target, return the nearest node to given node which value of it is target, return NULL if you can't find.
+Given a undirected graph, a node and a target, return the nearest node to
+given node which value of it is target, return NULL if you can't find.
 
 There is a mapping store the nodes' values in the given parameters.
 
@@ -22,7 +23,7 @@ Output:
 4
 Explanation:
 2------3  5
- \     |  | 
+ \     |  |
   \    |  |
    \   |  |
     \  |  |
@@ -37,6 +38,7 @@ Value of node 4 is 50
 Value of node 5 is 50
 
 Return node 4
+
 Example 2:
 
 Input:
@@ -46,6 +48,7 @@ Input:
 1
 Output:
 2
+
 注意事项
 It's guaranteed there is only one available solution
 """
@@ -66,24 +69,21 @@ class Solution:
     @param: target: An integer
     @return: a node
     """
+
     def searchNode(self, graph, values, node, target):
+        import collections
         queue = collections.deque([node])
         visited = set([node])
-        
-        closest = None
-        
+
         while queue:
             curr_node = queue.popleft()
-            
+
             if values[curr_node] == target:
                 return curr_node
-                
+
             for neighbor in curr_node.neighbors:
                 if neighbor not in visited:
                     visited.add(neighbor)
                     queue.append(neighbor)
-        
-        return closest            
-            
-        
 
+        return None

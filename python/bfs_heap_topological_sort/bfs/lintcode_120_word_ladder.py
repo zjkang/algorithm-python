@@ -2,28 +2,31 @@
 author: Wei Li
 date: 10/10/2020
 
-https://www.lintcode.com/problem/word-ladder/description?_from=ladder&&fromId=161
+https://www.lintcode.com/problem/word-ladder/
 
 120. word Ladder
 
-GGiven two words (start and end), and a dictionary, find the shortest transformation sequence from start to end, output the length of the sequence.
+Given two words (start and end), and a dictionary, find the shortest
+transformation sequence from start to end, output the length of the sequence.
 Transformation rule such that:
 
 Only one letter can be changed at a time
-Each intermediate word must exist in the dictionary. (Start and end words do not need to appear in the dictionary )
+Each intermediate word must exist in the dictionary.
+(Start and end words do not need to appear in the dictionary )
+
 样例
 Example 1:
-
 Input：start = "a"，end = "c"，dict =["a","b","c"]
 Output：2
 Explanation：
 "a"->"c"
-Example 2:
 
+Example 2:
 Input：start ="hit"，end = "cog"，dict =["hot","dot","dog","lot","log"]
 Output：5
 Explanation：
 "hit"->"hot"->"dot"->"dog"->"cog"
+
 注意事项
 Return 0 if there is no such transformation sequence.
 All words have the same length.
@@ -44,7 +47,7 @@ class Solution:
     def ladderLength(self, start, end, dict):
         if not start or not end:
             return 0
-
+        import collections
         queue = collections.deque([(start, 1)])
         visited = set([start])
 
