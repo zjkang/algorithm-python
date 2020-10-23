@@ -8,13 +8,15 @@ https://leetcode.com/problems/course-schedule-ii/
 
 There are a total of n courses you have to take labelled from 0 to n - 1.
 
-Some courses may have prerequisites, for example, if prerequisites[i] = [ai, bi] this means you must take the course bi before the course ai.
+Some courses may have prerequisites, for example, if prerequisites[i] =
+[ai, bi] this means you must take the course bi before the course ai.
 
-Given the total number of courses numCourses and a list of the prerequisite pairs, return the ordering of courses you should take to finish all courses.
+Given the total number of courses numCourses and a list of the prerequisite
+pairs, return the ordering of courses you should take to finish all courses.
 
-If there are many valid answers, return any of them. If it is impossible to finish all courses, return an empty array.
+If there are many valid answers, return any of them. If it is impossible to
+finish all courses, return an empty array.
 
- 
 Example 1:
 Input: numCourses = 2, prerequisites = [[1,0]]
 Output: [0,1]
@@ -29,7 +31,7 @@ So one correct course order is [0,1,2,3]. Another correct ordering is [0,2,1,3].
 Example 3:
 Input: numCourses = 1, prerequisites = []
 Output: [0]
- 
+
 Constraints:
 
 1 <= numCourses <= 2000
@@ -40,31 +42,35 @@ ai != bi
 All the pairs [ai, bi] are distinct.
 
 """
+
+
 # Topo sort
 class Solution:
     def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
         indegrees = {i: 0 for i in range(numCourses)}
         neighbors = {i: [] for i in range(numCourses)}
-        
+
         for node_in, node_out in prerequisites:
             indegrees[node_in] += 1
             neighbors[node_out].append(node_in)
-        
-        start_nodes = [node for node in range(numCourses) if indegrees[node] == 0]
+
+        start_nodes = [node for node in range(
+            numCourses) if indegrees[node] == 0]
+        import collections
         queue = collections.deque(start_nodes)
-        
+
         order = []
         while queue:
             node = queue.popleft()
             order.append(node)
-            
+
             for neighbor in neighbors[node]:
                 indegrees[neighbor] -= 1
-                
+
                 if indegrees[neighbor] == 0:
                     queue.append(neighbor)
-                    
+
         if len(order) != numCourses:
             return []
-        
+
         return order
