@@ -3,6 +3,7 @@ author: Wei Li
 date: 10/10/2020
 
 https://www.lintcode.com/problem/word-ladder/
+https://leetcode.com/problems/word-ladder/
 
 120. word Ladder
 
