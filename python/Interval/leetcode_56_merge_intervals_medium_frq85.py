@@ -43,7 +43,6 @@ class Solution:
                 result.append(intervals[curr])
             else:
                 result[-1][1] = max(result[-1][1], intervals[curr][1])
-
             curr += 1
 
         return result
