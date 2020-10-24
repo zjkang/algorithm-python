@@ -14,7 +14,6 @@ The left subtree of a node contains only nodes with keys less than the node's ke
 The right subtree of a node contains only nodes with keys greater than the node's key.
 Both the left and right subtrees must also be binary search trees.
  
-
 Example 1:
 
     2
@@ -23,6 +22,7 @@ Example 1:
 
 Input: [2,1,3]
 Output: true
+
 Example 2:
 
     5
@@ -70,3 +70,8 @@ class Solution:
             
             if node.val <= lo or node.val >= hi:
                 return False
+                
+            stack.append((node.right, node.val, hi))
+            stack.append((node.left, lo, node.val))
+
+        return True    

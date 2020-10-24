@@ -44,3 +44,9 @@ class Solution:
             
             root.right = helper(idx + 1, in_right)
             root.left = helper(in_left, idx - 1)
+
+
+            return root
+        
+        
+        return helper(0, len(inorder) - 1)

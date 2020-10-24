@@ -50,12 +50,6 @@ class Solution:
             if left and right:
                 return root
             
-            if left:
-                return left
-            
-            if right:
-                return right
-            
-            return None
+            return left or right
         
         return helper(root, p, q)

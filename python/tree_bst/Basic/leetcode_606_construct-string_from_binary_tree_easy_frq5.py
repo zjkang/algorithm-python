@@ -1,10 +1,10 @@
 """
-author: Zhengjian Kang
-date: 10/09/2020
+author: Wei Li
+date: 10/20/2020
 
 https://leetcode.com/problems/construct-string-from-binary-tree/
 
-449. Serialize and Deserialize BST
+606. Construct String from Binary Tree
 
 You need to construct a string consists of parenthesis and integers from a binary tree with the preorder traversing way.
 
