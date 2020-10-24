@@ -12,16 +12,12 @@ For this problem, a path is defined as any node sequence from some starting node
 
  
 Example 1:
-
-
 Input: root = [1,2,3]
 Output: 6
+
 Example 2:
-
-
 Input: root = [-10,9,20,null,null,15,7]
 Output: 42
- 
 
 Constraints:
 
@@ -50,4 +46,3 @@ class Solution:
         curr_max_so_far = max(max(left_max_so_far, right_max_so_far), left_max_ending_here + right_max_ending_here + root.val)
         
         return curr_max_so_far, root.val + max(left_max_ending_here, right_max_ending_here)
-        
