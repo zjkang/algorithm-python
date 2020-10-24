@@ -2,7 +2,7 @@
 author: Wei Li
 date: 10/08/2020
 
-https://www.lintcode.com/problem/subsets/description?_from=ladder&&fromId=161
+https://www.lintcode.com/problem/subsets/
 
 17. Subsets
 
@@ -61,48 +61,47 @@ class Solution:
             self.helper(nums, i + 1, formed, ans)
             formed.pop()
 
- """
- BFS approach 
- """       
-class Solution:
+
+# BFS approach
+class Solution2:
     """
     @param nums: A set of numbers
     @return: A list of lists
     """
+
     def subsets(self, nums):
         # write your code here
         nums.sort()
         queue = collections.deque([(0, [])])
-        
+
         ans = []
         while queue:
             i, path = queue.pop()
-            
+
             if i == len(nums):
                 ans.append(path)
                 continue
-            
+
             queue.append((i + 1, path))
             queue.append((i + 1, path + [nums[i]]))
-        
-        return ans   
 
-"""
-DFS method II
-"""
-class Solution:
-   def subsets(self, nums):
-       self.result = []
-       self.search(sorted(nums), 0, [])
-       return self.result
+        return ans
 
-   def dfs(self, nums, index, oneset):
-       if index == len(nums):
-           self.result.append(list(oneset))
-           return
-       # select nums[index]
-       oneset.append(nums[index])
-       self.dfs(nums, index + 1, oneset)
-       oneset.pop()
-       # not select nums[index]
-       self.dfs(nums, index + 1, oneset)
+
+# DFS method II
+class Solution3:
+    def subsets(self, nums):
+        self.result = []
+        self.search(sorted(nums), 0, [])
+        return self.result
+
+    def dfs(self, nums, index, oneset):
+        if index == len(nums):
+            self.result.append(list(oneset))
+            return
+        # select nums[index]
+        oneset.append(nums[index])
+        self.dfs(nums, index + 1, oneset)
+        oneset.pop()
+        # not select nums[index]
+        self.dfs(nums, index + 1, oneset)

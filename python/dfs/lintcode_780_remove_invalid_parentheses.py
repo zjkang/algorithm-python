@@ -6,7 +6,8 @@ https://www.lintcode.com/problem/remove-invalid-parentheses/description
 
 780. Remove Invalid Parentheses
 
-Remove the minimum number of invalid parentheses in order to make the input string valid. Return all possible results.
+Remove the minimum number of invalid parentheses in order to make the input
+string valid. Return all possible results.
 
 Example
 Example 1:
@@ -23,10 +24,12 @@ Output:
 
 Example 3:
 Input:
-")(" 
+")("
 Output:
  [""]
 """
+
+
 class Solution:
     def removeInvalidParentheses(self, s):
         res = []
@@ -51,8 +54,8 @@ class Solution:
         left, right = self._LeftRightCount(s)
         return left == 0 and right == 0
 
-    # minimum # of left/right breaking balanced parenthesis to confirm valid result
-    # )(: left=right=1
+    # minimum # of left/right breaking balanced parenthesis to confirm
+    # valid result )(: left=right=1
     def _LeftRightCount(self, s):
         left = right = 0
         for ch in s:

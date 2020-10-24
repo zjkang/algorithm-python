@@ -47,6 +47,7 @@ class Solution:
             return jumps[cur]
         level += 1
         jumps[cur] = level
+
         for n in graph[cur]:
             if n == par:
                 continue
