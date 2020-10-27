@@ -6,10 +6,10 @@ public class bfs_laicode_525_Number_of_Islands {
 
     public int numIslands(char[][] grid) {
         // Write your solution here
-        if (grid == null || grid.length == 0 || grid[0].length == 0) {
-            return 0;
-        }
         int count = 0;
+        if (grid == null || grid.length == 0 || grid[0].length == 0) {
+            return count;
+        }
         int rows = grid.length;
         int cols = grid[0].length;
         boolean[][] visited = new boolean[rows][cols];
@@ -24,32 +24,28 @@ public class bfs_laicode_525_Number_of_Islands {
         return count;
     }
 
-    private boolean inBound (char[][] grid, int r, int c) {
-        if (r < 0 || r >= grid.length || c < 0 || c >= grid[0].length) {
-            return false;
-        }
-        return true;
+    private boolean inBound(char[][] grid, int r, int c) {
+        return r >= 0 && r < grid.length && c >= 0 && c < grid[0].length;
     }
 
-    private void BFS (char[][] grid, int r, int c, boolean[][] visited) {
-        int rows = grid.length;
-        int cols = grid[0].length;
+    private void BFS(char[][] grid, int r, int c, boolean[][] visited) {
         Queue<Integer> queue = new ArrayDeque<>();
+        int cols = grid[0].length;
         int code = r * cols + c;
-        queue.offer(Integer.valueOf(code));
+        queue.offer(code);
         visited[r][c] = true;
         while (!queue.isEmpty()) {
-            Integer cur = queue.poll();
+            int cur = queue.poll();
             for (int i = 0; i < 4; i++) {
-                int x = cur.intValue() / cols + dx[i];
-                int y = cur.intValue() % cols + dy[i];
-                if (inBound(grid, x, y) && !visited[x][y] && grid[x][y] == '1') {
-                    queue.offer(Integer.valueOf(x * cols + y));
-                    visited[x][y] = true;
+                int neighbor_r = cur / cols + dx[i];
+                int neighbor_c = cur % cols + dy[i];
+                if (inBound(grid, neighbor_r, neighbor_c)
+                        && !visited[neighbor_r][neighbor_c]
+                        && grid[neighbor_r][neighbor_c] == '1') {
+                    queue.offer(neighbor_r * cols + neighbor_c);
+                    visited[neighbor_r][neighbor_c] = true;
                 }
             }
         }
-        return;
     }
-
 }
