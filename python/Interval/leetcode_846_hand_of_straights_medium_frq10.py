@@ -8,11 +8,13 @@ https://leetcode.com/problems/hand-of-straights/
 
 Alice has a hand of cards, given as an array of integers.
 
-Now she wants to rearrange the cards into groups so that each group is size W, and consists of W consecutive cards.
+Now she wants to rearrange the cards into groups so that each group is size W,
+and consists of W consecutive cards.
 
 Return true if and only if she can.
 
-Note: This question is the same as 1296: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+Note: This question is the same as
+1296: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 
 Example 1:
 Input: hand = [1,2,3,6,2,3,4,7,8], W = 3
@@ -31,8 +33,9 @@ Constraints:
 1 <= W <= hand.length
 """
 
-# Binary Search
 import collections
+
+
 class Solution:
     def isNStraightHand(self, hand: List[int], W: int) -> bool:
         counter = collections.Counter(hand)
@@ -43,5 +46,23 @@ class Solution:
                 return False
             queue.append(counter[card] - opened)
             prev, opened = card, counter[card]
-            if len(queue) == W: opened -= queue.popleft()
+            if len(queue) == W:
+                opened -= queue.popleft()
         return opened == 0
+
+
+class Solution2:
+    def isNStraightHand(self, hand: List[int], W: int) -> bool:
+        if len(hand) % W:
+            return False
+        from collections import Counter
+        counter = Counter(hand)
+        hand.sort()
+        for n in hand:
+            if counter[n] == 0:
+                continue
+            for i in range(W):
+                if n + i not in counter or counter[n+i] == 0:
+                    return False
+                counter[n+i] -= 1
+        return True
