@@ -36,5 +36,7 @@ class Solution:
         
         left_diameter, left_max_path = self.dfs(root.left)
         right_diameter, right_max_path = self.dfs(root.right)
+
+        curr_max_path = max(left_max_path, right_max_path) + 1 
         
-        return max(left_diameter, right_diameter, left_max_path + right_max_path + 1), max(left_max_path, right_max_path) + 1  
+        return max(left_diameter, right_diameter, left_max_path + right_max_path + 1), curr_max_path

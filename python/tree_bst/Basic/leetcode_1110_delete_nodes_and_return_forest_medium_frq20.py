@@ -56,3 +56,23 @@ class Solution:
         
             
         return self.ans    
+
+# Kang's solution
+class Solution:
+    def delNodes(self, root: TreeNode, to_delete: List[int]) -> List[TreeNode]:
+        to_delete = set(to_delete)
+        self.res = []
+        self.helper(root, None, to_delete)
+        return self.res
+    
+    def helper(self, root, parent, to_delete):
+        if not root: return None
+        if root.val in to_delete:
+            self.helper(root.left, None, to_delete)
+            self.helper(root.right, None, to_delete)
+            return None
+        root.left = self.helper(root.left, root, to_delete)
+        root.right = self.helper(root.right, root, to_delete)
+        if not parent:
+            self.res.append(root)
+        return root
