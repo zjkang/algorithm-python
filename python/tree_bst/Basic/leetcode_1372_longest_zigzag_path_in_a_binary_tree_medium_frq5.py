@@ -76,4 +76,8 @@ class Solution:
         left_left, left_right, left_max,  = self.dfs(root.left)
         right_left, right_right, right_max = self.dfs(root.right)
         
-        return left_right + 1, right_left + 1, max(left_max, right_max, left_right + 1, right_left + 1)
+        curr_max = max(left_max, right_max, left_right + 1, right_left + 1)
+        curr_left = left_right + 1
+        curr_right = right_left + 1
+
+        return curr_left, curr_right, curr_max

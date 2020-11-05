@@ -49,7 +49,6 @@ class Solution:
 # Recursion
 class Solution:
     def minDepth(self, root: TreeNode) -> int:
-        self.min_depth = float('inf')
         def dfs(root):
             if not root:
                 return 0

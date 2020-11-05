@@ -65,3 +65,26 @@ class Solution:
         dfs(nums[0] // 10)
         
         return self.ans
+ 
+ # Kang's solution
+ class Solution:
+    def pathSum(self, nums: List[int]) -> int:
+        self.total = 0
+        num_map = {}
+        for n in nums:
+            num_map[(n // 100, n // 10 % 10)] = n % 10
+        self.dfs(num_map, 1, 1, 0)
+        return self.total
+        
+    def dfs(self, num_map, depth, pos, cur):
+        if (depth, pos) not in num_map: return
+        cur += num_map[(depth, pos)]
+        if self.is_leaf(num_map, depth, pos):
+            self.total += cur
+            return
+        self.dfs(num_map, depth+1, pos*2-1, cur)
+        self.dfs(num_map, depth+1, pos*2, cur)
+        
+    def is_leaf(self, num_map, depth, pos):
+        return (depth+1, pos*2-1) not in num_map and (depth+1, pos*2) not in num_map
+        

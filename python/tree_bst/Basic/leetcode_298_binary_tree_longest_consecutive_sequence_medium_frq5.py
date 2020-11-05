@@ -75,17 +75,14 @@ class Solution:
         left_max_so_far, left_max_ending_here = self.dfs(root.left)
         right_max_so_far, right_max_ending_here = self.dfs(root.right)
         
-        
+        curr_max_ending_here = 1
         if root.left and root.val + 1 == root.left.val:
-            left_max_ending_here += 1
-        else:
-            left_max_ending_here = 1
+            curr_max_ending_here = left_max_ending_here + 1
         
         if root.right and root.val + 1 == root.right.val:
-            right_max_ending_here += 1
-        else:
-            right_max_ending_here = 1
+            curr_max_ending_here = max(curr_max_ending_here, right_max_ending_here + 1) 
+    
         
-        curr_max_so_far = max(max(left_max_so_far, right_max_so_far), max(left_max_ending_here, right_max_ending_here))
+        curr_max_so_far = max(max(left_max_so_far, right_max_so_far), curr_max_ending_here)
         
-        return curr_max_so_far, max(left_max_ending_here, right_max_ending_here)     
+        return curr_max_so_far, curr_max_ending_here     

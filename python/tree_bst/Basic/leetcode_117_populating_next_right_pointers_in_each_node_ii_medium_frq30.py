@@ -52,7 +52,7 @@ class Solution:
                 root.left.next = root.right
             
             if root.right:
-                if root.next is not None:
+                if root.next:
                     root.right.next = root.next.left
                 else:
                     root.right.next = None    
