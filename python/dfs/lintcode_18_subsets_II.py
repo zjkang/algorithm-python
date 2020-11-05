@@ -2,23 +2,23 @@
 author: Wei Li
 date: 10/08/2020
 
-https://www.lintcode.com/problem/subsets-ii/description?_from=ladder&&fromId=161
+https://www.lintcode.com/problem/subsets-ii/
 
 18. Subsets
 
-Given a collection of integers that might contain duplicates, nums, return all possible subsets (the power set).
+Given a collection of integers that might contain duplicates, nums, 
+return all possible subsets (the power set).
 
 样例
 Example 1:
-
 Input: [0]
 Output:
 [
   [],
   [0]
 ]
-Example 2:
 
+Example 2:
 Input: [1,2,2]
 Output:
 [
@@ -46,7 +46,6 @@ class Solution:
     """
 
     def subsetsWithDup(self, nums):
-        # write your code here
         nums.sort()
 
         ans = []
@@ -67,7 +66,7 @@ class Solution:
 
 
 # DFS 2: binary tree with pruning
-class Solution:
+class Solution2:
     def subsetsWithDup(self, nums):
         if not nums:
             return [[]]

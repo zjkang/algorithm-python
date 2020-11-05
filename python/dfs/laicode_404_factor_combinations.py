@@ -6,7 +6,8 @@ https://app.laicode.io/app/problem/404
 
 404. Factor Combinations
 
-Given an integer number, return all possible combinations of the factors that can multiply to the target number.
+Given an integer number, return all possible combinations of the factors
+that can multiply to the target number.
 
 Example
 Give A = 24
@@ -54,7 +55,3 @@ class Solution(object):
             if target % num == 0:
                 factors.append(num)
         return factors
-
-
-a = Solution()
-print(a.combinations(24))

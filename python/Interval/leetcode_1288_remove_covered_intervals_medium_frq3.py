@@ -47,7 +47,7 @@ class Solution:
     def removeCoveredIntervals(self, intervals: List[List[int]]) -> int:
         if not intervals:
             return 0
-
+        # edge case [1,2], [1,4] -> [1,4] -> [1,2]
         intervals.sort(key=lambda x: (x[0], -x[1]))
 
         count = 0

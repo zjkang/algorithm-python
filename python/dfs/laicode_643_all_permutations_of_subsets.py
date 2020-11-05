@@ -6,10 +6,13 @@ https://app.laicode.io/app/problem/643
 
 643. All Permutations of Subsets
 
-Given a string with no duplicate characters, return a list with all permutations of the string and all its subsets.
+Given a string with no duplicate characters, return a list with all
+permutations of the string and all its subsets.
 
 Examples
-Set = “abc”, all permutations are [“”, “a”, “ab”, “abc”, “ac”, “acb”, “b”, “ba”, “bac”, “bc”, “bca”, “c”, “cb”, “cba”, “ca”, “cab”].
+Set = “abc”, all permutations are
+[“”, “a”, “ab”, “abc”, “ac”, “acb”, “b”, “ba”, “bac”, “bc”, “bca”, “c”,
+“cb”, “cba”, “ca”, “cab”].
 Set = “”, all permutations are [“”].
 Set = null, all permutations are []
 """
