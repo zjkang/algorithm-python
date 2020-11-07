@@ -75,3 +75,20 @@ class Solution:
                 stack.append(node.right)
                 
         return result[::-1]   
+
+# Kang's solustion
+def postorder(root):
+    if not root: return
+    stack = []
+    push_children(root, stack)
+    while stack:
+        cur = stack.pop()
+        visit(cur)
+        if (stack and stack[-1].left == cur):
+            push_children(stack[-1].right, stack)
+
+def push_children(root, stack):
+    while root:
+        stack.append(root)
+        if root.left: root = root.left
+        else: root = root.right

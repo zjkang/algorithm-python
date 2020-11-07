@@ -63,3 +63,8 @@ class Solution:
                         num = ''
         
         return stack[0].left
+
+        0
+     -4
+    2   6
+   3 1 5  7
