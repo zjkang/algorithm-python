@@ -50,3 +50,17 @@ class Solution:
         
         
         return helper(0, len(inorder) - 1)
+
+
+class Solution:
+    def buildTree(self, inorder: List[int], postorder: List[int]) -> TreeNode:
+        in_map = {val: idx for idx, val in enumerate(inorder)}
+        return self.helper(in_map, 0, len(inorder)-1, postorder, 0, len(postorder)-1)
+        
+    def helper(self, in_map, istart, iend, postorder, pstart, pend):
+        if pstart > pend: return None
+        root = TreeNode(postorder[pend])
+        imid = in_map[postorder[pend]]
+        root.left = self.helper(in_map, istart, imid-1, postorder, pstart, pstart + imid-1-istart)
+        root.right = self.helper(in_map, imid+1, iend, postorder, pstart+imid-istart, pend-1)
+        return root

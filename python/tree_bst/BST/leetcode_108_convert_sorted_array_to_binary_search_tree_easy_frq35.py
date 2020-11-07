@@ -35,13 +35,19 @@ class Solution:
         if not nums:
             return None
         
-        if len(nums) == 1:
+        return self.helper(nums, 0, len(nums) - 1)
+     
+    def helper(self, nums, start, end):
+        if start > end:
+            return None
+
+        if start == end:
             return TreeNode(nums[0])
-        
-        mid = len(nums) // 2
-        
+
+        mid = (start + end) // 2
+
         root = TreeNode(nums[mid])
-        root.left = self.sortedArrayToBST(nums[:mid])
-        root.right= self.sortedArrayToBST(nums[mid + 1:])
-        
+        root.left = self.helper(nums, start, mid - 1)
+        root.right = self.helper(nums, mid + 1, end)            
+
         return root

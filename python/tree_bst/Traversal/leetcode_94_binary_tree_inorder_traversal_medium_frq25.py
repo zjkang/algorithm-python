@@ -98,3 +98,18 @@ class Solution:
             self.addNode(root.right, result)
             
         return result   
+
+
+# Kang's solution
+def inorder(root):
+    stack = []
+    push_left(root, stack)
+    while stack:
+        cur = stack.pop()
+        visit(cur.val)
+        push_left(cur.right, stack)
+
+def push_left(root, stack):
+    while root:
+        stack.append(root)
+        root = root.left

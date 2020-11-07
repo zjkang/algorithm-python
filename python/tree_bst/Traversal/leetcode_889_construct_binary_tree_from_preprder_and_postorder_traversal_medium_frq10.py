@@ -14,9 +14,18 @@ Values in the traversals pre and post are distinct positive integers.
 
 Example 1:
 
-Input: pre = [1,2,4,5,3,6,7], post = [4,5,2,6,7,3,1]
-Output: [1,2,3,4,5,6,7]
- 
+Input: pre = [1,2,4,5], post = [4,5,2,1]
+Output: [1,2，4，5]
+
+Not unique tree can be constructed
+
+     1
+   2         
+  4 5 
+
+  1
+    2
+   4  5
 
 Note:
 

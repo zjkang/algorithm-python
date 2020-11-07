@@ -10,7 +10,7 @@ Given a binary tree, return the zigzag level order traversal of its nodes' value
 
 For example:
 Given binary tree [3,9,20,null,null,15,7],
-    3
+    3 
    / \
   9  20
     /  \
@@ -78,17 +78,16 @@ class Solution:
             if not root:
                 return
             
-            if level >= len(ans):
-                ans.append(deque([root.val]))
-            else:
-                if level % 2 == 0:
-                    ans[level].append(root.val)
-                else:
-                    ans[level].appendleft(root.val)
+            if level == len(ans):
+                ans.append(deque())
             
-            for next_node in [root.left, root.right]:
-                if next_node:
-                    helper(next_node, level + 1)
+            if level % 2 == 0:
+                ans[level].append(root.val)
+            else:
+                ans[level].appendleft(root.val)
+                
+            helper(root.left, level + 1)
+            helper(root.right, level + 1)
         
         ans = []
         helper(root, 0)
