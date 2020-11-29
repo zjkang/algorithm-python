@@ -6,7 +6,9 @@ https://www.lintcode.com/problem/subarray-sum/note/228582
 
 138. Subarray Sum
 
-Given an integer array, find a subarray where the sum of numbers is zero. Your code should return the index of the first number and the index of the last number.
+Given an integer array, find a subarray where the sum of numbers is zero.
+Your code should return the index of the first number and the index of the
+last number.
 
 样例
 Example 1:
@@ -26,11 +28,11 @@ There is at least one subarray that it's sum equals to zero.
 class Solution:
     """
     @param nums: A list of integers
-    @return: A list of integers includes the index of the first number and the index of the last number
+    @return: A list of integers includes the index of the first number and the
+    index of the last number
     """
 
     def subarraySum(self, nums):
-        # write your code here
         pre_sum_mapping = {0: 0}
 
         pre_sum = 0
