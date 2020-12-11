@@ -2,6 +2,8 @@
 author: Zhengjian Kang
 date: 11/30/2020
 
+https://leetcode.com/problems/ways-to-make-a-fair-array/
+
 1664. Ways to Make a Fair Array
 
 You are given an integer array nums. You can choose exactly one index

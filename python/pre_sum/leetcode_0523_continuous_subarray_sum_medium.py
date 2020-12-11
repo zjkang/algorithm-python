@@ -2,6 +2,8 @@
 author: Zhengjian Kang
 date: 11/14/2020
 
+https://leetcode.com/problems/continuous-subarray-sum/
+
 523. Continuous Subarray Sum
 
 Given a list of non-negative numbers and a target integer k,

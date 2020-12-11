@@ -2,6 +2,8 @@
 author: Zhengjian Kang
 date: 11/29/2020
 
+https://leetcode.com/problems/subarray-sums-divisible-by-k/
+
 974. Subarray Sums Divisible by K
 
 Given an array A of integers, return the number of (contiguous, non-empty)
