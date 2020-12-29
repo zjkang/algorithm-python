@@ -1,13 +1,13 @@
 #### 目前分类目录
 
-#### [Prefix Sum](https://github.com/zjkang/ds_algorithm/tree/main/python/pre_sum)
+#### [array_string](https://github.com/zjkang/ds_algorithm/tree/main/python/array_string)
 
-[Leetcode 238 Product of Array Except Self](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0238_product_of_array_except_self.py)\
-[Leetcode 523 Continuous Subarray Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0523_continuous_subarray_sum_medium.py)\
-[Leetcode 974 Subarray Sums Divisible by K](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0974_subarray_sums_divisible_by_k.py)\
-[Leetcode 1658 Minimum Operations to Reduce X to Zero](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1658_minimum_operations_to_reduce_x_to_zero.py)\
-[Leetcode 1664 Ways to Make a Fair Array](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1664_ways_to_make_a_fair_array.py)\
-[Lintcode 138 Subarray Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
+[Leetcode 228 Summary Ranges](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0228_summary_ranges_easy.py)\
+[Leetcode 456 132 Pattern](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0456_132_pattern_medium.py)\
+[Leetcode 842 Split Array into Fibonacci Sequence](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0842_split_array_into_fibonacci_sequence.py)\
+[Leetcode 948 Bags of Tokens](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0948_bags_of_tokens_medium.py)
+
+#### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
 
 #### [DFS](https://github.com/zjkang/ds_algorithm/tree/main/python/dfs)
 
@@ -30,4 +30,11 @@
 [Lintcode 425 Letter Combinations of a Phone Number](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0425_letter_combinations_of_a_phone_number.py)\
 [Lintcode 780 Remove Invalid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0780_remove_invalid_parentheses.py)
 
-#### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
+#### [Prefix Sum](https://github.com/zjkang/ds_algorithm/tree/main/python/pre_sum)
+
+[Leetcode 238 Product of Array Except Self](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0238_product_of_array_except_self.py)\
+[Leetcode 523 Continuous Subarray Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0523_continuous_subarray_sum_medium.py)\
+[Leetcode 974 Subarray Sums Divisible by K](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0974_subarray_sums_divisible_by_k.py)\
+[Leetcode 1658 Minimum Operations to Reduce X to Zero](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1658_minimum_operations_to_reduce_x_to_zero.py)\
+[Leetcode 1664 Ways to Make a Fair Array](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1664_ways_to_make_a_fair_array.py)\
+[Lintcode 138 Subarray Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
