@@ -34,7 +34,15 @@
 [Leetcode 973 K Closest Points to Origin](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0973_k_closest_points_to_origin.py)\
 [Lintcode 130 Heapify](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_0130_heapify_medium.py)\
 [Lintcode 461 Kth Element in An Unsorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_0461_kth_element_in_an_unsorted_array.py)\
-[Lintcode 1272 Kth Smallest Element in A Sorted Matrix](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_1272_kth_smallest_element_in_a_sorted_matrix.py)\
+[Lintcode 1272 Kth Smallest Element in A Sorted Matrix](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_1272_kth_smallest_element_in_a_sorted_matrix.py)
+
+#### [Topological Sort](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/topo)
+
+[Leetcode 207 Course Schedule](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/leetcode_0207_course_schedule_medium_frq45.py)\
+[Leetcode 210 Course Schedule II](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/leetcode_0210_course_schedule_ii_medium_frq5-.py)\
+[Leetcode 444 Sequence Reconstruction](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/leetcode_0444_sequence_reconstruction_medium_frq20.py)\
+[Lintcode 127 Topological Sotring](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/lintcode_0127_topological_sorting_medium.py)\
+[Lintcode 892 Alien Dictionary](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/lintcode_0892_alien_dictionary_hard.py)
 
 #### [DFS](https://github.com/zjkang/ds_algorithm/tree/main/python/dfs)
 
