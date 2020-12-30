@@ -1,5 +1,10 @@
 #### 目前分类目录
 
+#### [Binary Search](https://github.com/zjkang/ds_algorithm/tree/main/python/binary_search)
+
+[Leetcode 1060 Missing Element in Sorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
+[Lintcode 460 Find K Cloest Elements](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py)\
+
 #### [Array_String](https://github.com/zjkang/ds_algorithm/tree/main/python/array_string)
 
 [Leetcode 228 Summary Ranges](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0228_summary_ranges_easy.py)\
