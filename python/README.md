@@ -12,6 +12,10 @@
 [Leetcode 842 Split Array into Fibonacci Sequence](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0842_split_array_into_fibonacci_sequence.py)\
 [Leetcode 948 Bags of Tokens](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0948_bags_of_tokens_medium.py)
 
+#### [Stack](https://github.com/zjkang/ds_algorithm/tree/main/python/stack)
+
+[Leetcode 1249 Minimum Remove to Make Valid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)
+
 #### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
 
 [Leetcode 111 Minimum Depth of Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/bfs/leetcode_0111_minimum_depth_of_binary_tree.py)\
