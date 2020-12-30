@@ -54,6 +54,8 @@ class ListNode(self, val):
     self.val = val
     self.next = None
 """
+
+
 class DataStream:
 
     def __init__(self):
@@ -62,20 +64,21 @@ class DataStream:
         self.tail = self.dummy
         self.num_to_prev = {}
         self.duplicates = set()
-          
+
     """
     @param num: next number in stream
     @return: nothing
     """
+
     def add(self, num):
         # write your code here
         if num in self.duplicates:
             return
-        
+
         if num not in self.num_to_prev:
             self.push_back(num)
             return
-        
+
         self.duplicates.add(num)
         self.remove(num)
 
@@ -83,12 +86,12 @@ class DataStream:
         prev = self.num_to_prev.get(num)
         del self.num_to_prev[num]
         prev.next = prev.next.next
-        
+
         if prev.next:
             self.num_to_prev[prev.next.val] = prev
         else:
             self.tail = prev
-    
+
     def push_back(self, num):
         self.tail.next = ListNode(num)
         self.num_to_prev[num] = self.tail
@@ -96,9 +99,10 @@ class DataStream:
     """
     @return: the first unique number in stream
     """
+
     def firstUnique(self):
         # write your code here
         if not self.dummy.next:
             return None
-        
-        return self.dummy.next.val    
+
+        return self.dummy.next.val
