@@ -1,4 +1,4 @@
-#### binary search 更新
+#### design 更新
 
 [Leetcode 170 Two Sum III](https://github.com/zjkang/ds_algorithm/blob/main/python/design/leetcode_170_two_sum_III.py)\
 [Lintcode 685 First Unique Number in Data Stream](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_685_first_unique_number_in_data_stream.py)\
