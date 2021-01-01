@@ -1,20 +1,11 @@
 #### 目前分类目录
 
-#### [Binary Search](https://github.com/zjkang/ds_algorithm/tree/main/python/binary_search)
-
-[Leetcode 1060 Missing Element in Sorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
-[Lintcode 460 Find K Cloest Elements](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py)
-
 #### [Array_String](https://github.com/zjkang/ds_algorithm/tree/main/python/array_string)
 
 [Leetcode 228 Summary Ranges](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0228_summary_ranges_easy.py)\
 [Leetcode 456 132 Pattern](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0456_132_pattern_medium.py)\
 [Leetcode 842 Split Array into Fibonacci Sequence](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0842_split_array_into_fibonacci_sequence.py)\
 [Leetcode 948 Bags of Tokens](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0948_bags_of_tokens_medium.py)
-
-#### [Stack](https://github.com/zjkang/ds_algorithm/tree/main/python/stack)
-
-[Leetcode 1249 Minimum Remove to Make Valid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)
 
 #### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
 
@@ -53,6 +44,17 @@
 [Lintcode 127 Topological Sotring](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/lintcode_0127_topological_sorting_medium.py)\
 [Lintcode 892 Alien Dictionary](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/lintcode_0892_alien_dictionary_hard.py)
 
+#### [Binary Search](https://github.com/zjkang/ds_algorithm/tree/main/python/binary_search)
+
+[Leetcode 1060 Missing Element in Sorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
+[Lintcode 460 Find K Cloest Elements](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py)
+
+#### [Design](https://github.com/zjkang/ds_algorithm/tree/main/python/design)
+
+[Leetcode 170 Two Sum III](https://github.com/zjkang/ds_algorithm/blob/main/python/design/leetcode_170_two_sum_III.py)\
+[Lintcode 685 First Unique Number in Data Stream](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_685_first_unique_number_in_data_stream.py)\
+[Lintcode 960 First Unique Number in Data Stream II](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_960_first_unique_number_in_data_stream_II.py)
+
 #### [DFS](https://github.com/zjkang/ds_algorithm/tree/main/python/dfs)
 
 [Laicode 73 Combination of Coins](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0073_combinations_of_coins.py)\
@@ -74,6 +76,12 @@
 [Lintcode 425 Letter Combinations of a Phone Number](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0425_letter_combinations_of_a_phone_number.py)\
 [Lintcode 780 Remove Invalid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0780_remove_invalid_parentheses.py)
 
+#### [DP]
+
+#### [Greedy]
+
+#### [Interval]
+
 #### [Prefix Sum](https://github.com/zjkang/ds_algorithm/tree/main/python/pre_sum)
 
 [Leetcode 238 Product of Array Except Self](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0238_product_of_array_except_self.py)\
@@ -83,11 +91,15 @@
 [Leetcode 1664 Ways to Make a Fair Array](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1664_ways_to_make_a_fair_array.py)\
 [Lintcode 138 Subarray Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
 
-#### [Design](https://github.com/zjkang/ds_algorithm/tree/main/python/design)
+#### [Stack](https://github.com/zjkang/ds_algorithm/tree/main/python/stack)
 
-[Leetcode 170 Two Sum III](https://github.com/zjkang/ds_algorithm/blob/main/python/design/leetcode_170_two_sum_III.py)\
-[Lintcode 685 First Unique Number in Data Stream](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_685_first_unique_number_in_data_stream.py)\
-[Lintcode 960 First Unique Number in Data Stream II](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_960_first_unique_number_in_data_stream_II.py)
+[Leetcode 1249 Minimum Remove to Make Valid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)
+
+#### [Tree Basic]
+
+#### [Tree Traversal]
+
+#### [Tree BST]
 
 #### [Union Find](https://github.com/zjkang/ds_algorithm/tree/main/python/union_find)
 
