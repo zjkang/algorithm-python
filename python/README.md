@@ -76,7 +76,11 @@
 [Lintcode 425 Letter Combinations of a Phone Number](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0425_letter_combinations_of_a_phone_number.py)\
 [Lintcode 780 Remove Invalid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0780_remove_invalid_parentheses.py)
 
-#### [DP]
+#### [DP](https://github.com/zjkang/ds_algorithm/tree/main/python/dp)
+
+[Laicode 456 Coin Change](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0456_coin_change.py)\
+[Laicode 663 Coin Change II](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0663_coin_change_ii.py)\
+[Laicode 416 Partition Equal Subset Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0416_partition_equal_subset_sum.py)
 
 #### [Greedy]
 
