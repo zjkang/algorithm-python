@@ -3,7 +3,7 @@ Given a sequence of post-order traversal, determine whether the binary tree is b
          5
        3.   8
      1.  4 6  10
-     
+
 post order: 1,4,3,6,10,8,5
 '''
 

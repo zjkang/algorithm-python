@@ -17,11 +17,11 @@ Given tree s:
   / \
  1   2
 Given tree t:
-   4 
+   4
   / \
  1   2
 Return true, because t has the same structure and node values with a subtree of s.
- 
+
 
 Example 2:
 Given tree s:
@@ -40,24 +40,26 @@ Given tree t:
 Return false.
 """
 # Non-recursion
+
+
 class Solution:
     def isSubtree(self, s: TreeNode, t: TreeNode) -> bool:
         def pre_order(root, ans):
-            if not root: 
+            if not root:
                 ans.append('null')
-                return 
-            
+                return
+
             ans.append('#' + str(root.val) + '#')
-            
+
             pre_order(root.left, ans)
             pre_order(root.right, ans)
-            
+
         s_tree, t_tree = [], []
         pre_order(s, s_tree)
         pre_order(t, t_tree)
-    
+
         return "".join(t_tree) in "".join(s_tree)
-    
+
 
 # Recursion
 class Solution:
@@ -67,13 +69,13 @@ class Solution:
                 return True
             if not x or not y:
                 return False
-            
+
             return x.val == y.val and is_matched(x.left, y.left) and is_matched(x.right, y.right)
-        
+
         if is_matched(s, t):
             return True
-        
+
         if not s:
             return False
-        
+
         return self.isSubtree(s.left, t) or self.isSubtree(s.right, t)
