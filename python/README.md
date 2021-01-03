@@ -147,7 +147,7 @@
 [Leetcode 1367 Linked List in Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1367_linked_list_in_binary_tree_medium_frq5.py)\
 [Leetcode 1372 Longest Zigzag Path in a Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1372_longest_zigzag_path_in_a_binary_tree_medium_frq5.py)
 
-#### [Tree BST]
+#### [Tree BST](https://github.com/zjkang/ds_algorithm/tree/main/python/tree_bst/bst)
 
 [Laioffer Lunch Class Post Order Traversal](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/bst/laioffer_lunch_class_post_order_traversal_is_bst.py)\
 [Leetcode 95 Unique Binary Search Trees II](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/bst/leetcode_0095_unique_binary_search_tree_ii_medium_frq25.py)\
