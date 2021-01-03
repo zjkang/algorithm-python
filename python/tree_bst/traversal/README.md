@@ -16,4 +16,5 @@
 [Leetcode 606 Construct String from Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_0606_construct_string_from_binary_tree_easy_frq5.py)\
 [Leetcode 889 Construct Binary Tree from Preorder and Postorder](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_0889_construct_binary_tree_from_preprder_and_postorder_traversal_medium_frq10.py)\
 [Leetcode 987 Vertical Order Traversal of a BInary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_0987_vertical_order_traversal_of_a_binary_tree_medium_frq55.py)\
-[Leetcode 1028 Recover a Tree from Preorder Traversal](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1028_recover_a_tree_from_preorder_traversal_hard_frq1.py)
+[Leetcode 1028 Recover a Tree from Preorder Traversal](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1028_recover_a_tree_from_preorder_traversal_hard_frq1.py)\
+[Leetcode 1379 Find a Corresponding Node of a Binary Tree in a Clone of that Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py)
