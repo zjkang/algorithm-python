@@ -6,13 +6,15 @@ https://app.laicode.io/app/problem/663
 
 663. Coin Change II
 
-You are given coins of different denominations and a total amount of money amount. Write a function to the number of different combinations that can sum up to that amount.
+You are given coins of different denominations and a total amount of money
+amount. Write a function to the number of different combinations that
+can sum up to that amount.
 
 Example 1:
 coins = [1,2] , amount = 5
 return 3
 
-Explanation: 
+Explanation:
 
 5 = 1 + 1 + 1 + 1 + 1 = 1 + 1 + 1 + 2 = 1 + 2 + 2
 
