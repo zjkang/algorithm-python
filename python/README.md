@@ -94,6 +94,10 @@
 [Leetcode 316 Remove Duplicate Letters](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0316_remove_deplicate_letters.py)\
 [Leetcode 763 Partition Labels](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0763_partition_labels.py)
 
+#### [Hash Table](https://github.com/zjkang/ds_algorithm/tree/main/python/hash_table)
+
+[Leetcode 266 Palindrome Permutation](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_0266_palindrome_permutation.py)
+
 #### [Interval](https://github.com/zjkang/ds_algorithm/tree/main/python/interval)
 
 [Leetcode 56 Merge Intervals](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0056_merge_intervals_medium_frq85.py)\
