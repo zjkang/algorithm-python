@@ -4,6 +4,8 @@ date: 01/11/2021
 
 https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 
+1718. Construct the Lexicographically Largest Valid Sequence
+
 Given an integer n, find a sequence that satisfies all of the following:
 
 The integer 1 occurs once in the sequence.

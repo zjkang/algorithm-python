@@ -4,7 +4,7 @@ date: 01/03/2021
 
 https://leetcode.com/problems/beautiful-arrangement/
 
-note: 01/03/2021 daily problem
+526. Beautiful Arrangement
 
 Suppose you have n integers labeled 1 through n. A permutation of those n
 integers perm (1-indexed) is considered a beautiful arrangement if for every

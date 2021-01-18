@@ -2,6 +2,10 @@
 author: Zhengjian Kang
 date: 10/10/2020
 
+https://app.laicode.io/app/problem/642
+
+642. All Valid Permutations Of Parentheses III
+
 Get all valid permutations of l pairs of (), m pairs of <> and n pairs of {},
 subject to the priority restriction: {} higher than <> higher than ().
 

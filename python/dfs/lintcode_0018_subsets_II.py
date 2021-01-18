@@ -6,7 +6,7 @@ https://www.lintcode.com/problem/subsets-ii/
 
 18. Subsets
 
-Given a collection of integers that might contain duplicates, nums, 
+Given a collection of integers that might contain duplicates, nums,
 return all possible subsets (the power set).
 
 样例

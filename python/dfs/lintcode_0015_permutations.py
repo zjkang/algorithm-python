@@ -5,6 +5,7 @@ date: 10/08/2020
 https://www.lintcode.com/problem/permutations/
 
 15. Permutations
+
 Given a list of numbers, return all possible permutations.
 
 样例
