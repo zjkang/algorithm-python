@@ -74,7 +74,7 @@
 [Leetcode 902 Numbers at Most N given digit Set](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0902_numbers_at_most_n_given_digit_set.py)\
 [Leetcode 1192 Critical Connections in a Network](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1192_critical_connections_in_a_network_hard.py)\
 [Leetcode 1718 Construct the Lexicographically Largest Valid Sequence](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1718_construct_the_lexicographically_largest_valid_sequence.py)\
-[Leetcode 1723 Find Minimum Time to Finish All Jobs](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1723_find_minimum_time_to_finish_all_jobs.py)\
+[Leetcode 1723 Find Minimum Time to Finish All Jobs (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1723_find_minimum_time_to_finish_all_jobs.py)\
 [Lintcode 15 Permutations](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0015_permutations.py)\
 [Lintcode 17 Subsets](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0017_subsets.py)\
 [Lintcode 18 Subsets II](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0018_subsets_II.py)\
