@@ -11,8 +11,8 @@ class UF:
         return self.father[x]
 
     def union(self, x, y):
-        x = self.father[x]
-        y = self.father[y]
+        x = self.find_father[x]
+        y = self.find_father[y]
         if x < y:
             self.father[y] = x
         else:

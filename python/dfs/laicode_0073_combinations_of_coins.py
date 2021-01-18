@@ -25,7 +25,8 @@ any number of the coins.
 Return
 a list of ways of combinations of coins to sum up to be target.
 each way of combinations is represented by list of integer, the number at each
-index means the number of coins used for the denomination at corresponding index.
+index means the number of coins used for the denomination at
+corresponding index.
 
 Examples
 coins = {2, 1}, target = 4, the return should be
