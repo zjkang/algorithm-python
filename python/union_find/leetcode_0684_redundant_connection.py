@@ -84,7 +84,7 @@ class UnionFind:
 
 
 # dfs solution: find cycle
-class Solution:
+class Solution2:
     def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
         if not edges:
             return []
