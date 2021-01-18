@@ -4,6 +4,8 @@ date: 01/07/2021
 
 https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 
+713. Minimum Operations to Make a Subsequence
+
 You are given an array target that consists of distinct integers and another
 integer array arr that can have duplicates.
 
