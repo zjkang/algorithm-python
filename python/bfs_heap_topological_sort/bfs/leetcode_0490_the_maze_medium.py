@@ -44,7 +44,8 @@ start.length == 2
 destination.length == 2
 0 <= startrow, destinationrow <= maze.length
 0 <= startcol, destinationcol <= maze[i].length
-Both the ball and the destination exist on an empty space, and they will not be at the same position initially.
+Both the ball and the destination exist on an empty space, and they will not
+be at the same position initially.
 The maze contains at least 2 empty spaces.
 """
 

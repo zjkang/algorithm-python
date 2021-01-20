@@ -2,12 +2,12 @@
 author: Wei Li
 date: 10/20/2020
 
-https://www.lintcode.com/problem/graph-valid-tree/description?_from=ladder&&fromId=161
+https://www.lintcode.com/problem/graph-valid-tree/description
 
 178. Graph Valid Tree
 
-Given n nodes labeled from 0 to n - 1 and a list of undirected edges 
-(each edge is a pair of nodes), write a function to check whether these edges 
+Given n nodes labeled from 0 to n - 1 and a list of undirected edges
+(each edge is a pair of nodes), write a function to check whether these edges
 make up a valid tree.
 
 样例

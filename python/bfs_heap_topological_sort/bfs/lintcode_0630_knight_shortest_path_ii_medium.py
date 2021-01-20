@@ -50,6 +50,8 @@ class Point:
         self.x = a
         self.y = b
 """
+
+
 class Solution:
     """
     @param grid: a chessboard included 0 and 1

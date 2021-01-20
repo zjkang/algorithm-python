@@ -2,6 +2,10 @@
 author: Zhengjian Kang
 date: 10/19/2020
 
+https://leetcode.com/problems/is-graph-bipartite/
+
+785. Is Graph Bipartite?
+
 Given an undirected graph, return true if and only if it is bipartite.
 
 Recall that a graph is bipartite if we can split it's set of nodes into two
