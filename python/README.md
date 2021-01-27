@@ -50,6 +50,10 @@
 [Leetcode 1539 Kth Missing Positive Number](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1539_kth_missing_positive_number.py)\
 [Lintcode 460 Find K Cloest Elements](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py)
 
+#### [Bit](https://github.com/zjkang/ds_algorithm/tree/main/python/bit)
+
+[Leetcode 1734 Decode XORed Permutation (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/Leetcode_1734_Decode_XORed_Permutation.py)
+
 #### [Design](https://github.com/zjkang/ds_algorithm/tree/main/python/design)
 
 [Leetcode 170 Two Sum III](https://github.com/zjkang/ds_algorithm/blob/main/python/design/leetcode_0170_two_sum_III.py)\
