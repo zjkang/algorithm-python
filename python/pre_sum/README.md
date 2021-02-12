@@ -10,4 +10,5 @@
 [Leetcode 974 Subarray Sums Divisible by K (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0974_subarray_sums_divisible_by_k.py)\
 [Leetcode 1658 Minimum Operations to Reduce X to Zero (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1658_minimum_operations_to_reduce_x_to_zero.py)\
 [Leetcode 1664 Ways to Make a Fair Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1664_ways_to_make_a_fair_array.py)\
+[Leetcode 1749 Maximum Absolute Sum of Any Subarray (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1749_maximum_absolute_sum_of_any_subarray.py)\
 [Lintcode 138 Subarray Sum (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
