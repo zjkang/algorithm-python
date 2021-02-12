@@ -2,9 +2,17 @@
 author: Zhengjian Kang
 date: 10/23/2020
 
+残酷群每日一题: 02/12/2021
+
 https://leetcode.com/problems/network-delay-time/
 
 743. Network Delay Time
+
+note: 经典的priority题目，priority题目所需要考虑的状态是dequeued
+一般的搜索题目考虑的状态是
+no visit, visiting, visited
+enqueued -> visiting, visited
+dequeued -> visited
 
 There are N network nodes, labelled 1 to N.
 Given times, a list of travel times as directed edges times[i] = (u, v, w),
