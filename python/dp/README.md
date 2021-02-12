@@ -2,11 +2,12 @@
 
 [Laicode 456 Coin Change (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0456_coin_change.py)\
 [Laicode 663 Coin Change II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0663_coin_change_ii.py)\
-[Laicode 416 Partition Equal Subset Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0416_partition_equal_subset_sum.py)\
+[Laicode 416 Partition Equal Subset Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0416_partition_equal_subset_sum.py)
 
 ##### Intervals (区间 dp)
 
 [Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
+[Leetcode 1751 Maximum Number of Events That Can Be Attended II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1751_maximum_number_of_events_that_can_be_attended_ii.py)
 
 ##### LIS (longest increasing subsequence)
 
