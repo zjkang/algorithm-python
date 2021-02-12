@@ -3,6 +3,8 @@
 author: Zhengjian Kang
 date: 01/18/2021
 
+残酷群每日一题: 01/09/2021
+
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
 1235. Maximum Profit in Job Scheduling
