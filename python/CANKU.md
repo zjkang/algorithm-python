@@ -4,4 +4,5 @@
 [02/10/2021 Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)\
 [02/09/2021 Leetcode 1751 Maximum Number of Events That Can Be Attended II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1751_maximum_number_of_events_that_can_be_attended_ii.py)\
 [02/08/2021 Leetcode 1749 Maximum Absolute Sum of Any Subarray (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1749_maximum_absolute_sum_of_any_subarray.py)\
+[02/01/2021 Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)
