@@ -7,4 +7,5 @@
 [02/08/2021 Leetcode 1749 Maximum Absolute Sum of Any Subarray (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1749_maximum_absolute_sum_of_any_subarray.py)\
 [02/01/2021 Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)\
 [01/31/2021 Leetcode 1744 Can You Eat Your Favorite Candy On Your Favorite Day (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1744_can_you_eat_your_favorite_candy_on_your_favorite_day.py)\
-[01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)
+[01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
+[01/01/2021 Leetcode 435 Non-overlapping Intervals (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
