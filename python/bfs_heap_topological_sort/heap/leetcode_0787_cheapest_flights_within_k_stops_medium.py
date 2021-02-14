@@ -2,9 +2,13 @@
 author: Zhengjian Kang
 date: 10/23/2020
 
+残酷群每日一题: 02/13/2021
+
 https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
 787. Cheapest Flights Within K Stops
+
+note: BFS + PQ的典型题目
 
 There are n cities connected by m flights. Each flight starts from city u and
 arrives at v with a price w.
@@ -37,7 +41,8 @@ marked blue in the picture.
 
 Constraints:
 
-The number of nodes n will be in range [1, 100], with nodes labeled from 0 to n - 1.
+The number of nodes n will be in range [1, 100], with nodes labeled from 0 to
+n - 1.
 The size of flights will be in range [0, n * (n - 1) / 2].
 The format of each flight will be (src, dst, price).
 The price of each flight will be in the range [1, 10000].
