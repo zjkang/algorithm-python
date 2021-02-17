@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[02/14/2021 Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)
+[02/14/2021 Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)\
 [02/13/2021 Leetcode 787 Cheapest Flights within K Stops (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0787_cheapest_flights_within_k_stops_medium.py)\
 [02/12/2021 Leetcode 743 Network Delay Time (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0743_network_delay_time_medium.py)\
 [02/11/2021 Leetcode 1755 Closest Subsequence Sum (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
