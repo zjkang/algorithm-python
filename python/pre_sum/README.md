@@ -2,7 +2,8 @@
 
 - pre-sum 相关的题目可以考虑两个方法
 
-1. pre-fix sum 的性质 prefix_sum[i] - prefix_sum[j], prefix_sum[0] = 0
+1. pre-fix sum 的性质 prefix_sum[i] - prefix_sum[j], 加入一个 dummy 初始
+   prefix_sum[0] = 0
 2. max subarray sum - dp 的方法，继承，另起炉灶
 
 [Leetcode 238 Product of Array Except Self (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0238_product_of_array_except_self.py)\
