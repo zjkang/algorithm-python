@@ -37,6 +37,7 @@
 [Leetcode 787 Cheapest Flights within K Stops](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0787_cheapest_flights_within_k_stops_medium.py)\
 [Leetcode 882 Reachable Nodes In Subdivided Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0882_reachable_nodes_in_subdivided_graph.py)\
 [Leetcode 973 K Closest Points to Origin](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0973_k_closest_points_to_origin.py)\
+[Leetcode 1368 Minimum Cost to Make at Least One Valid Path in a Grid (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py)\
 [Lintcode 130 Heapify](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_0130_heapify_medium.py)\
 [Lintcode 461 Kth Element in An Unsorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_0461_kth_element_in_an_unsorted_array.py)\
 [Lintcode 1272 Kth Smallest Element in A Sorted Matrix](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_1272_kth_smallest_element_in_a_sorted_matrix.py)
