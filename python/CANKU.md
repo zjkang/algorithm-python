@@ -3,6 +3,7 @@
 [02/21/2021 Leetcode 882 Reachable Nodes In Subdivided Graph (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0882_reachable_nodes_in_subdivided_graph.py)\
 [02/20/2021 Leetcode 1368 Minimum Cost to Make at Least One Valid Path in a Grid (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py)\
 [02/19/2021 Leetcode 1066 Campus Bikes II (M) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1066_campus_bikes_ii.py)\
+[02/18/2021 Leetcode 1514 Path with Maximum Probability (M) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1514_path_with_maximum_probability.py)\
 [02/17/2021 Leetcode 407 Trapping Rain Water II (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0407_trapping_rain_water_ii.py)\
 [02/16/2021 Leetcode 778 Swim in Rising Water (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0778_swim_in_rising_water.py)\
 [02/14/2021 Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H) Graph](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)\
