@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[02/23/2021 Leetcode 1766 Tree of Coprimes (H) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1766_tree_of_coprimes.py)\
 [02/21/2021 Leetcode 882 Reachable Nodes In Subdivided Graph (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0882_reachable_nodes_in_subdivided_graph.py)\
 [02/20/2021 Leetcode 1368 Minimum Cost to Make at Least One Valid Path in a Grid (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py)\
 [02/19/2021 Leetcode 1066 Campus Bikes II (M) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1066_campus_bikes_ii.py)\
