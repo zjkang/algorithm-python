@@ -11,7 +11,8 @@
 
 ##### KMP
 
-[Leetcode 1392. Longest Happy Prefix (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)
+[Leetcode 28 Implement strStr() (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_28_implement_strStr.py)\
+[Leetcode 1392 Longest Happy Prefix (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)
 
 #### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
 
