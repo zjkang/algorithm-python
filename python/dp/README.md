@@ -3,7 +3,7 @@
 [Laicode 456 Coin Change (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0456_coin_change.py)\
 [Laicode 663 Coin Change II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0663_coin_change_ii.py)\
 [Leetcode 416 Partition Equal Subset Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0416_partition_equal_subset_sum.py)\
-[Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)
+[Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)\
 
 ##### Intervals (区间 dp)
 
