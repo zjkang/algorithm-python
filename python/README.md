@@ -9,6 +9,10 @@
 [Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)\
 [Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)
 
+##### KMP
+
+[Leetcode 1392. Longest Happy Prefix (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)
+
 #### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
 
 [Leetcode 111 Minimum Depth of Binary Tree (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/bfs/leetcode_0111_minimum_depth_of_binary_tree.py)\

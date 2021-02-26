@@ -9,4 +9,4 @@
 
 ##### KMP
 
-[](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)
+[Leetcode 1392. Longest Happy Prefix (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)
