@@ -101,7 +101,8 @@
 [Laicode 663 Coin Change II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0663_coin_change_ii.py)\
 [Leetcode 416 Partition Equal Subset Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0416_partition_equal_subset_sum.py)\
 [Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)\
-[Leetcode 1770 Maximum Score from Performing Multiplication Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)
+[Leetcode 1770 Maximum Score from Performing Multiplication Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)\
+[Leetcode 1771 Maximize Palindrome Length From Subsequences (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1771_maximize_palindrome_length_from_subsequences.py)
 
 ##### `Intervals (区间 dp)`
 
