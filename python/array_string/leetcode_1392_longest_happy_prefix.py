@@ -3,6 +3,10 @@
 author: Zhengjian Kang
 date: 02/26/2021
 
+https://leetcode.com/problems/longest-happy-prefix/
+
+1392. Longest Happy Prefix
+
 残酷群每日一题: 02/02/2021
 
 note: 打卡kmp的题目。这道题是自相关的match问题

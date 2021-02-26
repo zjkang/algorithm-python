@@ -6,3 +6,7 @@
 [Leetcode 948 Bags of Tokens (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0948_bags_of_tokens_medium.py)\
 [Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)\
 [Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)
+
+##### KMP
+
+[](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)
