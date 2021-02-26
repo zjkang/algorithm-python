@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[]()\
+[02/25/2021 Leetcode 1770 Maximum Score from Performing Multiplication Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)\
 [02/24/2021 Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
 [02/23/2021 Leetcode 1766 Tree of Coprimes (H) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1766_tree_of_coprimes.py)\
 [02/21/2021 Leetcode 882 Reachable Nodes In Subdivided Graph (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0882_reachable_nodes_in_subdivided_graph.py)\
