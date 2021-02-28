@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[02/27/2021 Leetcode 1653 Minimum Deletions to Make String Balanced (M) Greedy Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1653_minimum_deletions_to_make_string_balanced.py)\
 [02/26/2021 Leetcode 1771 Maximize Palindrome Length From Subsequences (H) 区间 DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1771_maximize_palindrome_length_from_subsequences.py)\
 [02/25/2021 Leetcode 1770 Maximum Score from Performing Multiplication Operations (M) 区间 DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)\
 [02/24/2021 Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M) Greedy Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
