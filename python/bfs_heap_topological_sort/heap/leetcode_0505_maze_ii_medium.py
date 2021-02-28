@@ -2,9 +2,13 @@
 author: Zhengjian Kang
 date: 10/20/2020
 
+残酷群每日一题: 02/15/2021
+
 https://leetcode.com/problems/the-maze-ii/
 
 505. The Maze II
+
+note: BFS + PQ的题目
 
 There is a ball in a maze with empty spaces and walls. The ball can go
 through empty spaces by rolling up, down, left or right, but it won't stop
