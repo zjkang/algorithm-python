@@ -2,7 +2,7 @@
 
 [02/26/2021 Leetcode 1771 Maximize Palindrome Length From Subsequences (H) 区间 DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1771_maximize_palindrome_length_from_subsequences.py)\
 [02/25/2021 Leetcode 1770 Maximum Score from Performing Multiplication Operations (M) 区间 DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)\
-[02/24/2021 Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
+[02/24/2021 Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M) Greedy Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
 [02/23/2021 Leetcode 1766 Tree of Coprimes (H) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1766_tree_of_coprimes.py)\
 [02/21/2021 Leetcode 882 Reachable Nodes In Subdivided Graph (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0882_reachable_nodes_in_subdivided_graph.py)\
 [02/20/2021 Leetcode 1368 Minimum Cost to Make at Least One Valid Path in a Grid (H) BFS + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1368_minimum_cost_to_make_at_least_one_valid_path_in_a_grid.py)\
