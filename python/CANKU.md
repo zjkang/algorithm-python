@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[03/02/2021 Leetcode 1775 Equal Sum Arrays With Minimum Number of Operations (M) Greedy + Two Pointers](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1775_equal_sum_arrays_with_minimum_number_of_operations.py)
+[03/02/2021 Leetcode 1775 Equal Sum Arrays With Minimum Number of Operations (M) Greedy + Two Pointers](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1775_equal_sum_arrays_with_minimum_number_of_operations.py)\
 [03/01/2021 Leetcode 1774 Closest Dessert Cost (M) DP or DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1774_closest_dessert_cost.py)
 
 ---
