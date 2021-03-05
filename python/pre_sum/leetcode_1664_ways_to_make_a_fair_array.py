@@ -2,6 +2,8 @@
 author: Zhengjian Kang
 date: 11/30/2020
 
+残酷群每日一题: 03/04/2021
+
 https://leetcode.com/problems/ways-to-make-a-fair-array/
 
 1664. Ways to Make a Fair Array
