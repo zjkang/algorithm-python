@@ -55,30 +55,18 @@ class Solution:
         n = len(nums)
         pre_sum = [0] * n
         post_sum = [0] * n
-
         for i in range(n):
-            if (i == 0) or (i == 1):
-                pre_sum[i] = nums[i]
-            else:
-                pre_sum[i] = pre_sum[i-2] + nums[i]
-
+            pre_sum[i] = (0 if i-2 < 0 else pre_sum[i-2]) + nums[i]
         for i in range(n-1, -1, -1):
-            if (i == n-1) or (i == n-2):
-                post_sum[i] = nums[i]
-            else:
-                post_sum[i] = post_sum[i+2] + nums[i]
+            post_sum[i] = (0 if i+2 >= n else post_sum[i+2]) + nums[i]
 
         res = 0
         for i in range(n):
             n1, n2 = 0, 0
-            if i-1 >= 0:
-                n1 += pre_sum[i-1]
-            if i-2 >= 0:
-                n2 += pre_sum[i-2]
-            if i+1 < n:
-                n2 += post_sum[i+1]
-            if i+2 < n:
-                n1 += post_sum[i+2]
+            n1 += pre_sum[i-1] if i-1 >= 0 else 0
+            n2 += pre_sum[i-2] if i-2 >= 0 else 0
+            n2 += post_sum[i+1] if i+1 < n else 0
+            n1 += post_sum[i+2] if i+2 < n else 0
             if n1 == n2:
                 res += 1
         return res
