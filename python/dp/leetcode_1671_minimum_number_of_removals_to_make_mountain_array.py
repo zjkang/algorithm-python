@@ -3,6 +3,8 @@
 author: Zhengjian Kang
 date: 03/04/2021
 
+残酷群每日一题: 02/28/2021
+
 https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
 
 1671. Minimum Number of Removals to Make Mountain Array
