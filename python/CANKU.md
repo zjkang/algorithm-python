@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/06/2021 Leetcode 334 Increasing Triplet Subsequence (M) DP LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0334_increasing_triplet_subsequence.py)\
 [03/05/2021 Leetcode 1638 Count Substrings That Differ by One Character (M) DP + Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1638_count_substrings_that_differ_by_one_character.py)\
 [03/04/2021 Leetcode 1664 Ways to Make a Fair Array (M) Pre Sum + Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1664_ways_to_make_a_fair_array.py)\
 [03/03/2021 Leetcode 1776 Car Fleet II (H) PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1776_car_fleet_ii.py)\
