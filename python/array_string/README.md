@@ -9,7 +9,8 @@
 
 ##### Two pointers & Two Pass
 
-[Leetcode 42 Trapping Rain Water (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0042_trapping_rain_water.py)
+[Leetcode 42 Trapping Rain Water (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0042_trapping_rain_water.py)\
+[Leetcode 1525 Number of Good Ways to Split a String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1525_number_of_good_ways_to_split_a_string.py)
 
 ##### KMP
 
