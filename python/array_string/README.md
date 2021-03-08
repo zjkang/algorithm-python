@@ -9,6 +9,8 @@
 
 ##### Two pointers & Two Pass
 
+[Leetcode 42 Trapping Rain Water (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0042_trapping_rain_water.py)
+
 ##### KMP
 
 [Leetcode 28 Implement strStr() (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_28_implement_strStr.py)\
