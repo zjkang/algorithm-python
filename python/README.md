@@ -209,7 +209,7 @@
 [Leetcode 951 Flip Equivalent Binary Trees](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0951_flip_equivalent_binary_trees_medium_frq20.py)\
 [Leetcode 1110 Delete Nodes and Return Forest](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1110_delete_nodes_and_return_forest_medium_frq20.py)\
 [Leetcode 1245 Tree Diameter](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1245_tree_diameter_medium.py)\
-[Leetcode 1367 Linked List in Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1367_linked_list_in_binary_tree_medium_frq5.py)\
+[Leetcode 1367 Linked List in Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1367_linked_list_in_binary_tree.py)\
 [Leetcode 1372 Longest Zigzag Path in a Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1372_longest_zigzag_path_in_a_binary_tree_medium_frq5.py)
 
 #### [Tree BST](https://github.com/zjkang/ds_algorithm/tree/main/python/tree_bst/bst)

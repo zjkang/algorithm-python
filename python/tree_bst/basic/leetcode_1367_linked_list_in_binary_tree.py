@@ -9,6 +9,8 @@ https://leetcode.com/problems/linked-list-in-binary-tree/
 
 1367. Linked List in Binary Tree
 
+note: KMP的解法
+
 Given a binary tree root and a linked list with head as the first node.
 
 Return True if all the elements in the linked list starting from the head
@@ -90,3 +92,27 @@ class Solution:
             while j > 0 and self.list[i] != self.list[j]:
                 j = self.sufix[j-1]
             self.sufix[i] = j + (self.list[i] == self.list[j])
+
+
+# Recursion
+class Solution2:
+    def isSubPath(self, head: ListNode, root: TreeNode) -> bool:
+        if not head:
+            return True
+
+        if not root:
+            return False
+
+        return self.isMatch(head, root) or self.isSubPath(head, root.left) or self.isSubPath(head, root.right)
+
+    def isMatch(self, head, root):
+        if not head:
+            return True
+
+        if not root:
+            return False
+
+        if head.val != root.val:
+            return False
+
+        return self.isMatch(head.next, root.left) or self.isMatch(head.next, root.right)
