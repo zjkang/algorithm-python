@@ -16,5 +16,6 @@
 
 [Leetcode 28 Implement strStr() (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_28_implement_strStr.py)\
 [Leetcode 214 Shortest Palindrome (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0214_shortest_palindrome.py)\
+[Leetcode 459 Repeated Substring Pattern (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0459_repeated_substring_pattern.py)\
 [Leetcode 1392 Longest Happy Prefix (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)\
 [Leetcode 1764 Form Array by Concatenating Subarrays of Another Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1764_form_array_by_concatenating_subarrays_of_another_array.py)

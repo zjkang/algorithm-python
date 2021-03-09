@@ -34,6 +34,7 @@
 [02/08/2021 Leetcode 1749 Maximum Absolute Sum of Any Subarray (M) PreSum + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1749_maximum_absolute_sum_of_any_subarray.py)\
 [02/07/2021 Leetcode 1367 Linked List in Binary Tree (M) KMP](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1367_linked_list_in_binary_tree_medium_frq5.py)\
 [02/06/2021 Leetcode 572 Subtree of Another Tree (E) KMP](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0572_subtree_of_another_tree_easy_frq25.py)\
+[02/05/2021 Leetcode 459 Repeated Substring Pattern (H) KMP](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0459_repeated_substring_pattern.py)\
 [02/04/2021 Leetcode 214 Shortest Palindrome (H) KMP](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0214_shortest_palindrome.py)\
 [02/03/2021 Leetcode 28 Implement strStr() (H) KMP](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_28_implement_strStr.py)\
 [02/02/2021 Leetcode 1392 Longest Happy Prefix (H) KMP](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)\
