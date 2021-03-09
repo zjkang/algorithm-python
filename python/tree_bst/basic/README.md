@@ -17,7 +17,7 @@
 [Leetcode 437 Path Sum III](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0437_path_sum_iii_medium_frq40.py)\
 [Leetcode 449 Serialize Deserialize BST](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0449_serialize_deserialize_bst_medium_frq5.py)\
 [Leetcode 543 Diameter of Binary Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0543_diameter_of_binary_tree_easy_frq55.py)\
-[Leetcode 572 Subtree of Another Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0572_subtree_of_another_tree_easy_frq25.py)\
+[Leetcode 572 Subtree of Another Tree (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0572_subtree_of_another_tree_easy_frq25.py)\
 [Leetcode 652 Find Duplicate Subtrees](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0652_find_duplicate_subtrees_medium_frq10.py)\
 [Leetcode 666 Path Sum IV](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0666_path_sum_iv_medium_frq1.py)\
 [Leetcode 951 Flip Equivalent Binary Trees](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0951_flip_equivalent_binary_trees_medium_frq20.py)\
