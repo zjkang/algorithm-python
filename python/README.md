@@ -83,6 +83,11 @@
 [Lintcode 685 First Unique Number in Data Stream](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_0685_first_unique_number_in_data_stream.py)\
 [Lintcode 960 First Unique Number in Data Stream II](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_0960_first_unique_number_in_data_stream_II.py)
 
+#### [Graph](https://github.com/zjkang/ds_algorithm/tree/main/python/graph)
+
+[Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)\
+[Leetcode 1782 Count Pairs Of Nodes](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1782_count_pairs_of_nodes.py)
+
 #### [DFS](https://github.com/zjkang/ds_algorithm/tree/main/python/dfs)
 
 [Laicode 73 Combination of Coins (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0073_combinations_of_coins.py)\
