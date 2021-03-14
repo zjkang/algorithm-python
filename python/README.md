@@ -124,7 +124,8 @@
 [Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)\
 [Leetcode 1770 Maximum Score from Performing Multiplication Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)\
 [Leetcode 1771 Maximize Palindrome Length From Subsequences (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1771_maximize_palindrome_length_from_subsequences.py)\
-[Leetcode 1774 Closest Dessert Cost (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1774_closest_dessert_cost.py)
+[Leetcode 1774 Closest Dessert Cost (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1774_closest_dessert_cost.py)\
+[Leetcode 1787 Make the XOR of All Segments Equal to Zero (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1787_make_the_xor_of_all_segments_equal_to_zero.py)
 
 ##### `Intervals (区间 dp)`
 
