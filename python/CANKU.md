@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/15/2021 Leetcode 1792 Maximum Average Pass Ratio (M) PQ + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1792_maximum_average_pass_ratio.py)\
 [03/14/2021 Leetcode 1442 Count Triplets That Can Form Two Arrays of Equal XOR (M) Prefix Sum + XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1442_count_triplets_that_can_form_two_arrays_of_equal_xor.py)\
 [03/13/2021 Leetcode 1310 XOR Queries of a Subarray (E) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/Leetcode_1310_xor_queries_of_a_subarray.py)\
 [03/12/2021 Leetcode 136 Single Number (E) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/Leetcode_0136_single_number.py)\
