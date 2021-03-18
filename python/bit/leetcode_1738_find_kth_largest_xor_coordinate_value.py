@@ -3,9 +3,13 @@
 author: Zhengjian Kang
 date: 03/18/2021
 
+残酷群每日一题: 03/18/2021
+
 https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 
 1738. Find Kth Largest XOR Coordinate Value
+
+note: xor + dp
 
 You are given a 2D matrix of size m x n, consisting of non-negative integers.
 You are also given an integer k.
