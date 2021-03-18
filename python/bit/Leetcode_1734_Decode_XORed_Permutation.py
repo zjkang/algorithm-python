@@ -5,12 +5,14 @@ https://leetcode.com/problems/decode-xored-permutation/
 
 1734. Decode XORed Permutation
 
-There is an integer array perm that is a permutation of the first n positive integers, where n is always odd.
+There is an integer array perm that is a permutation of the first n positive
+integers, where n is always odd.
 
-It was encoded into another integer array encoded of length n - 1, such that 
+It was encoded into another integer array encoded of length n - 1, such that
 encoded[i] = perm[i] XOR perm[i + 1].
 For example, if perm = [1,3,2], then encoded = [2,1].
-Given the encoded array, return the original array perm. It is guaranteed that the answer exists and is unique.
+Given the encoded array, return the original array perm. It is guaranteed
+that the answer exists and is unique.
 
 Example 1:
 Input: encoded = [3,1]
@@ -31,7 +33,7 @@ encoded.length == n - 1
 class Solution:
     def decode(self, encoded: List[int]) -> List[int]:
         x, n = 0, len(encoded)+1
-        for i in range(1,n+1):
+        for i in range(1, n+1):
             x = x ^ i
         # perm[0] = x XOR encoded[1] XOR encoded[3] XOR encoded[5]
         for i in range(1, len(encoded), 2):
@@ -41,5 +43,3 @@ class Solution:
         for i in range(len(encoded)):
             res[i+1] = res[i] ^ encoded[i]
         return res
-        
-        
