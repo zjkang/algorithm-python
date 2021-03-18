@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/18/2021 Leetcode 1738 Find Kth Largest XOR Coordinate Value (M) XOR + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1738_find_kth_largest_xor_coordinate_value.py)\
 [03/16/2021 Leetcode 1793 Maximum Score of a Good Subarray (H) Two Pointer + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1793_maximum_score_of_a_good_subarray.py)\
 [03/15/2021 Leetcode 1792 Maximum Average Pass Ratio (M) PQ + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1792_maximum_average_pass_ratio.py)\
 [03/14/2021 Leetcode 1442 Count Triplets That Can Form Two Arrays of Equal XOR (M) Prefix Sum + XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1442_count_triplets_that_can_form_two_arrays_of_equal_xor.py)\
