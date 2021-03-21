@@ -1,9 +1,14 @@
 """
 author: Zhengjian Kang
 date: 01/27/2021
+
+残酷群每日一题: 03/20/2021
+
 https://leetcode.com/problems/decode-xored-permutation/
 
 1734. Decode XORed Permutation
+
+note:利用奇偶的性质做xor
 
 There is an integer array perm that is a permutation of the first n positive
 integers, where n is always odd.
