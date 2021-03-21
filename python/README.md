@@ -23,6 +23,10 @@
 [Leetcode 1392 Longest Happy Prefix (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1392_longest_happy_prefix.py)\
 [Leetcode 1764 Form Array by Concatenating Subarrays of Another Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1764_form_array_by_concatenating_subarrays_of_another_array.py)
 
+##### Index sort
+
+[Leetcode 645 Set Mismatch (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0645_set_mismatch.py)
+
 #### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
 
 [Leetcode 111 Minimum Depth of Binary Tree (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/bfs/leetcode_0111_minimum_depth_of_binary_tree.py)\

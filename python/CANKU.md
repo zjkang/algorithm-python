@@ -55,5 +55,6 @@
 ---
 
 [01/31/2021 Leetcode 1744 Can You Eat Your Favorite Candy On Your Favorite Day (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1744_can_you_eat_your_favorite_candy_on_your_favorite_day.py)\
+[01/30/2021 Leetcode 645 Set Mismatch (E) Index Sort](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0645_set_mismatch.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)

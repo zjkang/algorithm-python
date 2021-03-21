@@ -22,3 +22,5 @@
 [Leetcode 1764 Form Array by Concatenating Subarrays of Another Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1764_form_array_by_concatenating_subarrays_of_another_array.py)
 
 ##### Index sort
+
+[Leetcode 645 Set Mismatch (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0645_set_mismatch.py)
