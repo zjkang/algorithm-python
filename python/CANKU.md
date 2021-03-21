@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/19/2021 Leetcode 810 Chalkboard XOR Game (H) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_0810_chalkboard_xor_game.py)\
 [03/18/2021 Leetcode 1738 Find Kth Largest XOR Coordinate Value (M) XOR + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1738_find_kth_largest_xor_coordinate_value.py)\
 [03/17/2021 Leetcode 1506 Find Root of N-Ary Tree (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1506_find_root_of_n-ary_tree.py)\
 [03/16/2021 Leetcode 1793 Maximum Score of a Good Subarray (H) Two Pointer + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1793_maximum_score_of_a_good_subarray.py)\
