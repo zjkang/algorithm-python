@@ -1,3 +1,3 @@
 #### trie 更新
 
-[Leetcode 1738 Find Kth Largest XOR Coordinate Value (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1738_find_kth_largest_xor_coordinate_value.py)
+[Leetcode 421 Maximum XOR of Two Numbers in an Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_0421_maximum_xor_of_two_numbers_in_an_array.py)

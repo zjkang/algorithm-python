@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/21/2021 Leetcode 421 Maximum XOR of Two Numbers in an Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_0421_maximum_xor_of_two_numbers_in_an_array.py)\
 [03/20/2021 Leetcode 1734 Decode XORed Permutation (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1734_Decode_XORed_Permutation.py)\
 [03/19/2021 Leetcode 810 Chalkboard XOR Game (H) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_0810_chalkboard_xor_game.py)\
 [03/18/2021 Leetcode 1738 Find Kth Largest XOR Coordinate Value (M) XOR + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1738_find_kth_largest_xor_coordinate_value.py)\
