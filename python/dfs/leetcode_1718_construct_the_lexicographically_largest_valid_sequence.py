@@ -2,9 +2,13 @@
 author: Zhengjian Kang
 date: 01/11/2021
 
+残酷群每日一题: 01/11/2021
+
 https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 
 1718. Construct the Lexicographically Largest Valid Sequence
+
+note: dfs
 
 Given an integer n, find a sequence that satisfies all of the following:
 

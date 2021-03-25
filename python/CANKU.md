@@ -78,5 +78,6 @@
 [01/14/2021 Leetcode 1723 Find Minimum Time to Finish All Jobs (H) Binary Search + DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1723_find_minimum_time_to_finish_all_jobs.py)\
 [01/13/2021 Leetcode 1722 Minimize Hamming Distance After Swap Operations (M) Union-Find](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1722_minimize_hamming_distance_after_swap_operations.py)\
 [01/12/2021 Leetcode 1719 Number Of Ways To Reconstruct A Tree (H) Graph](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1719_number_of_ways_to_reconstruct_a_tree.py)\
+[01/11/2021 Leetcode 1718 Construct the Lexicographically Largest Valid Sequence (M) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1718_construct_the_lexicographically_largest_valid_sequence.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
