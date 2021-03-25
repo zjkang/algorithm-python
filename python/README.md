@@ -25,6 +25,7 @@
 
 ##### Index sort
 
+[Leetcode 448 Find All Numbers Disappeared in an Array (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0448_find_all_numbers_disappeared_in_an_array.py)\
 [Leetcode 645 Set Mismatch (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0645_set_mismatch.py)
 
 #### [BFS](https://github.com/zjkang/ds_algorithm/tree/main/python/bfs_heap_topological_sort/bfs)
@@ -271,7 +272,7 @@
 [Leetcode 1028 Recover a Tree from Preorder Traversal](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1028_recover_a_tree_from_preorder_traversal_hard_frq1.py)\
 [Leetcode 1379 Find a Corresponding Node of a Binary Tree in a Clone of that Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py)
 
-#### [trie](https://github.com/zjkang/ds_algorithm/tree/main/python/trie)
+#### [Trie](https://github.com/zjkang/ds_algorithm/tree/main/python/trie)
 
 [Leetcode 421 Maximum XOR of Two Numbers in an Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_0421_maximum_xor_of_two_numbers_in_an_array.py)\
 [Leetcode 1707 Maximum XOR With an Element From Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
