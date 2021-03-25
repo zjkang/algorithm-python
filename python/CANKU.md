@@ -4,7 +4,7 @@
 [03/23/2021 Leetcode 1803 Count Pairs With XOR in a Range (H) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1803_count_pairs_with_xor_in_a_range.py)\
 [03/22/2021 Leetcode 1707 Maximum XOR With an Element From Array (H) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
 [03/21/2021 Leetcode 421 Maximum XOR of Two Numbers in an Array (M) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_0421_maximum_xor_of_two_numbers_in_an_array.py)\
-[03/20/2021 Leetcode 1734 Decode XORed Permutation (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1734_Decode_XORed_Permutation.py)\
+[03/20/2021 Leetcode 1734 Decode XORed Permutation (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1734_decode_xored_permutation.py)\
 [03/19/2021 Leetcode 810 Chalkboard XOR Game (H) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_0810_chalkboard_xor_game.py)\
 [03/18/2021 Leetcode 1738 Find Kth Largest XOR Coordinate Value (M) XOR + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1738_find_kth_largest_xor_coordinate_value.py)\
 [03/17/2021 Leetcode 1506 Find Root of N-Ary Tree (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1506_find_root_of_n-ary_tree.py)\
@@ -66,6 +66,6 @@
 [01/26/2021 Leetcode 1739 Building Boxes (H) Greedy + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1739_building_boxes.py)\
 [01/25/2021 Leetcode 1737 Change Minimum Characters to Satisfy One of Three Conditions (M) Prefix Sum + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1737_change_minimum_characters_to_satisfy_one_of_three_conditions.py)\
 [01/24/2021 Leetcode 1735 Count Ways to Make Array With Product (H) Math + Combination](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1735_count_ways_to_make_array_with_product.py)\
-[01/23/2021 Leetcode 1734 Decode XORed Permutation (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1734_Decode_XORed_Permutation.py)\
+[01/23/2021 Leetcode 1734 Decode XORed Permutation (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1734_decode_xored_permutation.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
