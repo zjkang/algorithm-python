@@ -68,5 +68,6 @@
 [01/24/2021 Leetcode 1735 Count Ways to Make Array With Product (H) Math + Combination](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1735_count_ways_to_make_array_with_product.py)\
 [01/23/2021 Leetcode 1734 Decode XORed Permutation (M) XOR](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1734_decode_xored_permutation.py)\
 [01/22/2021 Leetcode 268 Missing Number (E) Index Sort](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0268_missing_number.py)\
+[01/21/2021 Leetcode 41 First Missing Positive (H) Index Sort](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0041_first_missing_positive.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)

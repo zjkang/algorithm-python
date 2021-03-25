@@ -23,6 +23,7 @@
 
 ##### Index sort
 
+[Leetcode 41 First Missing Positive (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0041_first_missing_positive.py)\
 [Leetcode 268 Missing Number (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0268_missing_number.py)\
 [Leetcode 287 Find the Duplicate Number (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0287_find_the_duplicate_number.py)\
 [Leetcode 442 Find All Duplicates in an Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0442_find_all_duplicates_in_an_array.py)\
