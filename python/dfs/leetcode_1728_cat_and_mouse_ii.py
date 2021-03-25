@@ -2,7 +2,7 @@
 author: Zhengjian Kang
 date: 03/25/2021
 
-残酷群每日一题: 02/20/2021
+残酷群每日一题: 01/20/2021
 
 https://leetcode.com/problems/cat-and-mouse-ii/
 
