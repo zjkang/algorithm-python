@@ -1,10 +1,14 @@
 """
 author: Zhengjian Kang
-date: 01/07/2021
+date: 03/25/2021
+
+残酷群每日一题: 01/04/2021
 
 https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 
 1713. Minimum Operations to Make a Subsequence
+
+note: DP LIS
 
 You are given an array target that consists of distinct integers and another
 integer array arr that can have duplicates.
