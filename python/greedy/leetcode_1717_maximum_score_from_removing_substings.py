@@ -3,9 +3,13 @@
 author: Zhengjian Kang
 date: 01/18/2021
 
+残酷群每日一题: 01/10/2021
+
 https://leetcode.com/problems/maximum-score-from-removing-substrings/
 
 1717. Maximum Score From Removing Substrings
+
+note: Greedy
 
 You are given a string s and two integers x and y. You can perform two types
 of operations any number of times.
