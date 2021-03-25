@@ -3,9 +3,13 @@
 author: Zhengjian Kang
 date: 10/08/2020
 
+残酷群每日一题: 01/15/2021
+
 https://leetcode.com/problems/snapshot-array/
 
 1146. Snapshot Array
+
+note: design + binary search
 
 Implement a SnapshotArray that supports the following interface:
 

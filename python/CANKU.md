@@ -74,5 +74,6 @@
 [01/18/2021 Leetcode 1727 Largest Submatrix With Rearrangements (M) Greedy + Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1727_largest_submatrix_with_rearrangements.py)\
 [01/17/2021 Leetcode 1724 Checking Existence of Edge Length Limited Paths II (H) Union-Find + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1724_checking_existence_of_edge_length_limited_paths_ii.py)\
 [01/16/2021 Leetcode 1697 Checking Existence of Edge Length Limited Paths (H) Union-Find + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1697_checking_existence_of_edge_length_limited_paths.py)\
+[01/15/2021 Leetcode 1146 Snapshot Array (M) Design + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/design/leetcode_1146_snapshot_array.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
