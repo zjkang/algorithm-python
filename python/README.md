@@ -189,6 +189,10 @@
 [Leetcode 846 Hand of Straights](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0846_hand_of_straights_medium_frq10.py)\
 [Leetcode 1288 Remove Covered Intervals](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_1288_remove_covered_intervals_medium_frq3.py)
 
+#### math 更新
+
+[Leetcode 1735 Count Ways to Make Array With Product (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1735_count_ways_to_make_array_with_product.py)
+
 #### [Prefix Sum](https://github.com/zjkang/ds_algorithm/tree/main/python/pre_sum)
 
 [Leetcode 238 Product of Array Except Self (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0238_product_of_array_except_self.py)\

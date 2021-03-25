@@ -65,5 +65,6 @@
 [01/27/2021 Leetcode 287 Find the Duplicate Number (M) Index Sort](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0287_find_the_duplicate_number.py)\
 [01/26/2021 Leetcode 1739 Building Boxes (H) Greedy + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1739_building_boxes.py)\
 [01/25/2021 Leetcode 1737 Change Minimum Characters to Satisfy One of Three Conditions (M) Prefix Sum + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1737_change_minimum_characters_to_satisfy_one_of_three_conditions.py)\
+[01/24/2021 Leetcode 1735 Count Ways to Make Array With Product (H) Math + Combination](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1735_count_ways_to_make_array_with_product.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
