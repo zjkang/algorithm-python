@@ -3,9 +3,13 @@
 author: Zhengjian Kang
 date: 01/17/2021
 
+残酷群每日一题: 01/13/2021
+
 https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 
 1722. Minimize Hamming Distance After Swap Operations
+
+note: union-find
 
 You are given two integer arrays, source and target, both of length n.
 You are also given an array allowedSwaps where each allowedSwaps[i] = [ai, bi]
