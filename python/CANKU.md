@@ -81,4 +81,5 @@
 [01/11/2021 Leetcode 1718 Construct the Lexicographically Largest Valid Sequence (M) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1718_construct_the_lexicographically_largest_valid_sequence.py)\
 [01/10/2021 Leetcode 1717 Maximum Score From Removing Substrings (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1717_maximum_score_from_removing_substings.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
+[01/08/2021 Leetcode 757 Set Intersection Size at least Two (H) Greedy + Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0757_set_intersection_size_at_least_two.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)

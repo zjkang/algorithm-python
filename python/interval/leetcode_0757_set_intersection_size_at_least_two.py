@@ -2,7 +2,13 @@
 author: Zhengjian Kang
 date: 01/08/2021
 
+残酷群每日一题: 01/08/2021
+
 https://leetcode.com/problems/set-intersection-size-at-least-two/
+
+757. Set Intersection Size At Least Two
+
+note: Greedy + Intervals
 
 An integer interval [a, b] (for integers a < b) is a set of all consecutive
 integers from a to b, including a and b.
@@ -24,10 +30,9 @@ Output: 5
 Explanation: An example of a minimum sized set is {1, 2, 3, 4, 5}.
 
 Constraints:
-
 1 <= intervals.length <= 3000
 intervals[i].length == 2
-0 <= ai < bi <= 108
+0 <= ai < bi <= 10^8
 """
 
 
