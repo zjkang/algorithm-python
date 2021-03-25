@@ -2,9 +2,13 @@
 author: Zhengjian Kang
 date: 01/17/2021
 
+残酷群每日一题: 01/16/2021
+
 https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 
 1697. Checking Existence of Edge Length Limited Paths
+
+note: union-find + binary search
 
 An undirected graph of n nodes is defined by edgeList, where edgeList[i] =
 [ui, vi, disi] denotes an edge between nodes ui and vi with distance disi.
