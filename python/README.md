@@ -25,6 +25,7 @@
 
 ##### Index sort
 
+[Leetcode 287 Find the Duplicate Number (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0287_find_the_duplicate_number.py)\
 [Leetcode 442 Find All Duplicates in an Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0442_find_all_duplicates_in_an_array.py)\
 [Leetcode 448 Find All Numbers Disappeared in an Array (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0448_find_all_numbers_disappeared_in_an_array.py)\
 [Leetcode 645 Set Mismatch (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0645_set_mismatch.py)
