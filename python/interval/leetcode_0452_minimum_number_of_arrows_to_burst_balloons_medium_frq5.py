@@ -2,9 +2,13 @@
 author: Wei Li
 date: 10/17/2020
 
+残酷群每日一题: 01/02/2021
+
 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 
 452. Minimum Number of Arrows to Burst Balloons
+
+note: Interval sort by end + Greedy
 
 There are some spherical balloons spread in two-dimensional space. For each
 balloon, provided input is the start and end coordinates of the horizontal
