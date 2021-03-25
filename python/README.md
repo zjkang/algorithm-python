@@ -123,6 +123,7 @@
 [Leetcode 1192 Critical Connections in a Network (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1192_critical_connections_in_a_network_hard.py)\
 [Leetcode 1718 Construct the Lexicographically Largest Valid Sequence (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1718_construct_the_lexicographically_largest_valid_sequence.py)\
 [Leetcode 1723 Find Minimum Time to Finish All Jobs (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1723_find_minimum_time_to_finish_all_jobs.py)\
+[Leetcode 1728 Cat and Mouse II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1728_cat_and_mouse_ii.py)\
 [Leetcode 1755 Closest Subsequence Sum (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
 [Leetcode 1766 Tree of Coprimes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1766_tree_of_coprimes.py)\
 [Lintcode 15 Permutations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0015_permutations.py)\
