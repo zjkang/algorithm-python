@@ -86,5 +86,6 @@
 [01/06/2021 Leetcode 960 Delete Columns to Make Sorted III (H) DP LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0960_delete_columns_to_make_sorted_iii.py)\
 [01/05/2021 Leetcode 955 Delete Columns to Make Sorted II (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0955_delete_columns_to_make_sorted_ii.py)\
 [01/04/2021 Leetcode 1713 Minimum Operations to Make a Subsequence (H) DP LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1713_minimum_operations_to_make_a_subsequence.py)\
+[01/03/2021 Leetcode 1712 Ways to Split Array Into Three Subarrays (M) Two Pointers + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1712_ways_to_split_array_into_three_subarrays.py)\
 [01/02/2021 Leetcode 452 Minimum Number of Arrows to Burst Balloon (M) Greedy + Intervals](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0452_minimum_number_of_arrows_to_burst_balloons_medium_frq5.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
