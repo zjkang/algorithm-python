@@ -2,7 +2,7 @@
 author: Zhengjian Kang
 date: 01/27/2021
 
-残酷群每日一题: 03/20/2021
+残酷群每日一题: 03/20/2021; 01/23/2021
 
 https://leetcode.com/problems/decode-xored-permutation/
 
