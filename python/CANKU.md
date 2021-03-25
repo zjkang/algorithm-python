@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/24/2021 Leetcode 55 Jump Game (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0055_jump_game.py)\
 [03/23/2021 Leetcode 1803 Count Pairs With XOR in a Range (H) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1803_count_pairs_with_xor_in_a_range.py)\
 [03/22/2021 Leetcode 1707 Maximum XOR With an Element From Array (H) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
 [03/21/2021 Leetcode 421 Maximum XOR of Two Numbers in an Array (M) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_0421_maximum_xor_of_two_numbers_in_an_array.py)\
