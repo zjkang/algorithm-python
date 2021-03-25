@@ -163,6 +163,7 @@
 [Leetcode 316 Remove Duplicate Letters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0316_remove_deplicate_letters.py)\
 [Leetcode 763 Partition Labels (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0763_partition_labels.py)\
 [Leetcode 1717 Maximum Score From Removing Substrings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1717_maximum_score_from_removing_substings.py)\
+[Leetcode 1727 Largest Submatrix With Rearrangements (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1727_largest_submatrix_with_rearrangements.py)\
 [Leetcode 1739 Building Boxes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1739_building_boxes.py)\
 [Leetcode 1744 Can You Eat Your Favorite Candy On Your Favorite Day (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1744_can_you_eat_your_favorite_candy_on_your_favorite_day.py)\
 [Leetcode 1775 Equal Sum Arrays With Minimum Number of Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1775_equal_sum_arrays_with_minimum_number_of_operations.py)

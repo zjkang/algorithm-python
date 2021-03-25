@@ -71,5 +71,6 @@
 [01/21/2021 Leetcode 41 First Missing Positive (H) Index Sort](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0041_first_missing_positive.py)\
 [01/20/2021 Leetcode 1728 Cat and Mouse II (H) DFS + MEMO](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1728_cat_and_mouse_ii.py)\
 [01/19/2021 Leetcode 913 Cat and Mouse (H) DFS + MEMO](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0913_cat_and_mouse.py)\
+[01/18/2021 Leetcode 1727 Largest Submatrix With Rearrangements (M) Greedy + Sum](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1727_largest_submatrix_with_rearrangements.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)
