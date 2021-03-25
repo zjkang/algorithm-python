@@ -82,4 +82,5 @@
 [01/10/2021 Leetcode 1717 Maximum Score From Removing Substrings (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1717_maximum_score_from_removing_substings.py)\
 [01/09/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [01/08/2021 Leetcode 757 Set Intersection Size at least Two (H) Greedy + Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0757_set_intersection_size_at_least_two.py)\
+[01/07/2021 Leetcode 646 Maximum Length of Pair Chain (M) Greedy + Interval + DP LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0646_maximum_length_of_pair_chain.py)\
 [01/01/2021 Leetcode 435 Non-overlapping Intervals (M) Interval](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0435_non-overlapping_intervals.py)

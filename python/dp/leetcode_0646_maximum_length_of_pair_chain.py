@@ -2,9 +2,13 @@
 author: Zhengjian Kang
 date: 01/07/2021
 
+残酷群每日一题: 01/07/2021
+
 https://leetcode.com/problems/maximum-length-of-pair-chain/
 
 646. Maximum Length of Pair Chain
+
+note: Greedy + Interval or DP LIS
 
 You are given n pairs of numbers. In every pair, the first number is always
 smaller than the second number.
