@@ -8,7 +8,8 @@
 [Leetcode 1727 Largest Submatrix With Rearrangements (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1727_largest_submatrix_with_rearrangements.py)\
 [Leetcode 1739 Building Boxes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1739_building_boxes.py)\
 [Leetcode 1744 Can You Eat Your Favorite Candy On Your Favorite Day (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1744_can_you_eat_your_favorite_candy_on_your_favorite_day.py)\
-[Leetcode 1775 Equal Sum Arrays With Minimum Number of Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1775_equal_sum_arrays_with_minimum_number_of_operations.py)
+[Leetcode 1775 Equal Sum Arrays With Minimum Number of Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1775_equal_sum_arrays_with_minimum_number_of_operations.py)\
+[Leetcode 1798 Maximum Number of Consecutive Values You Can Make (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1798_maximum_number_of_consecutive_values_you_can_make.py)
 
 ##### Two Pass
 

@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[03/25/2021 Leetcode 1798 Maximum Number of Consecutive Values You Can Make (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1798_maximum_number_of_consecutive_values_you_can_make.py)\
 [03/24/2021 Leetcode 55 Jump Game (M) Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0055_jump_game.py)\
 [03/23/2021 Leetcode 1803 Count Pairs With XOR in a Range (H) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1803_count_pairs_with_xor_in_a_range.py)\
 [03/22/2021 Leetcode 1707 Maximum XOR With an Element From Array (H) XOR + Trie](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
