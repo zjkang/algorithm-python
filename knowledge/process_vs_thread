@@ -1,0 +1,14 @@
+https://www.guru99.com/difference-between-process-and-thread.html#:~:text=Process%20means%20a%20program%20is,Lightweight%2C%20whereas%20Threads%20are%20Lightweight.&text=A%20Process%20is%20mostly%20isolated,share%20data%20with%20each%20other.
+
+* What is process? 
+
+A process is the execution of a program that allows you to perform the appropriate actions specified in a program. 
+It can be defined as an execution unit where a program runs. The OS helps you to create, schedule, and terminates the processes 
+which is used by CPU. The other processes created by the main process are called child process.
+A process operations can be easily controlled with the help of PCB(Process Control Block). 
+
+You can consider it as the brain of the process, which contains all the crucial information related to processing 
+like process id, priority, state, and contents CPU register, etc.
+
+* 
+
