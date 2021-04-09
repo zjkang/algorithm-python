@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[Leetcode 464 Can I Win (M) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0464_can_i_win.py)
+[04/09/2021 Leetcode 464 Can I Win (M) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0464_can_i_win.py)
 
 ---
 
