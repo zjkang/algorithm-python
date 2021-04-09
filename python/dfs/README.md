@@ -11,6 +11,7 @@
 [Laicode 643 All Permutations of Subsets (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0643_all_permutations_of_subsets.py)\
 [Leetcode 22 Generate Parentheses (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0022_generate_parentheses.py)\
 [Leetcode 332 Reconstruct Itinerary (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0332_reconstruct_itinerary.py)\
+[Leetcode 464 Can I Win (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0464_can_i_win.py)\
 [Leetcode 526 Beautiful Arrangement (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0526_beautiful_arrangement.py)\
 [Leetcode 902 Numbers at Most N given digit Set (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0902_numbers_at_most_n_given_digit_set.py)\
 [Leetcode 913 Cat and Mouse (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0913_cat_and_mouse.py)\
