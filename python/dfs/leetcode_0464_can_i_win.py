@@ -9,7 +9,7 @@ https://leetcode.com/problems/can-i-win/
 
 464. Can I Win
 
-note: 博弈dfs，考虑先手必赢或者必输的情况
+note: 博弈dfs，考虑先手必赢或者必输的情况 + state compression
 
 In the "100 game" two players take turns adding, to a running total,
 any integer from 1 to 10. The player who first causes the running total
