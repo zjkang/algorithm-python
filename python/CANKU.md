@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[04/10/2021 Leetcode 638 Shopping Offers (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0638_shopping_offers.py)\
+[04/10/2021 Leetcode 638 Shopping Offers (M) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0638_shopping_offers.py)\
 [04/09/2021 Leetcode 464 Can I Win (M) DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0464_can_i_win.py)
 
 ---
