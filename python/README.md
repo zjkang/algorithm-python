@@ -122,6 +122,7 @@
 [Leetcode 332 Reconstruct Itinerary (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0332_reconstruct_itinerary.py)\
 [Leetcode 464 Can I Win (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0464_can_i_win.py)\
 [Leetcode 526 Beautiful Arrangement (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0526_beautiful_arrangement.py)\
+[Leetcode 638 Shopping Offers (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0638_shopping_offers.py)\
 [Leetcode 902 Numbers at Most N given digit Set (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0902_numbers_at_most_n_given_digit_set.py)\
 [Leetcode 913 Cat and Mouse (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0913_cat_and_mouse.py)\
 [Leetcode 1192 Critical Connections in a Network (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1192_critical_connections_in_a_network_hard.py)\
