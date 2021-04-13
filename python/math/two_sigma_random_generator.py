@@ -16,36 +16,36 @@
 # get_random里随机选一个数组里的数输出，并从数组移除返回的数。
 # （数的移除是可以在恒定时间里实现的）
 
-# import random
-# class RandomGenerator:
-#     def __init__(self):
-#         self.nums = []
-#         self.index = -1
+import random
+class RandomGenerator:
+    def __init__(self):
+        self.nums = []
+        self.index = -1
     
-#     def set_range(self, lower, upper):
-#         if self.index >= 0:
-#             raise Exception("Cannot set range")
-#         self.nums = [i for i in range(lower, upper+1)]
-#         self.index = upper - lower
+    def set_range(self, lower, upper):
+        if self.index >= 0:
+            raise Exception("Cannot set range")
+        self.nums = [i for i in range(lower, upper+1)]
+        self.index = upper - lower
         
-#     def get_random(self):
-#         if self.index < 0:
-#             raise Exception("find all random numbers")
-#         idx = random.randint(0, self.index)
-#         rand_num = self.nums[idx]
-#         self.nums[idx], self.nums[self.index] = self.nums[self.index], self.nums[idx]
-#         self.index -= 1
-#         return rand_num
+    def get_random(self):
+        if self.index < 0:
+            raise Exception("find all random numbers")
+        idx = random.randint(0, self.index)
+        rand_num = self.nums[idx]
+        self.nums[idx], self.nums[self.index] = self.nums[self.index], self.nums[idx]
+        self.index -= 1
+        return rand_num
     
-# # test
-# r = RandomGenerator()
-# r.set_range(1,5)
-# print(r.get_random())
-# print(r.get_random())
-# print(r.get_random())
-# print(r.get_random())
-# print(r.get_random())
-# print(r.get_random())
+# test
+r = RandomGenerator()
+r.set_range(1,5)
+print(r.get_random())
+print(r.get_random())
+print(r.get_random())
+print(r.get_random())
+print(r.get_random())
+print(r.get_random())
 
 
 # -----------------------------------------------------
