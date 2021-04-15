@@ -3,8 +3,40 @@
 
 https://leetcode.com/problems/random-pick-with-blacklist/solution/
 
+Given a blacklist B containing unique integers from [0, N), write a function to return a uniform random integer
+from [0, N) which is NOT in B.
 
+Optimize it such that it minimizes the call to system’s Math.random().
 
+Note:
+
+1 <= N <= 1000000000
+0 <= B.length < min(100000, N)
+[0, N) does NOT include N. See interval notation.
+Example 1:
+
+Input: 
+["Solution","pick","pick","pick"]
+[[1,[]],[],[],[]]
+Output: [null,0,0,0]
+Example 2:
+
+Input: 
+["Solution","pick","pick","pick"]
+[[2,[]],[],[],[]]
+Output: [null,1,1,1]
+Example 3:
+
+Input: 
+["Solution","pick","pick","pick"]
+[[3,[1]],[],[],[]]
+Output: [null,0,0,2]
+Example 4:
+
+Input: 
+["Solution","pick","pick","pick"]
+[[4,[2]],[],[],[]]
+Output: [null,1,3,1]
 '''
 
 # virtual whitelist (my version)
@@ -72,6 +104,24 @@ class Solution:
 # # using zip() to tuple list [('rash', 1), ...]
 # # to convert lists to dictionary
 # res = dict(zip(test_keys, test_values))
+
+# using zip to simply code
+class Solution:
+    
+    def __init__(self, N: int, blacklist: List[int]):
+        self.hash = {}
+        blacklist = set(blacklist)
+        self.wlen = N - len(blacklist)
+        
+        w = [i for i in range(self.wlen, N) if i not in blacklist]
+        b = [x for x in blacklist if x < self.wlen]
+        self.hash = dict(zip(b, w))
+        
+    def pick(self) -> int:
+        num = random.randint(0, self.wlen-1)
+        if num in self.hash:
+            return self.hash[num]
+        return num
 
       
 # -----------------------------------
