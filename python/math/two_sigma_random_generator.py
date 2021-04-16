@@ -47,6 +47,25 @@ print(r.get_random())
 print(r.get_random())
 print(r.get_random())
 
+# init w/o init the whole array
+class RandomGenerator:
+    def __init__(self, lower, upper):
+        self.seen = {}
+        self.lower = lower
+        self.upper = upper
+        
+    def get_random(self):
+        if self.upper < 0:
+            raise Exception('Already generate all numbers')
+        num = random.randint(self.lower, self.upper)
+        ret = num
+        if num in self.seen:
+            ret = self.seen[num]
+        self.seen[num] = self.seen[self.upper] if self.upper in self.seen else self.upper
+        self.upper -= 1
+        return ret
+    
+
 
 # -----------------------------------------------------
 # follow up
