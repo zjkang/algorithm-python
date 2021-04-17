@@ -10,6 +10,7 @@
 [Laicode 642 All Valid Permutations of Parentheses III (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0642_all_valid_permutations_of_parentheses_iii.py)\
 [Laicode 643 All Permutations of Subsets (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0643_all_permutations_of_subsets.py)\
 [Leetcode 22 Generate Parentheses (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0022_generate_parentheses.py)\
+[Leetcode 37 Sudoku Solver (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0037_sudoku_solver.py)\
 [Leetcode 329 Longest Increasing Path in a Matrix (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0329_longest_increasing_path_in_a_matrix.py)\
 [Leetcode 332 Reconstruct Itinerary (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0332_reconstruct_itinerary.py)\
 [Leetcode 464 Can I Win (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0464_can_i_win.py)\
