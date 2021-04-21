@@ -9,4 +9,5 @@
 
 ##### `计算器+-*/() stack`
 
-[Leetcode 224 Basic Calculator (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0224_basic_calculator.py)
+[Leetcode 224 Basic Calculator (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0224_basic_calculator.py)\
+[Leetcode 227 Basic Calculator II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0227_basic_calculator_ii.py)
