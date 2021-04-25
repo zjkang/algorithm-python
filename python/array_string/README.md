@@ -7,6 +7,10 @@
 [Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)\
 [Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)
 
+##### Two pointers & Sliding window
+[Leetcode 76 Minimum Window Substring (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0076_minimum_window_substring.py)\
+[Leetcode 340 Longest Substring with At Most K Distinct Characters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0340_longest_substring_with_at_most_K_distinct_characters.py)
+
 ##### Two pointers & Two Pass
 
 [Leetcode 42 Trapping Rain Water (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0042_trapping_rain_water.py)\
