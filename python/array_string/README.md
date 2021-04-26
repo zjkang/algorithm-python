@@ -7,6 +7,7 @@
 [Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)
 
 ##### Two pointers & Sliding window
+[Template Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/template_sliding_window.py)\
 [Leetcode 76 Minimum Window Substring (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0076_minimum_window_substring.py)\
 [Leetcode 340 Longest Substring with At Most K Distinct Characters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0340_longest_substring_with_at_most_K_distinct_characters.py)
 
