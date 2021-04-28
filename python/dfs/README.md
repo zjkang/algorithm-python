@@ -32,4 +32,5 @@
 
 ##### `dfs + trie`
 
-[Leetcode 0212 Word Search II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0212_word_search_ii.py)
+[Leetcode 0212 Word Search II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0212_word_search_ii.py)\
+[Leetcode 0472 Concatenated Words (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0472_concatenated_words.py)
