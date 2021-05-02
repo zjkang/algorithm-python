@@ -13,6 +13,7 @@
 
 ##### Two Pass
 
+[Leetcode 135 Candy (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0135_candy.py)
 [Leetcode 1653 Minimum Deletions to Make String Balanced (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1653_minimum_deletions_to_make_string_balanced.py)\
 [Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
 [Leetcode 1840 Maximum Building Height (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1840_maximum_building_height.py)
