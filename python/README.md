@@ -9,6 +9,7 @@
 [Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)
 
 ##### Two pointers & Sliding window
+
 [Template Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/template_sliding_window.py)\
 [Leetcode 76 Minimum Window Substring (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0076_minimum_window_substring.py)\
 [Leetcode 340 Longest Substring with At Most K Distinct Characters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0340_longest_substring_with_at_most_K_distinct_characters.py)
@@ -18,7 +19,6 @@
 [Leetcode 42 Trapping Rain Water (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0042_trapping_rain_water.py)\
 [Leetcode 1525 Number of Good Ways to Split a String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1525_number_of_good_ways_to_split_a_string.py)\
 [Leetcode 1793 Maximum Score of a Good Subarray (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1793_maximum_score_of_a_good_subarray.py)\
-[Leetcode 1840 Maximum Building Height (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1840_maximum_building_height.py)
 
 ##### KMP
 
@@ -188,7 +188,8 @@
 ##### Two Pass
 
 [Leetcode 1653 Minimum Deletions to Make String Balanced (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1653_minimum_deletions_to_make_string_balanced.py)\
-[Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)
+[Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
+[Leetcode 1840 Maximum Building Height (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1840_maximum_building_height.py)
 
 #### [Hash Table](https://github.com/zjkang/ds_algorithm/tree/main/python/hash_table)
 
