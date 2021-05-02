@@ -172,9 +172,12 @@
 [Leetcode 1671 Minimum Number of Removals to Make Mountain Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1671_minimum_number_of_removals_to_make_mountain_array.py)\
 [Leetcode 1713 Minimum Operations to Make a Subsequence (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1713_minimum_operations_to_make_a_subsequence.py)
 
+---
+
 #### [Greedy](https://github.com/zjkang/ds_algorithm/tree/main/python/greedy)
 
 [Leetcode 55 Jump Game (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0055_jump_game.py)\
+[Leetcode 135 Candy (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0135_candy.py)\
 [Leetcode 316 Remove Duplicate Letters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0316_remove_deplicate_letters.py)\
 [Leetcode 763 Partition Labels (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0763_partition_labels.py)\
 [Leetcode 955 Delete Columns to Make Sorted II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0955_delete_columns_to_make_sorted_ii.py)\
@@ -190,6 +193,8 @@
 [Leetcode 1653 Minimum Deletions to Make String Balanced (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1653_minimum_deletions_to_make_string_balanced.py)\
 [Leetcode 1769 Minimum Number of Operations to Move All Balls to Each Box (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1769_minimum_number_of_operations_to_move_all_balls_to_each_box.py)\
 [Leetcode 1840 Maximum Building Height (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1840_maximum_building_height.py)
+
+---
 
 #### [Hash Table](https://github.com/zjkang/ds_algorithm/tree/main/python/hash_table)
 
@@ -303,11 +308,15 @@
 [Leetcode 1028 Recover a Tree from Preorder Traversal](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1028_recover_a_tree_from_preorder_traversal_hard_frq1.py)\
 [Leetcode 1379 Find a Corresponding Node of a Binary Tree in a Clone of that Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/traversal/leetcode_1379_find_a_corresponding_node_of_a_binary_tree_in_a_clone_of_that_tree.py)
 
+---
+
 #### [Trie](https://github.com/zjkang/ds_algorithm/tree/main/python/trie)
 
 [Leetcode 421 Maximum XOR of Two Numbers in an Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_0421_maximum_xor_of_two_numbers_in_an_array.py)\
 [Leetcode 1707 Maximum XOR With an Element From Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
 [Leetcode 1803 Count Pairs With XOR in a Range (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1803_count_pairs_with_xor_in_a_range.py)
+
+---
 
 #### [Union Find](https://github.com/zjkang/ds_algorithm/tree/main/python/union_find)
 
