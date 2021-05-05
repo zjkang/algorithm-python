@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[05/04/2021 Leetcode 1707 Maximum XOR With an Element From Array (H) XOR + Trie + Offline Querying](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
 [05/03/2021 Leetcode 1697 Checking Existence of Edge Length Limited Paths (H) Union-Find + Binary Search + Offline Querying](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1697_checking_existence_of_edge_length_limited_paths.py)\
 [05/02/2021 Leetcode 1846 Maximum Element After Decreasing and Rearranging (M) Greedy + Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1846_maximum_element_after_decreasing_and_rearranging.py)\
 [05/01/2021 Leetcode 135 Candy (H) Greedy + Two Pass](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0135_candy.py)
