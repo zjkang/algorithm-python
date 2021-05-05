@@ -10,7 +10,7 @@ https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 1707. Maximum XOR With an Element From Array
 
 note: xor + trie
-offline querying的系列题目
+offline querying的系列题目, 使用TrieNode可能会超时，所以可以使用native dictionary {}来代替
 
 You are given an array nums consisting of non-negative integers.
 You are also given a queries array, where queries[i] = [xi, mi].
