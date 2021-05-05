@@ -3,13 +3,14 @@
 author: Zhengjian Kang
 date: 03/22/2021
 
-残酷群每日一题: 03/22/2021
+残酷群每日一题: 03/22/2021; 05/04/2021
 
 https://leetcode.com/problems/maximum-xor-with-an-element-from-array/
 
 1707. Maximum XOR With an Element From Array
 
 note: xor + trie
+offline querying的系列题目
 
 You are given an array nums consisting of non-negative integers.
 You are also given a queries array, where queries[i] = [xi, mi].
