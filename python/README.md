@@ -85,12 +85,20 @@
 [Lintcode 127 Topological Sotring](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/lintcode_0127_topological_sorting_medium.py)\
 [Lintcode 892 Alien Dictionary](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/lintcode_0892_alien_dictionary_hard.py)
 
+---
+
 #### [Binary Search](https://github.com/zjkang/ds_algorithm/tree/main/python/binary_search)
 
-[Leetcode 1060 Missing Element in Sorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
-[Leetcode 1539 Kth Missing Positive Number](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1539_kth_missing_positive_number.py)\
 [Leetcode 1712 Ways to Split Array Into Three Subarrays (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1712_ways_to_split_array_into_three_subarrays.py)\
-[Lintcode 460 Find K Cloest Elements](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py)
+[Leetcode 1847 Closest Room (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1847_closest_room.py)\
+[Lintcode 460 Find K Cloest Elements (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py)
+
+##### `missing numbers`
+
+[Leetcode 1060 Missing Element in Sorted Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
+[Leetcode 1539 Kth Missing Positive Number (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1539_kth_missing_positive_number.py)
+
+---
 
 #### [Bit](https://github.com/zjkang/ds_algorithm/tree/main/python/bit)
 
@@ -234,6 +242,8 @@
 [Leetcode 1749 Maximum Absolute Sum of Any Subarray (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1749_maximum_absolute_sum_of_any_subarray.py)\
 [Lintcode 138 Subarray Sum (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
 
+---
+
 #### [Stack](https://github.com/zjkang/ds_algorithm/tree/main/python/stack)
 
 [Leetcode 1249 Minimum Remove to Make Valid Parentheses](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)
@@ -242,6 +252,8 @@
 
 [Leetcode 862 Shortest Subarray with Sum at Least K (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0862_shortest_subarray_with_sum%20at_least_k.py)\
 [Leetcode 84 Largest Rectangle in Histogram](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0084_largest_rectangle_in_histogram.py)
+
+---
 
 #### [Tree Basic](https://github.com/zjkang/ds_algorithm/tree/main/python/tree_bst/basic)
 
