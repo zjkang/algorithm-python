@@ -4,7 +4,6 @@
 [Leetcode 1847 Closest Room (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1847_closest_room.py)\
 [Lintcode 460 Find K Cloest Elements (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/lintcode_460_find_k_closest_elements.py
 
-
 ##### `missing numbers`
 
 [Leetcode 1060 Missing Element in Sorted Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
