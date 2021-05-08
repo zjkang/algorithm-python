@@ -22,6 +22,10 @@
 [Leetcode 1525 Number of Good Ways to Split a String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1525_number_of_good_ways_to_split_a_string.py)\
 [Leetcode 1793 Maximum Score of a Good Subarray (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1793_maximum_score_of_a_good_subarray.py)
 
+##### Reverse Pairs
+
+[Leetcode 1850 Minimum Adjacent Swaps to Reach the Kth Smallest Number (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number.py)
+
 ##### KMP
 
 [Leetcode 28 Implement strStr() (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_28_implement_strStr.py)\
