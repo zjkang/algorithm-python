@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[05/07/2021 Leetcode 1850 Minimum Adjacent Swaps to Reach the Kth Smallest Number (M) Greedy + Reverse Pairs](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number.py)
+[05/07/2021 Leetcode 1850 Minimum Adjacent Swaps to Reach the Kth Smallest Number (M) Greedy + Reverse Pairs](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1850_minimum_adjacent_swaps_to_reach_the_kth_smallest_number.py)\
 [05/05/2021 Leetcode 1847 Closest Room (H) Heap + Offline Querying](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1847_closest_room.py)\
 [05/04/2021 Leetcode 1707 Maximum XOR With an Element From Array (H) XOR + Trie + Offline Querying](https://github.com/zjkang/ds_algorithm/blob/main/python/trie/leetcode_1707_maximum_xor_with_an_element_from_array.py)\
 [05/03/2021 Leetcode 1697 Checking Existence of Edge Length Limited Paths (H) Union-Find + Binary Search + Offline Querying](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1697_checking_existence_of_edge_length_limited_paths.py)\
