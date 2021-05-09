@@ -9,6 +9,7 @@
 [Laicode 640 All Subsets of Size K (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0640_all_subsets_of_size_k.py)\
 [Laicode 642 All Valid Permutations of Parentheses III (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0642_all_valid_permutations_of_parentheses_iii.py)\
 [Laicode 643 All Permutations of Subsets (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/laicode_0643_all_permutations_of_subsets.py)\
+
 [Leetcode 22 Generate Parentheses (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0022_generate_parentheses.py)\
 [Leetcode 37 Sudoku Solver (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0037_sudoku_solver.py)\
 [Leetcode 329 Longest Increasing Path in a Matrix (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0329_longest_increasing_path_in_a_matrix.py)\
@@ -24,6 +25,8 @@
 [Leetcode 1728 Cat and Mouse II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1728_cat_and_mouse_ii.py)\
 [Leetcode 1755 Closest Subsequence Sum (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
 [Leetcode 1766 Tree of Coprimes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1766_tree_of_coprimes.py)\
+[Leetcode 1849 Splitting a String Into Descending Consecutive Values (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1849_splitting_a_string_into_descending_consecutive_values.py)\
+
 [Lintcode 15 Permutations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0015_permutations.py)\
 [Lintcode 17 Subsets (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0017_subsets.py)\
 [Lintcode 18 Subsets II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0018_subsets_II.py)\
