@@ -116,6 +116,8 @@
 [Leetcode 1738 Find Kth Largest XOR Coordinate Value (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1738_find_kth_largest_xor_coordinate_value.py)\
 [Leetcode 1835 Find XOR Sum of All Pairs Bitwise AND (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/bit/leetcode_1835_find_xor_sum_of_all_pairs_bitwise_and.py)
 
+---
+
 #### [Design](https://github.com/zjkang/ds_algorithm/tree/main/python/design)
 
 [Leetcode 170 Two Sum III](https://github.com/zjkang/ds_algorithm/blob/main/python/design/leetcode_0170_two_sum_III.py)\
@@ -123,11 +125,15 @@
 [Lintcode 685 First Unique Number in Data Stream](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_0685_first_unique_number_in_data_stream.py)\
 [Lintcode 960 First Unique Number in Data Stream II](https://github.com/zjkang/ds_algorithm/blob/main/python/design/lintcode_0960_first_unique_number_in_data_stream_II.py)
 
+---
+
 #### [Graph](https://github.com/zjkang/ds_algorithm/tree/main/python/graph)
 
 [Leetcode 1719 Number Of Ways To Reconstruct A Tree (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1719_number_of_ways_to_reconstruct_a_tree.py)\
 [Leetcode 1761 Minimum Degree of a Connected Trio in a Graph (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1761_minimum_degree_of_a_connected_trio_in_a_graph.py)\
 [Leetcode 1782 Count Pairs Of Nodes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/graph/leetcode_1782_count_pairs_of_nodes.py)
+
+---
 
 #### [DFS](https://github.com/zjkang/ds_algorithm/tree/main/python/dfs)
 
@@ -160,6 +166,8 @@
 [Lintcode 18 Subsets II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0018_subsets_II.py)\
 [Lintcode 425 Letter Combinations of a Phone Number (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0425_letter_combinations_of_a_phone_number.py)\
 [Lintcode 780 Remove Invalid Parentheses (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0780_remove_invalid_parentheses.py)
+
+---
 
 #### [DP](https://github.com/zjkang/ds_algorithm/tree/main/python/dp)
 
@@ -215,6 +223,8 @@
 
 [Leetcode 266 Palindrome Permutation](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_0266_palindrome_permutation.py)
 
+---
+
 #### [Interval](https://github.com/zjkang/ds_algorithm/tree/main/python/interval)
 
 [Leetcode 56 Merge Intervals](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0056_merge_intervals_medium_frq85.py)\
@@ -232,9 +242,13 @@
 [Leetcode 846 Hand of Straights](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0846_hand_of_straights_medium_frq10.py)\
 [Leetcode 1288 Remove Covered Intervals](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_1288_remove_covered_intervals_medium_frq3.py)
 
+---
+
 #### math 更新
 
 [Leetcode 1735 Count Ways to Make Array With Product (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1735_count_ways_to_make_array_with_product.py)
+
+---
 
 #### [Prefix Sum](https://github.com/zjkang/ds_algorithm/tree/main/python/pre_sum)
 
