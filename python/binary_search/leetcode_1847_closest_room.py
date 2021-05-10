@@ -9,7 +9,7 @@ https://leetcode.com/problems/closest-room/
 
 1847. Closest Room
 
-note: heap(sorte set)
+note: heap(sorted set)
 offline querying的系列题目
 
 There is a hotel with n rooms. The rooms are represented by a 2D integer array rooms
