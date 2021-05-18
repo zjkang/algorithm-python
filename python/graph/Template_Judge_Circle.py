@@ -11,7 +11,7 @@ def main():
       return False
     return True
   
-  # bfs 判断有环
+  # top bfs 判断有环
   return bfs()
 
 
