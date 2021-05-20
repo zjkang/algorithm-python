@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[05/18/2021 Leetcode 1861 Rotating the Box (M) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1861_rotating_the_box.py)\
 [05/17/2021 Leetcode 48 Rotate Image (M) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0048_rotate_image.py)\
 [05/16/2021 Leetcode 802 Find Eventual Safe States (M) Top Sort](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/topo/leetcode_0802_find_eventual_safe_states.py)\
 [05/08/2021 Leetcode 1849 Splitting a String Into Descending Consecutive Values (M) String + DFS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1849_splitting_a_string_into_descending_consecutive_values.py)\
