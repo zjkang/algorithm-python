@@ -3,6 +3,7 @@
 [Laicode 456 Coin Change (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0456_coin_change.py)\
 [Laicode 663 Coin Change II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/laicode_0663_coin_change_ii.py)\
 [Leetcode 416 Partition Equal Subset Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0416_partition_equal_subset_sum.py)\
+[Leetcode 903 Valid Permutations for DI Sequence (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0903_valid_permutations_for_di_sequence.py)\
 [Leetcode 1638 Count Substrings That Differ by One Character (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1638_count_substrings_that_differ_by_one_character.py)\
 [Leetcode 1745 Palindrome Partitioning IV (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1745_palindrome_partitioning_iv.py)\
 [Leetcode 1770 Maximum Score from Performing Multiplication Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1770_maximum_score_from_performing_multiplication_operations.py)\
