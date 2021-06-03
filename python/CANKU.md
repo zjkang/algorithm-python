@@ -1,5 +1,9 @@
 #### 残酷群每天打卡
 
+[06/02/2021 Leetcode 1878 Get Biggest Three Rhombus Sums in a Grid (M) PreSum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1878_get_biggest_three_rhombus_sums_in_a_grid.py)
+
+---
+
 [05/21/2021 Leetcode 903 Valid Permutations for DI Sequence (H) DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0903_valid_permutations_for_di_sequence.py)\
 [05/19/2021 Leetcode 1862 Sum of Floored Pairs (H) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1862_sum_of_floored_pairs.py)\
 [05/18/2021 Leetcode 1861 Rotating the Box (M) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1861_rotating_the_box.py)\
