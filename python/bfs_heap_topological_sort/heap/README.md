@@ -16,6 +16,11 @@
 [Leetcode 1792 Maximum Average Pass Ratio (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1792_maximum_average_pass_ratio.py)\
 [Leetcode 1851 Minimum Interval to Include Each Query (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_1851_minimum_interval_to_include_each_query.py)
 
+##### `Sort + PQ`
+
+[Leetcode 502 IPO (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0502_IPO.py)
+
+
 [Lintcode 130 Heapify](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_0130_heapify_medium.py)\
 [Lintcode 461 Kth Element in An Unsorted Array](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_0461_kth_element_in_an_unsorted_array.py)\
 [Lintcode 1272 Kth Smallest Element in A Sorted Matrix](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/lintcode_1272_kth_smallest_element_in_a_sorted_matrix.py)\
