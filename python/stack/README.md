@@ -9,5 +9,10 @@
 
 ##### `计算器+-*/() stack`
 
+计算器类的变形
+- 加减+左右括号
+- 加减乘除+没有括号
+- 
+
 [Leetcode 224 Basic Calculator (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0224_basic_calculator.py)\
 [Leetcode 227 Basic Calculator II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0227_basic_calculator_ii.py)
