@@ -12,6 +12,7 @@
 计算器类的变形
 - 加减+左右括号
 - 加减乘除+没有括号
+- 加减乘除+左右括号
 - 
 
 [Leetcode 224 Basic Calculator (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0224_basic_calculator.py)\
