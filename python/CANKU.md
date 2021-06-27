@@ -1,7 +1,7 @@
 #### 残酷群每天打卡
 
 [06/26/2021 Leetcode 479 Largest Palindrome Product (H) Palindrome + Brute Force](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0479_largest_palindrome_product.py)\
-[06/25/2021 Leetcode 313 Super Ugly Number (M DP + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0313_super_ugly_number.py)
+[06/25/2021 Leetcode 313 Super Ugly Number (M DP + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0313_super_ugly_number.py)\
 [06/11/2021 Leetcode 502 IPO (H) Sort + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0502_IPO.py)\
 [06/02/2021 Leetcode 1878 Get Biggest Three Rhombus Sums in a Grid (M) PreSum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1878_get_biggest_three_rhombus_sums_in_a_grid.py)\
 [06/01/2021 Leetcode 798 Smallest Rotation with Highest Score (H) Diff Array](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0798_smallest_rotation_with_highest_score.py)
