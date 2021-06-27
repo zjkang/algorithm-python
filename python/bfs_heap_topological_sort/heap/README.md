@@ -20,6 +20,9 @@
 
 [Leetcode 502 IPO (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0502_IPO.py)
 
+##### `DP + PQ`
+[Leetcode 313 Super Ugly Number (M](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0313_super_ugly_number.py)
+
 
 #####  `Lintcode`
 
