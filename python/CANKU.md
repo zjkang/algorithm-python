@@ -1,5 +1,7 @@
 #### 残酷群每天打卡
 
+[07/01/2021 Leetcode 1915 Number of Wonderful Substrings (M) Prefix + Hash + State](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1915_number_of_wonderful_substrings.py)
+
 ---
 
 [06/30/2021 Leetcode 1916 Count Ways to Build Rooms in an Ant Colony (H) DFS + Math](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1916_count_ways_to_build_rooms_in_an_ant_colony.py)\
