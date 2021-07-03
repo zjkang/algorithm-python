@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[07/02/2021 Leetcode 1542 Find Longest Awesome Substring (H) Prefix + Hash + State](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1542_find_longest_awesome_substring.py)\
 [07/01/2021 Leetcode 1915 Number of Wonderful Substrings (M) Prefix + Hash + State](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1915_number_of_wonderful_substrings.py)
 
 ---
