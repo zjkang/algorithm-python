@@ -4,6 +4,7 @@
 
 ##### `Prefix+Hash`
 
+[Leetcode 1371 Find the Longest Substring Containing Vowels in Even Counts (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1371_find_the_longest_substring_containing_vowels_in_even_counts.py)\
 [Leetcode 1542 Find Longest Awesome Substring (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1542_find_longest_awesome_substring.py)\
 [Leetcode 1915 Number of Wonderful Substrings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1915_number_of_wonderful_substrings.py)
 
