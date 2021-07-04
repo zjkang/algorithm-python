@@ -60,7 +60,6 @@ class OrderType:
     BUY = 0
     SELL = 1
 
-
 class Order:
     def __init__(self, oid, type, quantity, price):
         self.oid = oid
@@ -72,21 +71,18 @@ class Order:
         str_type = 'buy' if self.type == OrderType.BUY else 'sell'
         return f"order id={self.oid} type={str_type} quantity={self.quantity} price={self.price}"
         
-
 class SellOrder(Order):
     def __init__(self, oid, type, quantity, price):
         super().__init__(oid, type, quantity, price)
     def __lt__(self, o):
-        self.price < o.price  
+        return self.price < o.price  
 
-        
 class BuyOrder(Order):
     def __init__(self, oid, type, quantity, price):
         super().__init__(oid, type, quantity, price)
     def __lt__(self, o):
-        self.price > o.price  
-
-# two pq to keep track of
+        return self.price > o.price  
+        
 # sell -> <= max buy
 # buy -> >= min sell
 
@@ -162,11 +158,11 @@ class OrderExecution:
 
 # quantity, price
 orders = [
-    Order(1, OrderType.SELL, 10, 15),
-    Order(2, OrderType.SELL, 8, 20),
+    Order(1, OrderType.BUY, 10, 15),
+    Order(2, OrderType.BUY, 8, 20),
     # Order(3, OrderType.BUY, 20, 10) # no match
-    # Order(2, OrderType.BUY, 12, 30), # match>1: sell consumed one and half, buy all consumed
-    Order(3, OrderType.BUY, 6, 20) # match: buy all consumed
+    # Order(2, OrderType.BUY, 12, 30), # match>1: sell consumed once, buy all consued
+    Order(3, OrderType.BUY, 6, 30) # match: buy all consumed
 ]
     
 order_exe = OrderExecution()
