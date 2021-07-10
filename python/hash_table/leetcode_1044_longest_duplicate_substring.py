@@ -7,7 +7,7 @@ date: 07/09/2021
 https://leetcode.com/problems/longest-duplicate-substring/
 
 1044. Longest Duplicate Substring
-note: rolling hash
+note: rolling hash + binary search
 
 Given a string s, consider all duplicated substrings:
 (contiguous) substrings of s that occur 2 or more times. The occurrences may overlap.
