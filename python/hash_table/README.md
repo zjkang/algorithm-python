@@ -9,7 +9,7 @@
 [Leetcode 1915 Number of Wonderful Substrings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1915_number_of_wonderful_substrings.py)
 
 ##### `Rolling Hash`
-[1044. Longest Duplicate Substring
+[Leetcode 1044 Longest Duplicate Substring
  (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1044_longest_duplicate_substring.py)\
 [Leetcode 1698 Number of Distinct Substrings in a String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1698_number_of_distinct_substrings_in_a_string.py)\
 [Leetcode 1923 Longest Common Subpath (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1923_longest_common_subpath.py)
