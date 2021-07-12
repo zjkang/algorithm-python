@@ -1,4 +1,5 @@
 # 3 order execution buy/sell
+
 import heapq
 class OrderType:
     BUY = 0
@@ -22,22 +23,6 @@ class Order:
             return self.price < o.price
         else:
             return self.price > o.price
-        
-        
-# class SellOrder(Order):
-#     def __init__(self, oid, type, quantity, price):
-#         super().__init__(oid, type, quantity, price)
-#     def __lt__(self, o):
-#         return self.price < o.price  
-
-# class BuyOrder(Order):
-#     def __init__(self, oid, type, quantity, price):
-#         super().__init__(oid, type, quantity, price)
-#     def __lt__(self, o):
-#         return self.price > o.price  
-
-# sell -> <= max buy
-# buy -> >= min sell
 
 class OrderExecution:
     def __init__(self):
@@ -104,50 +89,83 @@ class OrderExecution:
         return rets
         
     
-# test case
+order_exe = OrderExecution()
 
-# buy & sell match one of the orders
-# buy & sell match >1 orders
-
-# id, type, quantity, price
+# # test case 1
+# # buy & sell do not match
+# # id, type, quantity, price
 # orders = [
 #     Order(1, OrderType.BUY, 10, 15),
 #     Order(2, OrderType.BUY, 8, 20),
-#     # Order(3, OrderType.BUY, 20, 10) # no match
-#     # Order(2, OrderType.BUY, 12, 30), # match>1: sell consumed once, buy all consued
-#     Order(3, OrderType.BUY, 6, 30) # match: buy all consumed
+#     Order(3, OrderType.SELL, 10, 30) 
 # ]
-    
-order_exe = OrderExecution()
-
-# test case 1
-# buy & sell do not match
-print('---test case 1')
-# id, type, quantity, price
-orders = [
-    Order(1, OrderType.BUY, 10, 15),
-    Order(2, OrderType.BUY, 8, 20),
-    Order(3, OrderType.SELL, 10, 30) 
-]
-print(orders[0])
-print('sell before', order_exe.orders_sell, 'buy before', order_exe.orders_buy)
-print('execute', order_exe.execute(orders[0]))
-print('sell after', order_exe.orders_sell, 'buy after', order_exe.orders_buy)
-
-
-
-# print('--------------------')
-# print(orders[1])
-# print('sell before', order_exe.orders_sell)
-# print('buy before', order_exe.orders_buy)
+# print('execute', order_exe.execute(orders[0]))
 # print('execute', order_exe.execute(orders[1]))
-# print('sell after', order_exe.orders_sell)
-# print('buy after', order_exe.orders_buy)
-    
-# print('--------------------')
-# print(orders[2])
-# print('sell before', order_exe.orders_sell)
-# print('buy before', order_exe.orders_buy)
 # print('execute', order_exe.execute(orders[2]))
 # print('sell after', order_exe.orders_sell)
 # print('buy after', order_exe.orders_buy)
+
+
+# # ------------------------------------------
+# # test case 2
+# # sell matches buy once, sell is all consumed via one buy
+# # id, type, quantity, price
+# orders = [
+#     Order(1, OrderType.BUY, 10, 15),
+#     Order(2, OrderType.BUY, 8, 20),
+#     Order(3, OrderType.SELL, 5, 10) 
+# ]
+# print('execute', order_exe.execute(orders[0]))
+# print('execute', order_exe.execute(orders[1]))
+# print('execute', order_exe.execute(orders[2]))
+# print('sell after', order_exe.orders_sell)
+# print('buy after', order_exe.orders_buy)
+
+
+# ----------------------------------------
+# test case 3
+# sell matches buy mutliple times, sell is all consumed via multiple buy
+# id, type, quantity, price
+orders = [
+    Order(1, OrderType.BUY, 5, 15),
+    Order(2, OrderType.BUY, 8, 20),
+    Order(3, OrderType.SELL, 10, 10) 
+]
+print('execute', order_exe.execute(orders[0]))
+print('execute', order_exe.execute(orders[1]))
+print('execute', order_exe.execute(orders[2]))
+print('sell after', order_exe.orders_sell)
+print('buy after', order_exe.orders_buy)
+
+# -----------------------------------------
+# # test case 4
+# # sell matches buy once, sell is partially consumed via one buy
+# # id, type, quantity, price
+# orders = [
+#     Order(1, OrderType.BUY, 10, 10),
+#     Order(2, OrderType.BUY, 8, 20),
+#     Order(3, OrderType.SELL, 10, 15) 
+# ]
+# print('execute', order_exe.execute(orders[0]))
+# print('execute', order_exe.execute(orders[1]))
+# print('execute', order_exe.execute(orders[2]))
+# print('sell after', order_exe.orders_sell)
+# print('buy after', order_exe.orders_buy)
+
+#--------------------------------------------- 
+        
+# class SellOrder(Order):
+#     def __init__(self, oid, type, quantity, price):
+#         super().__init__(oid, type, quantity, price)
+#     def __lt__(self, o):
+#         return self.price < o.price  
+
+# class BuyOrder(Order):
+#     def __init__(self, oid, type, quantity, price):
+#         super().__init__(oid, type, quantity, price)
+#     def __lt__(self, o):
+#         return self.price > o.price  
+
+# sell -> <= max buy
+# buy -> >= min sell
+
