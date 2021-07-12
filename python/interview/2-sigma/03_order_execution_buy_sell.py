@@ -14,19 +14,28 @@ class Order:
     def __repr__(self):
         str_type = 'buy' if self.type == OrderType.BUY else 'sell'
         return f"order id={self.oid} type={str_type} quantity={self.quantity} price={self.price}"
-        
-class SellOrder(Order):
-    def __init__(self, oid, type, quantity, price):
-        super().__init__(oid, type, quantity, price)
+    
     def __lt__(self, o):
-        return self.price < o.price  
+        if self.type != o.type:
+            raise Exception('cannot compare for different types')
+        if self.type == OrderType.SELL:
+            return self.price < o.price
+        else:
+            return self.price > o.price
+        
+        
+# class SellOrder(Order):
+#     def __init__(self, oid, type, quantity, price):
+#         super().__init__(oid, type, quantity, price)
+#     def __lt__(self, o):
+#         return self.price < o.price  
 
-class BuyOrder(Order):
-    def __init__(self, oid, type, quantity, price):
-        super().__init__(oid, type, quantity, price)
-    def __lt__(self, o):
-        return self.price > o.price  
-        
+# class BuyOrder(Order):
+#     def __init__(self, oid, type, quantity, price):
+#         super().__init__(oid, type, quantity, price)
+#     def __lt__(self, o):
+#         return self.price > o.price  
+
 # sell -> <= max buy
 # buy -> >= min sell
 
@@ -111,13 +120,21 @@ orders = [
     
 order_exe = OrderExecution()
 
+# test case 1
 print('--------------------')
+# id, type, quantity, price
+orders = [
+    Order(1, OrderType.BUY, 10, 15),
+    Order(2, OrderType.BUY, 8, 20),
+    # Order(3, OrderType.BUY, 20, 10) # no match
+    Order(3, OrderType.BUY, 6, 30) # match: buy all consumed
+]
 print(orders[0])
-print('sell before', order_exe.orders_sell)
-print('buy before', order_exe.orders_buy)
+print('sell before', order_exe.orders_sell, 'buy before', order_exe.orders_buy)
 print('execute', order_exe.execute(orders[0]))
-print('sell after', order_exe.orders_sell)
-print('buy after', order_exe.orders_buy)
+print('sell after', order_exe.orders_sell, 'buy after', order_exe.orders_buy)
+
+
 
 print('--------------------')
 print(orders[1])
