@@ -1,4 +1,4 @@
-
+# https://interviews-1.gitbook.io/two-sigma-interview/twosigmainterviewnotes#board-and-player
 # Enter your code here. Read input from STDIN. Print output to STDOUT
 class Game:
     def __init__(self, width, height):
