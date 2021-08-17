@@ -11,6 +11,10 @@
 [Leetcode 1775 Equal Sum Arrays With Minimum Number of Operations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1775_equal_sum_arrays_with_minimum_number_of_operations.py)\
 [Leetcode 1798 Maximum Number of Consecutive Values You Can Make (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1798_maximum_number_of_consecutive_values_you_can_make.py)
 
+##### Parenthesis
+
+[Leetcode 678 Valid Parenthesis String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0678_valid_parenthesis_string.py)
+
 ##### Two Pass
 
 [Leetcode 135 Candy (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0135_candy.py)\
