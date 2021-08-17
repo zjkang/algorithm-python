@@ -14,6 +14,7 @@
 ##### Parenthesis
 
 [Leetcode 678 Valid Parenthesis String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0678_valid_parenthesis_string.py)\
+[Leetcode 1249 Minimum Remove to Make Valid Parentheses (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)\
 [Leetcode 1541 Minimum Insertions to Balance a Parentheses String (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1541_minimum_insertions_to_balance_a_parentheses_string.py)
 
 
