@@ -1,5 +1,10 @@
 #### 残酷群每天打卡
 
+
+[08/16/2021 Leetcode 678 Valid Parenthesis String (M) Greedy + Stack + Parenthesis](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0678_valid_parenthesis_string.py)
+
+---
+
 [07/09/2021 Leetcode 1698 Number of Distinct Substrings in a String (M) Rolling Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1698_number_of_distinct_substrings_in_a_string.py)\
 [07/08/2021 Leetcode 1923 Longest Common Subpath (H) Rolling Hash + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1923_longest_common_subpath.py)\
 [07/06/2021 Leetcode 1044 Longest Duplicate Substring
