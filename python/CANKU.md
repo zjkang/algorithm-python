@@ -2,7 +2,8 @@
 
 
 [08/16/2021 Leetcode 678 Valid Parenthesis String (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0678_valid_parenthesis_string.py)\
-[08/15/2021 Leetcode 1541 Minimum Insertions to Balance a Parentheses String (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1541_minimum_insertions_to_balance_a_parentheses_string.py)
+[08/15/2021 Leetcode 1541 Minimum Insertions to Balance a Parentheses String (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1541_minimum_insertions_to_balance_a_parentheses_string.py)\
+[08/14/2021 Leetcode 1249 Minimum Remove to Make Valid Parentheses (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)\
 
 ---
 
