@@ -34,4 +34,6 @@
 [Leetcode 646 Maximum Length of Pair Chain (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0646_maximum_length_of_pair_chain.py)\
 [Leetcode 960 Delete Columns to Make Sorted III (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0960_delete_columns_to_make_sorted_iii.py)\
 [Leetcode 1671 Minimum Number of Removals to Make Mountain Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1671_minimum_number_of_removals_to_make_mountain_array.py)\
-[Leetcode 1713 Minimum Operations to Make a Subsequence (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1713_minimum_operations_to_make_a_subsequence.py)
+[Leetcode 1713 Minimum Operations to Make a Subsequence (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1713_minimum_operations_to_make_a_subsequence.py)\
+[Leetcode 1964 Find the Longest Valid Obstacle Course at Each Position (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1964_find_the_longest_valid_obstacle_course_at_each_position.py)
+
