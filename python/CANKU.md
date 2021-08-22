@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[08/21/2021 Leetcode 1964 Find the Longest Valid Obstacle Course at Each Position (H) Greedy + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1964_find_the_longest_valid_obstacle_course_at_each_position.py)\
 [08/20/2021 Leetcode 300 Longest Increasing Subsequence (M) Greedy + DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0300_longest_increasing_subsequence.py)\
 [08/18/2021 Leetcode 1105 Filling Bookcase Shelves (M) DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1105_filling_bookcase_shelves.py)\
 [08/16/2021 Leetcode 678 Valid Parenthesis String (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0678_valid_parenthesis_string.py)\
