@@ -1,5 +1,9 @@
 #### 残酷群每天打卡
 
+[09/10/2021 Leetcode 1996 The Number of Weak Characters in the Game (M) Sort + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1996_the_number_of_weak_characters_in_the_game.py)
+
+---
+
 [08/25/2021 Leetcode 1970 Last Day Where You Can Still Cross (H) Union Find](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1970_last_day_where_you_can_still_cross.py)\
 [08/23/2021 Leetcode 354 Russian Doll Envelopes (H) DP + LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0354_russian_doll_envelopes.py)\
 [08/21/2021 Leetcode 1964 Find the Longest Valid Obstacle Course at Each Position (H) Greedy + DP + LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1964_find_the_longest_valid_obstacle_course_at_each_position.py)\
