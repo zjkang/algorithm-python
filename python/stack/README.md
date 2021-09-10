@@ -15,8 +15,7 @@
 - 加减+左右括号
 - 加减乘除+没有括号
 - 加减乘除+左右括号
-- 
 
 [Leetcode 224 Basic Calculator (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0224_basic_calculator.py)\
-[Leetcode 227 Basic Calculator II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0227_basic_calculator_ii.py)\
+[Leetcode 227 Basic Calculator II (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0227_basic_calculator_ii.py)\
 [Leetcode 772. Basic Calculator III (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0772_basic_calculator_iii.py)
