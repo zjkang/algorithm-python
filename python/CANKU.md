@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[09/27/2021 Leetcode 2013 Detect Squares (M) Enumeration](https://github.com/zjkang/ds_algorithm/blob/main/python/others/enumeration/leetcode_2013_detect_squares.py)\
 [09/10/2021 Leetcode 1996 The Number of Weak Characters in the Game (M) Sort + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1996_the_number_of_weak_characters_in_the_game.py)
 
 ---
