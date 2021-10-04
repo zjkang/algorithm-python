@@ -6,7 +6,7 @@ date: 10/04/2021
 https://leetcode.com/problems/24-game/
 
 679. 24 Game
-note: 对于左右半边枚举结果，做dfs
+note: 对于左右半边枚举结果，做dfs, 与LC 241 Different Ways to Add Parentheses与LC 2019 The Score of Students Solving Math Expression类似的套路
 
 You are given an integer array cards of length 4.
 You have four cards, each containing a number in the range [1, 9].
