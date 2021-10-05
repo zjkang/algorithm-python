@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[10/04/2021 Leetcode 1004 Max Consecutive Ones III (M) Two Pointers + Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1004_max_consecutive_ones_iii.py)\
 [10/03/2021 Leetcode 679 24 Game (H) Recursion](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0679_24_game.py)\
 [10/02/2021 Leetcode 2019 The Score of Students Solving Math Expression (H) Recursion + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_2019_the_score_of_students_solving_math_expression.py)\
 [10/01/2021 Leetcode 241 Different Ways to Add Parentheses (M) Recursion](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0241_different_ways_to_add_parentheses.py)
