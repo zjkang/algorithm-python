@@ -41,5 +41,6 @@
 
 ##### `dfs + operator`
 
+[Leetcode 241 Different Ways to Add Parentheses (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0241_different_ways_to_add_parentheses.py)\
 [Leetcode 679 24 Game (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0679_24_game.py)\
 [Leetcode 2019 The Score of Students Solving Math Expression (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_2019_the_score_of_students_solving_math_expression.py)
