@@ -11,6 +11,7 @@
 
 [Leetcode 238 Product of Array Except Self (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0238_product_of_array_except_self.py)\
 [Leetcode 523 Continuous Subarray Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0523_continuous_subarray_sum_medium.py)\
+[Leetcode 930 Binary Subarrays With Sum (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0930_binary_subarrays_with_sum.py)\
 [Leetcode 974 Subarray Sums Divisible by K (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0974_subarray_sums_divisible_by_k.py)\
 [Leetcode 1442 Count Triplets That Can Form Two Arrays of Equal XOR (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1442_count_triplets_that_can_form_two_arrays_of_equal_xor.py)\
 [Leetcode 1658 Minimum Operations to Reduce X to Zero (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1658_minimum_operations_to_reduce_x_to_zero.py)\
