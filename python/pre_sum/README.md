@@ -22,6 +22,8 @@
 [Lintcode 138 Subarray Sum (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
 
 
+#### prefix 更新 generalize pre-sum
+
 - prefix 考虑subarray or substring求区间内的性质，可以考虑prefix + hash
 
 
