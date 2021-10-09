@@ -2,8 +2,8 @@
 
 - pre-sum 相关的题目可以考虑一下几个方法
 
-1. pre-fix sum 的性质 subarray sum index from i to j
-   prefix_sum[j+1] - prefix_sum[i]
+1. prefix sum 的性质 subarray sum index from i to j
+   prefix_sum[j] - prefix_sum[i-1]
    加入一个 dummy 初始 prefix_sum[0] = 0
 2. max subarray sum - dp 的方法，继承，另起炉灶
 3. 双指针 (num > 0)
@@ -20,3 +20,8 @@
 [Leetcode 1878 Get Biggest Three Rhombus Sums in a Grid (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1878_get_biggest_three_rhombus_sums_in_a_grid.py)
 
 [Lintcode 138 Subarray Sum (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/lintcode_0138_subarray_sum.py)
+
+
+- prefix 考虑subarray or substring求区间内的性质，可以考虑prefix + hash
+
+
