@@ -26,4 +26,5 @@
 
 - prefix 考虑subarray or substring求区间内的性质，可以考虑prefix + hash
 
+[Leetcode 1371 Find the Longest Substring Containing Vowels in Even Counts (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1371_find_the_longest_substring_containing_vowels_in_even_counts.py)
 
