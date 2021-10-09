@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[10/09/2021 Leetcode 930 Binary Subarrays With Sum (M) Prefix + Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0930_binary_subarrays_with_sum.py)\
 [10/08/2021 Leetcode 1371 Find the Longest Substring Containing Vowels in Even Counts (M) Prefix + Hash + State Compression](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1371_find_the_longest_substring_containing_vowels_in_even_counts.py)\
 [10/07/2021 Leetcode 2025 Maximum Number of Ways to Partition an Array (H) Prefix + Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_2025_maximum_number_of_ways_to_partition_an_array.py)\
 [10/06/2021 Leetcode 424 Longest Repeating Character Replacement (M) Two Pointers + Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0424_longest_repeating_character_replacement.py)\
