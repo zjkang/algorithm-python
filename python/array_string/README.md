@@ -19,7 +19,8 @@
 [Leetcode 424 Longest Repeating Character Replacement (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0424_longest_repeating_character_replacement.py)\
 [Leetcode 1004 Max Consecutive Ones III (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1004_max_consecutive_ones_iii.py)\
 [Leetcode 1248 Count Number of Nice Subarrays (M)
-](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1248_count_number_of_nice_subarrays.py)
+](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1248_count_number_of_nice_subarrays.py)\
+[Leetcode 2024 Maximize the Confusion of an Exam (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_2024_maximize_the_confusion_of_an_exam.py)
 
 ##### Two pointers & Two Pass
 
