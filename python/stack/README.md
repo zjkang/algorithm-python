@@ -4,8 +4,10 @@
 
 ##### `单调栈 monotonous stack`
 
-[Leetcode 862 Shortest Subarray with Sum at Least K (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0862_shortest_subarray_with_sum%20at_least_k.py)\
 [Leetcode 84 Largest Rectangle in Histogram (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0084_largest_rectangle_in_histogram.py)\
+[Leetcode 862 Shortest Subarray with Sum at Least K (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0862_shortest_subarray_with_sum%20at_least_k.py)\
+[Leetcode 1081 Smallest Subsequence of Distinct Characters (M)
+](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1081_smallest_subsequence_of_distinct_characters.py)\
 [Leetcode 1996 The Number of Weak Characters in the Game (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1996_the_number_of_weak_characters_in_the_game.py)
 
 ##### `计算器+-*/() stack`
