@@ -2,6 +2,7 @@
 
 [10/13/2021 Leetcode 1081 Smallest Subsequence of Distinct Characters (M) Mono Stack + Greedy
 ](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1081_smallest_subsequence_of_distinct_characters.py)\
+[10/12/2021 Leetcode 316 Remove Duplicate Letters (M) Mono Stack + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0316_remove_duplicate_letters.py)\
 [10/10/2021 Leetcode 1542 Find Longest Awesome Substring (H) Prefix + Hash + State Compression](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1542_find_longest_awesome_substring.py)\
 [10/09/2021 Leetcode 930 Binary Subarrays With Sum (M) Prefix + Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0930_binary_subarrays_with_sum.py)\
 [10/08/2021 Leetcode 1371 Find the Longest Substring Containing Vowels in Even Counts (M) Prefix + Hash + State Compression](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1371_find_the_longest_substring_containing_vowels_in_even_counts.py)\
