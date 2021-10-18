@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[10/17/2021 Leetcode 296 Best Meeting Point (H) Math + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_0296_best_meeting_point.py)\
 [10/13/2021 Leetcode 1081 Smallest Subsequence of Distinct Characters (M) Mono Stack + Greedy
 ](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1081_smallest_subsequence_of_distinct_characters.py)\
 [10/12/2021 Leetcode 316 Remove Duplicate Letters (M) Mono Stack + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0316_remove_duplicate_letters.py)\
