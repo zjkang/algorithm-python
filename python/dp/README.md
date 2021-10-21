@@ -27,6 +27,11 @@
 [Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [Leetcode 1751 Maximum Number of Events That Can Be Attended II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1751_maximum_number_of_events_that_can_be_attended_ii.py)
 
+##### 区间第一类型的dp
+
+[Leetcode 1478 Allocate Mailboxes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1478_allocate_mailboxes.py)
+
+
 ##### LIS (longest increasing subsequence)
 
 [Leetcode 300 Longest Increasing Subsequence (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0300_longest_increasing_subsequence.py)\
