@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[10/21/2021 Leetcode 1755 Closest Subsequence Sum (H) DFS + BS](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
 [10/20/2021 Leetcode 1478 Allocate Mailboxes (H)区间dp + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1478_allocate_mailboxes.py)\
 [10/18/2021 Leetcode 2033 Minimum Operations to Make a Uni-Value Grid (M) Math + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_2033_minimum_operations_to_make_a_uni-value_grid.py)\
 [10/17/2021 Leetcode 296 Best Meeting Point (H) Math + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_0296_best_meeting_point.py)\
