@@ -3,7 +3,7 @@
 author: Zhengjian Kang
 date: 02/11/2021
 
-残酷群每日一题: 02/11/2021
+残酷群每日一题: 02/11/2021, 10/21/2021
 
 https://leetcode.com/problems/closest-subsequence-sum/
 1755. Closest Subsequence Sum
