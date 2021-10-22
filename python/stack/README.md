@@ -10,6 +10,7 @@
 [Leetcode 862 Shortest Subarray with Sum at Least K (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0862_shortest_subarray_with_sum%20at_least_k.py)\
 [Leetcode 1081 Smallest Subsequence of Distinct Characters (M)
 ](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1081_smallest_subsequence_of_distinct_characters.py)\
+[Leetcode 1673 Find the Most Competitive Subsequence (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1673_find_the_most_competitive_subsequence.py)\
 [Leetcode 1996 The Number of Weak Characters in the Game (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1996_the_number_of_weak_characters_in_the_game.py)
 
 ##### `计算器+-*/() stack`
