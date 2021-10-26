@@ -1,6 +1,7 @@
 #### 残酷群每天打卡
 
 [10/25/2021 Leetcode 719 Find K-th Smallest Pair Distance (H) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)\
+[10/24/2021 Leetcode 373. Find K Pairs with Smallest Sums (M) Binary Search + Heap](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0373_find_k_pairs_with_smallest_sums.py)\
 [10/21/2021 Leetcode 1755 Closest Subsequence Sum (H) DFS + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
 [10/20/2021 Leetcode 1478 Allocate Mailboxes (H)区间dp + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1478_allocate_mailboxes.py)\
 [10/18/2021 Leetcode 2033 Minimum Operations to Make a Uni-Value Grid (M) Math + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_2033_minimum_operations_to_make_a_uni-value_grid.py)\
