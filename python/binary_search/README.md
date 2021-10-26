@@ -8,3 +8,7 @@
 
 [Leetcode 1060 Missing Element in Sorted Array (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1060_missing_element_in_sorted_array.py)\
 [Leetcode 1539 Kth Missing Positive Number (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1539_kth_missing_positive_number.py)
+
+##### `binary search by value`
+
+[Leetcode 719 Find K-th Smallest Pair Distance (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)
