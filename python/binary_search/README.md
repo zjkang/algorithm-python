@@ -12,4 +12,6 @@
 ##### `binary search by value`
 
 [Leetcode 373. Find K Pairs with Smallest Sums (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0373_find_k_pairs_with_smallest_sums.py)\
-[Leetcode 719 Find K-th Smallest Pair Distance (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)
+[Leetcode 719 Find K-th Smallest Pair Distance (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)\
+[Leetcode 1918 Kth Smallest Subarray Sum
+ (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1918_kth_smallest_subarray_sum.py)
