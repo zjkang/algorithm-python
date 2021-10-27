@@ -1,5 +1,7 @@
 #### 残酷群每天打卡
 
+[10/26/2021 Leetcode 1918 Kth Smallest Subarray Sum
+ (M) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1918_kth_smallest_subarray_sum.py)\
 [10/25/2021 Leetcode 719 Find K-th Smallest Pair Distance (H) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)\
 [10/24/2021 Leetcode 373 Find K Pairs with Smallest Sums (M) Binary Search + Heap](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0373_find_k_pairs_with_smallest_sums.py)\
 [10/21/2021 Leetcode 1755 Closest Subsequence Sum (H) DFS + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
