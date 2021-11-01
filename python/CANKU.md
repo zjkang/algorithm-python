@@ -1,5 +1,10 @@
 #### 残酷群每天打卡
 
+
+[11/01/2021 Leetcode 543 Diameter of Binary Tree (E) Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0543_diameter_of_binary_tree_easy_frq55.py)
+
+---
+
 [10/26/2021 Leetcode 1918 Kth Smallest Subarray Sum
  (M) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1918_kth_smallest_subarray_sum.py)\
 [10/25/2021 Leetcode 719 Find K-th Smallest Pair Distance (H) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)\
