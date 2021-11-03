@@ -20,6 +20,7 @@
 [Leetcode 572 Subtree of Another Tree (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0572_subtree_of_another_tree_easy_frq25.py)\
 [Leetcode 652 Find Duplicate Subtrees](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0652_find_duplicate_subtrees_medium_frq10.py)\
 [Leetcode 666 Path Sum IV](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0666_path_sum_iv_medium_frq1.py)\
+[Leetcode 687 Longest Univalue Path (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0687_longest_univalue_path.py)\
 [Leetcode 951 Flip Equivalent Binary Trees](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0951_flip_equivalent_binary_trees_medium_frq20.py)\
 [Leetcode 1110 Delete Nodes and Return Forest](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1110_delete_nodes_and_return_forest_medium_frq20.py)\
 [Leetcode 1245 Tree Diameter](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_1245_tree_diameter_medium.py)\
