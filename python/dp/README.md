@@ -12,7 +12,9 @@
 [Leetcode 1774 Closest Dessert Cost (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1774_closest_dessert_cost.py)\
 [Leetcode 1787 Make the XOR of All Segments Equal to Zero (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1787_make_the_xor_of_all_segments_equal_to_zero.py)
 
-##### Intervals (区间 dp)
+#### 序列型dp
+
+##### Intervals (序列dp)
 
 - `interval 的题目一般需要排序:`
 
@@ -27,10 +29,6 @@
 [Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [Leetcode 1751 Maximum Number of Events That Can Be Attended II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1751_maximum_number_of_events_that_can_be_attended_ii.py)
 
-##### 区间第一类型的dp
-
-[Leetcode 1478 Allocate Mailboxes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1478_allocate_mailboxes.py)
-
 
 ##### LIS (longest increasing subsequence)
 
@@ -42,4 +40,9 @@
 [Leetcode 1671 Minimum Number of Removals to Make Mountain Array (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1671_minimum_number_of_removals_to_make_mountain_array.py)\
 [Leetcode 1713 Minimum Operations to Make a Subsequence (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1713_minimum_operations_to_make_a_subsequence.py)\
 [Leetcode 1964 Find the Longest Valid Obstacle Course at Each Position (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1964_find_the_longest_valid_obstacle_course_at_each_position.py)
+
+
+#### 区间第一类型的dp
+
+[Leetcode 1478 Allocate Mailboxes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1478_allocate_mailboxes.py)
 
