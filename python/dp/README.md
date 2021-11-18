@@ -29,7 +29,8 @@ dp可以分为序列型dp,区间第一类型dp,区间第二类型dp,背包问题
 2. interval dp
 
 [Leetcode 1235 Maximum Profit in Job Scheduling (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
-[Leetcode 1751 Maximum Number of Events That Can Be Attended II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1751_maximum_number_of_events_that_can_be_attended_ii.py)
+[Leetcode 1751 Maximum Number of Events That Can Be Attended II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1751_maximum_number_of_events_that_can_be_attended_ii.py)\
+[Leetcode 2054 Two Best Non-Overlapping Events (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2054_two_best_non-overlapping_events.py)
 
 
 ##### LIS (longest increasing subsequence)
