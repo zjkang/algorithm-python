@@ -1,6 +1,6 @@
 #### 残酷群每天打卡
 
-[11/17/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP + Binary Search]\
+[11/17/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [11/02/2021 Leetcode 687 Longest Univalue Path (E) Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0687_longest_univalue_path.py)\
 [11/01/2021 Leetcode 543 Diameter of Binary Tree (E) Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0543_diameter_of_binary_tree_easy_frq55.py)
 
