@@ -3,11 +3,13 @@
 author: Zhengjian Kang
 date: 01/18/2021
 
-残酷群每日一题: 01/09/2021
+残酷群每日一题: 01/09/2021, 11/17/2021
 
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 
 1235. Maximum Profit in Job Scheduling
+
+note: sort by end times, binary search + dp
 
 We have n jobs, where every job is scheduled to be done from startTime[i] to
 endTime[i], obtaining a profit of profit[i].
@@ -69,3 +71,28 @@ class Solution:
         if jobs[start][1] <= cur:
             return start
         return -1
+
+    
+# ---------------------------------
+# use bisect.bisect_right
+class Solution:
+    def jobScheduling(self, startTime: List[int], endTime: List[int], profit: List[int]) -> int:
+        n = len(startTime)
+        jobs = []
+        for i in range(n):
+            jobs.append((startTime[i], endTime[i], profit[i]))
+        # sort based on end time
+        jobs.sort(key=lambda x: x[1])
+        end_time_jobs = [job[1] for job in jobs]
+        # dp[i]: the most profit for first i jobs
+        # dp[i] = max(dp[i-1], profit[i] + dp[j] max j <= start[i])
+        dp = [0] * n
+        dp[0] = jobs[0][2]
+        for i in range(1, n):
+            cur = bisect.bisect_right(end_time_jobs, jobs[i][0])
+            dp[i] = dp[i-1]
+            if cur > 0:
+                dp[i] = max(dp[i], jobs[i][2] + dp[cur-1])
+            else:
+                dp[i] = max(dp[i], jobs[i][2])
+        return dp[-1]
