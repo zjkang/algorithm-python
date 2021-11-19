@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[11/18/2021 Leetcode 2008. Maximum Earnings From Taxi (M) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2008_maximum_earnings_from_taxi.py)\
 [11/17/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [11/16/2021 Leetcode 2054 Two Best Non-Overlapping Events (M) Interval + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2054_two_best_non-overlapping_events.py)\
 [11/02/2021 Leetcode 687 Longest Univalue Path (E) Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0687_longest_univalue_path.py)\
