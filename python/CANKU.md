@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+ [Leetcode 2064 Minimized Maximum of Products Distributed to Any Store (M) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_2064_minimized_maximum_of_products_distributed_to_any_store.py)\
 [11/18/2021 Leetcode 2008. Maximum Earnings From Taxi (M) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2008_maximum_earnings_from_taxi.py)\
 [11/17/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
 [11/16/2021 Leetcode 2054 Two Best Non-Overlapping Events (M) Interval + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2054_two_best_non-overlapping_events.py)\
