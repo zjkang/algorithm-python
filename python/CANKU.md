@@ -1,5 +1,6 @@
 #### 残酷群每天打卡
 
+[11/30/2021 Leetcode 2069 Walking Robot Simulation II (M) Simulation](https://github.com/zjkang/ds_algorithm/blob/main/python/simulation/leetcode_2069_walking_robot_simulation_ii.py)\
  [11/23/2021 Leetcode 2064 Minimized Maximum of Products Distributed to Any Store (M) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_2064_minimized_maximum_of_products_distributed_to_any_store.py)\
 [11/18/2021 Leetcode 2008. Maximum Earnings From Taxi (M) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2008_maximum_earnings_from_taxi.py)\
 [11/17/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
