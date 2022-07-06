@@ -1,3 +1,9 @@
+# jiuzhang template
+# left + 1 < right
+# defer the final result to the extra comparison for left & right
+
+
+
 # 群主建议模板，和left + 1 < right相比，减少2次left,right最后的额外判断
 
 left, right = 0, sys.maxsize
