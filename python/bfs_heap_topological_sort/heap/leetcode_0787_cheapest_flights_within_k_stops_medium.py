@@ -64,7 +64,7 @@ class Solution:
             if city == dst:
                 return weight
             dequeued.add((city, stop))
-            if stop < K + 1:
+            if stop < K + 1: # stop <= K
                 for n_dst, n_weight in graph[city]:
                     if (n_dst, stop) in dequeued:
                         continue
