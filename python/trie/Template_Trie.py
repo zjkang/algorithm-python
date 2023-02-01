@@ -9,8 +9,8 @@ def add_word(root, word):
         if word[i] not in root.children:
             root.children[word[i]] = TrieNode()
         root = root.children[word[i]]
-        if i == len(word) - 1:
-            root.leaf = True
+        #if i == len(word) - 1:
+    root.leaf = True
 
 def build_trie(words):
     root = TrieNode()
