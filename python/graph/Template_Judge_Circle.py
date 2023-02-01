@@ -2,6 +2,8 @@
 #visited[numNodes]: List[Boolean]
 #next: List[List[int]] 
 
+# directional graph
+
 def main():
   # prepare next; // next[i][j]: there is a directional path i->j
   
