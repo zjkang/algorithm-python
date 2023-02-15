@@ -85,3 +85,20 @@ def bfs():
         count += 1
   
   return count == numNodes
+
+
+# undirected graph
+visited = defaultdict(int) # 0 not visited, 1 visiting, 2 visited
+def is_cycle(node, parent):
+    # print(node, parent)
+    if visited[node] == 1:
+        return True
+    if visited[node] == 2:
+        return False
+    visited[node] = 1
+    for nei in graph[node]:
+        if nei == parent:
+            continue
+        if is_cycle(nei, node):
+            return True
+    visited[node] = 2
