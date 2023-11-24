@@ -31,38 +31,33 @@ The answer is guaranteed to fit in a 32-bit integer.
 
 class Solution:
     def calculate(self, s: str) -> int:
-        stack = []
-        sign_stack = []
-        sign = 1
-        i = 0
-        while i < len(s):
-            if s[i] == ' ':
-                i += 1
-                continue
-            if s[i].isdigit():
-                num = 0
-                while i < len(s) and s[i].isdigit():
-                    num = num * 10 + int(s[i])
-                    i += 1
-                i -= 1
-                num = num * sign
-                if sign_stack:
-                    new_sign = 1 if stack[-1]*num > 0 else -1
-                    if sign_stack[-1]=='*':
-                        num = stack[-1]*num
-                    else:
-                        # note: -3/2==-2
-                        num = new_sign * (abs(stack[-1])//abs(num))
-                    stack.pop()
-                    sign_stack.pop()
-                stack.append(num)
-            if s[i] == '+':
-                sign = 1
-            elif s[i] == '-':
-                sign = -1
-            elif s[i] == '*' or s[i] == '/':
-                sign = 1
-                sign_stack.append(s[i])
-            i += 1
+        s = s + '+' # enable handle with last operator
         
+        stack = [] # nums
+        sign = '+' # previous sign
+        cur_num = 0
+
+        index = 0
+        while index < len(s):
+            if s[index] == ' ':
+                index += 1
+                continue
+            if s[index].isdigit():
+                cur_num = cur_num * 10 + ord(s[index]) - ord('0')
+                index += 1
+                continue
+
+            if sign == '+':
+                stack.append(cur_num)
+            elif sign == '-':
+                stack.append(-cur_num)
+            elif sign == '*':
+                stack.append(stack.pop() * cur_num)
+            elif sign == '/':
+                stack.append(int(stack.pop() / cur_num))
+
+            sign = s[index]
+            cur_num = 0
+            index += 1
+
         return sum(stack)

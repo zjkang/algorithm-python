@@ -63,10 +63,11 @@ class Solution:
             weight, stop, city = heapq.heappop(queue)
             if city == dst:
                 return weight
+            if (city, stop) in dequeued: continue
             dequeued.add((city, stop))
-            if stop < K + 1:
+            if stop < K + 1: # stop <= K
                 for n_dst, n_weight in graph[city]:
-                    if (n_dst, stop) in dequeued:
+                    if (n_dst, stop+1) in dequeued:
                         continue
                     heapq.heappush(queue, (weight+n_weight, stop+1, n_dst))
         return -1

@@ -1,5 +1,79 @@
 #### 残酷群每天打卡
 
+[11/30/2021 Leetcode 2069 Walking Robot Simulation II (M) Simulation](https://github.com/zjkang/ds_algorithm/blob/main/python/simulation/leetcode_2069_walking_robot_simulation_ii.py)\
+ [11/23/2021 Leetcode 2064 Minimized Maximum of Products Distributed to Any Store (M) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_2064_minimized_maximum_of_products_distributed_to_any_store.py)\
+[11/18/2021 Leetcode 2008. Maximum Earnings From Taxi (M) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2008_maximum_earnings_from_taxi.py)\
+[11/17/2021 Leetcode 1235 Maximum Profit in Job Scheduling (H) Interval + DP + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1235_maximum_profit_in_job_scheduling.py)\
+[11/16/2021 Leetcode 2054 Two Best Non-Overlapping Events (M) Interval + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_2054_two_best_non-overlapping_events.py)\
+[11/02/2021 Leetcode 687 Longest Univalue Path (E) Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0687_longest_univalue_path.py)\
+[11/01/2021 Leetcode 543 Diameter of Binary Tree (E) Tree](https://github.com/zjkang/ds_algorithm/blob/main/python/tree_bst/basic/leetcode_0543_diameter_of_binary_tree_easy_frq55.py)
+
+---
+
+[10/26/2021 Leetcode 1918 Kth Smallest Subarray Sum
+ (M) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_1918_kth_smallest_subarray_sum.py)\
+[10/25/2021 Leetcode 719 Find K-th Smallest Pair Distance (H) Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0719_find_k-th_smallest_pair_distance.py)\
+[10/24/2021 Leetcode 373 Find K Pairs with Smallest Sums (M) Binary Search + Heap](https://github.com/zjkang/ds_algorithm/blob/main/python/binary_search/leetcode_0373_find_k_pairs_with_smallest_sums.py)\
+[10/21/2021 Leetcode 1755 Closest Subsequence Sum (H) DFS + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
+[10/20/2021 Leetcode 1478 Allocate Mailboxes (H)区间dp + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1478_allocate_mailboxes.py)\
+[10/18/2021 Leetcode 2033 Minimum Operations to Make a Uni-Value Grid (M) Math + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_2033_minimum_operations_to_make_a_uni-value_grid.py)\
+[10/17/2021 Leetcode 296 Best Meeting Point (H) Math + Distance](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_0296_best_meeting_point.py)\
+[10/15/2021 Leetcode 1673 Find the Most Competitive Subsequence (M) Mono Stack + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1673_find_the_most_competitive_subsequence.py)\
+[10/14/2021 Leetcode 402 Remove K Digits (M) Mono Stack + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0402_remove_k_digits.py)\
+[10/13/2021 Leetcode 1081 Smallest Subsequence of Distinct Characters (M) Mono Stack + Greedy
+](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1081_smallest_subsequence_of_distinct_characters.py)\
+[10/12/2021 Leetcode 316 Remove Duplicate Letters (M) Mono Stack + Greedy](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_0316_remove_duplicate_letters.py)\
+[10/11/2021 Leetcode 2029 Stone Game IX (M) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/others/leetcode_2029_stone_game_ix.py)\
+[10/10/2021 Leetcode 1542 Find Longest Awesome Substring (H) Prefix + Hash + State Compression](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1542_find_longest_awesome_substring.py)\
+[10/09/2021 Leetcode 930 Binary Subarrays With Sum (M) Prefix + Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_0930_binary_subarrays_with_sum.py)\
+[10/08/2021 Leetcode 1371 Find the Longest Substring Containing Vowels in Even Counts (M) Prefix + Hash + State Compression](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1371_find_the_longest_substring_containing_vowels_in_even_counts.py)\
+[10/07/2021 Leetcode 2025 Maximum Number of Ways to Partition an Array (H) Prefix + Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_2025_maximum_number_of_ways_to_partition_an_array.py)\
+[10/06/2021 Leetcode 424 Longest Repeating Character Replacement (M) Two Pointers + Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0424_longest_repeating_character_replacement.py)\
+[10/05/2021 Leetcode 2024 Maximize the Confusion of an Exam (M) Two Pointers + Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_2024_maximize_the_confusion_of_an_exam.py)\
+[10/04/2021 Leetcode 1004 Max Consecutive Ones III (M) Two Pointers + Sliding Window](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1004_max_consecutive_ones_iii.py)\
+[10/03/2021 Leetcode 679 24 Game (H) Recursion](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0679_24_game.py)\
+[10/02/2021 Leetcode 2019 The Score of Students Solving Math Expression (H) Recursion + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_2019_the_score_of_students_solving_math_expression.py)\
+[10/01/2021 Leetcode 241 Different Ways to Add Parentheses (M) Recursion](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0241_different_ways_to_add_parentheses.py)
+
+---
+
+[09/27/2021 Leetcode 2013 Detect Squares (M) Enumeration](https://github.com/zjkang/ds_algorithm/blob/main/python/others/enumeration/leetcode_2013_detect_squares.py)\
+[09/10/2021 Leetcode 1996 The Number of Weak Characters in the Game (M) Sort + Stack](https://github.com/zjkang/ds_algorithm/blob/main/python/stack/leetcode_1996_the_number_of_weak_characters_in_the_game.py)
+
+---
+
+[08/25/2021 Leetcode 1970 Last Day Where You Can Still Cross (H) Union Find](https://github.com/zjkang/ds_algorithm/blob/main/python/union_find/leetcode_1970_last_day_where_you_can_still_cross.py)\
+[08/23/2021 Leetcode 354 Russian Doll Envelopes (H) DP + LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0354_russian_doll_envelopes.py)\
+[08/21/2021 Leetcode 1964 Find the Longest Valid Obstacle Course at Each Position (H) Greedy + DP + LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1964_find_the_longest_valid_obstacle_course_at_each_position.py)\
+[08/20/2021 Leetcode 300 Longest Increasing Subsequence (M) Greedy + DP + LIS](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0300_longest_increasing_subsequence.py)\
+[08/18/2021 Leetcode 1105 Filling Bookcase Shelves (M) DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_1105_filling_bookcase_shelves.py)\
+[08/16/2021 Leetcode 678 Valid Parenthesis String (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_0678_valid_parenthesis_string.py)\
+[08/15/2021 Leetcode 1541 Minimum Insertions to Balance a Parentheses String (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1541_minimum_insertions_to_balance_a_parentheses_string.py)\
+[08/14/2021 Leetcode 1249 Minimum Remove to Make Valid Parentheses (M) Greedy + Stack + Parenthese](https://github.com/zjkang/ds_algorithm/blob/main/python/greedy/leetcode_1249_minimum_remove_to_make_valid_parentheses.py)
+
+---
+
+[07/09/2021 Leetcode 1698 Number of Distinct Substrings in a String (M) Rolling Hash](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1698_number_of_distinct_substrings_in_a_string.py)\
+[07/08/2021 Leetcode 1923 Longest Common Subpath (H) Rolling Hash + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1923_longest_common_subpath.py)\
+[07/06/2021 Leetcode 1044 Longest Duplicate Substring
+ (H) Rolling Hash + Binary Search](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1044_longest_duplicate_substring.py)\
+[07/03/2021 Leetcode 1371 Find the Longest Substring Containing Vowels in Even Counts (M) Prefix + Hash + State](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1371_find_the_longest_substring_containing_vowels_in_even_counts.py)\
+[07/02/2021 Leetcode 1542 Find Longest Awesome Substring (H) Prefix + Hash + State](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1542_find_longest_awesome_substring.py)\
+[07/01/2021 Leetcode 1915 Number of Wonderful Substrings (M) Prefix + Hash + State](https://github.com/zjkang/ds_algorithm/blob/main/python/hash_table/leetcode_1915_number_of_wonderful_substrings.py)
+
+---
+
+[06/30/2021 Leetcode 1916 Count Ways to Build Rooms in an Ant Colony (H) DFS + Math](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1916_count_ways_to_build_rooms_in_an_ant_colony.py)\
+[06/27/2021 Leetcode 866 Prime Palindrome (M) Palindrom + Brute Force](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0866_prime_palindrome.py)\
+[06/26/2021 Leetcode 479 Largest Palindrome Product (H) Palindrome + Brute Force](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0479_largest_palindrome_product.py)\
+[06/25/2021 Leetcode 313 Super Ugly Number (M) DP + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0313_super_ugly_number.py)\
+[06/11/2021 Leetcode 502 IPO (H) Sort + PQ](https://github.com/zjkang/ds_algorithm/blob/main/python/bfs_heap_topological_sort/heap/leetcode_0502_IPO.py)\
+[06/02/2021 Leetcode 1878 Get Biggest Three Rhombus Sums in a Grid (M) PreSum](https://github.com/zjkang/ds_algorithm/blob/main/python/pre_sum/leetcode_1878_get_biggest_three_rhombus_sums_in_a_grid.py)\
+[06/01/2021 Leetcode 798 Smallest Rotation with Highest Score (H) Diff Array](https://github.com/zjkang/ds_algorithm/blob/main/python/interval/leetcode_0798_smallest_rotation_with_highest_score.py)
+
+---
+
+[05/21/2021 Leetcode 903 Valid Permutations for DI Sequence (H) DP](https://github.com/zjkang/ds_algorithm/blob/main/python/dp/leetcode_0903_valid_permutations_for_di_sequence.py)\
 [05/19/2021 Leetcode 1862 Sum of Floored Pairs (H) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/math/leetcode_1862_sum_of_floored_pairs.py)\
 [05/18/2021 Leetcode 1861 Rotating the Box (M) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1861_rotating_the_box.py)\
 [05/17/2021 Leetcode 48 Rotate Image (M) Others](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0048_rotate_image.py)\

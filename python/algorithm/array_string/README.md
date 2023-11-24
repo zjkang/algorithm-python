@@ -3,7 +3,9 @@
 [Leetcode 48 Rotate Image (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0048_rotate_image.py)\
 [Leetcode 228 Summary Ranges (E)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0228_summary_ranges_easy.py)\
 [Leetcode 456 132 Pattern (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0456_132_pattern_medium.py)\
+[Leetcode 479 Largest Palindrome Product (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0479_largest_palindrome_product.py)\
 [Leetcode 842 Split Array into Fibonacci Sequence (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0842_split_array_into_fibonacci_sequence.py)\
+[Leetcode 866 Prime Palindrome (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0866_prime_palindrome.py)\
 [Leetcode 948 Bags of Tokens (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0948_bags_of_tokens_medium.py)\
 [Leetcode 1754 Largest Merge Of Two Strings (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1754_largest_merge_of_two_strings.py)\
 [Leetcode 1861 Rotating the Box (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1861_rotating_the_box.py)
@@ -14,9 +16,11 @@
 [Leetcode 3 Longest Substring Without Repeating Characters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0003_longest_substring_without_repeating_characters.py)\
 [Leetcode 76 Minimum Window Substring (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0076_minimum_window_substring.py)\
 [Leetcode 340 Longest Substring with At Most K Distinct Characters (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0340_longest_substring_with_at_most_K_distinct_characters.py)\
+[Leetcode 424 Longest Repeating Character Replacement (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_0424_longest_repeating_character_replacement.py)\
 [Leetcode 1004 Max Consecutive Ones III (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1004_max_consecutive_ones_iii.py)\
 [Leetcode 1248 Count Number of Nice Subarrays (M)
-](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1248_count_number_of_nice_subarrays.py)
+](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_1248_count_number_of_nice_subarrays.py)\
+[Leetcode 2024 Maximize the Confusion of an Exam (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/array_string/leetcode_2024_maximize_the_confusion_of_an_exam.py)
 
 ##### Two pointers & Two Pass
 

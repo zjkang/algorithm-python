@@ -1,7 +1,13 @@
 '''
+author: Zhengjian Kang
+date: 10/04/2021
+
+残酷群每日一题: 10/04/2021
 1004. Max Consecutive Ones III
 
 https://leetcode.com/problems/max-consecutive-ones-iii/
+
+note: sliding window (two pointers), use the template
 
 Given a binary array nums and an integer k, 
 return the maximum number of consecutive 1's in the array if you can flip at most k 0's.

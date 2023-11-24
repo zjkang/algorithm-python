@@ -25,7 +25,8 @@
 [Leetcode 1728 Cat and Mouse II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1728_cat_and_mouse_ii.py)\
 [Leetcode 1755 Closest Subsequence Sum (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1755_closest_subsequence_sum.py)\
 [Leetcode 1766 Tree of Coprimes (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1766_tree_of_coprimes.py)\
-[Leetcode 1849 Splitting a String Into Descending Consecutive Values (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1849_splitting_a_string_into_descending_consecutive_values.py)
+[Leetcode 1849 Splitting a String Into Descending Consecutive Values (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1849_splitting_a_string_into_descending_consecutive_values.py)\
+[Leetcode 1916 Count Ways to Build Rooms in an Ant Colony (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_1916_count_ways_to_build_rooms_in_an_ant_colony.py)
 
 [Lintcode 15 Permutations (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0015_permutations.py)\
 [Lintcode 17 Subsets (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/lintcode_0017_subsets.py)\
@@ -37,3 +38,9 @@
 
 [Leetcode 0212 Word Search II (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0212_word_search_ii.py)\
 [Leetcode 0472 Concatenated Words (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0472_concatenated_words.py)
+
+##### `dfs + operator`
+
+[Leetcode 241 Different Ways to Add Parentheses (M)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0241_different_ways_to_add_parentheses.py)\
+[Leetcode 679 24 Game (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_0679_24_game.py)\
+[Leetcode 2019 The Score of Students Solving Math Expression (H)](https://github.com/zjkang/ds_algorithm/blob/main/python/dfs/leetcode_2019_the_score_of_students_solving_math_expression.py)

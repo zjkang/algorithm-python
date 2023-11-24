@@ -2,6 +2,8 @@
 #visited[numNodes]: List[Boolean]
 #next: List[List[int]] 
 
+# directional graph
+
 def main():
   # prepare next; // next[i][j]: there is a directional path i->j
   
@@ -9,7 +11,7 @@ def main():
   for i in range(numNodes):
     if not dfs(i):
       return False
-    return True
+  return True
   
   # top bfs 判断有环
   return bfs()
@@ -28,6 +30,36 @@ def dfs(cur):
     
     visited[cur] = 1
     return True
+
+# ------ is_cycle
+class Solution:
+    def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        if not prerequisites: return True
+
+        def build_graph(numCourses, prerequisites):
+            graph = {i: [] for i in range(numCourses)}
+            for u, v in prerequisites:
+                graph[v].append(u)
+            return graph
+        
+        def is_cycle(course, graph, visited):
+            if visited[course] == 1: return False
+            if visited[course] == 0: return True
+            visited[course] = 0
+            for i in graph[course]:
+                if is_cycle(i, graph, visited):
+                    return True
+            visited[course] = 1
+            return False
+            
+        graph = build_graph(numCourses, prerequisites)
+        # -1: not visit; 0: visiting; 1: visited
+        visited = [-1] * numCourses
+        for i in range(numCourses):
+            if visited[i] == -1 and is_cycle(i, graph, visited):
+                return False
+        return True
+# ----- is_cycle
 
 
 def bfs():
@@ -53,3 +85,20 @@ def bfs():
         count += 1
   
   return count == numNodes
+
+
+# undirected graph
+visited = defaultdict(int) # 0 not visited, 1 visiting, 2 visited
+def is_cycle(node, parent):
+    # print(node, parent)
+    if visited[node] == 1:
+        return True
+    if visited[node] == 2:
+        return False
+    visited[node] = 1
+    for nei in graph[node]:
+        if nei == parent:
+            continue
+        if is_cycle(nei, node):
+            return True
+    visited[node] = 2
